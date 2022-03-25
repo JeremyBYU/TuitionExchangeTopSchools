@@ -11,21 +11,22 @@ interface School {
 export async function parse_tuition_exchange(url: string): Promise<School[]> {
   const html = await axios.get(url);
   const dom = new JSDOM(html.data);
-  let data = dom.window.document.querySelectorAll("table")[0].textContent
+  const data = dom.window.document.querySelectorAll("table")[0].textContent
 
-  let cleaned = data.substr(data.indexOf("United Arab"))
-  let result = cleaned.split(/\r?\n/);
-  let schools: School[] = []
+  const cleaned = data.substr(data.indexOf("United Arab"))
+  const result = cleaned.split(/\r?\n/);
+  const schools: School[] = []
   let last_country = "";
-  for (let line of result) {
-    let trimmed_line = line.trim();
+  for (const line of result) {
+    const trimmed_line = line.trim();
     // skip blank lines
     if (trimmed_line == "")
       continue
     // determine how many tabs are on the line
     // if 2 or 0 tabs, this is just the country or state name
-    let regex_match = line.match(new RegExp("\t", "g")) // null if no match
-    let num_tabs = regex_match == null ? 0 : regex_match.length
+    // eslint-disable-next-line no-control-regex
+    const regex_match = line.match(new RegExp("\t", "g")) // null if no match
+    const num_tabs = regex_match == null ? 0 : regex_match.length
     if (num_tabs >= 2 || num_tabs == 0) {
       last_country = trimmed_line
       continue; // there is no school information on this line, skip
@@ -49,4 +50,11 @@ export async function parse_tuition_exchange(url: string): Promise<School[]> {
 
   return schools
 }
+
+export async function get_us_news_schools(url: string): Promise<School[]> {
+
+  return {};
+
+}
+
 
