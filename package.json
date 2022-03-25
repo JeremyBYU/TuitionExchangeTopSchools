@@ -8,6 +8,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "~16.11",
+    "@types/yargs": "^17.0.10",
     "@typescript-eslint/eslint-plugin": "~5.14",
     "@typescript-eslint/parser": "~5.14",
     "eslint": "~8.11",
@@ -18,6 +19,7 @@
     "typescript": "~4.6"
   },
   "scripts": {
+    "prestart": "npm run build || true",
     "start": "node build/src/index.js",
     "clean": "rimraf coverage build tmp",
     "build": "tsc -p tsconfig.json",
@@ -26,7 +28,10 @@
   },
   "dependencies": {
     "axios": "^0.26.1",
-    "jsdom": "^19.0.0"
+    "chalk": "^5.0.1",
+    "jsdom": "^19.0.0",
+    "ora": "^6.1.0",
+    "yargs": "^17.4.0"
   },
   "engines": {
     "node": ">= 16.13 <17"

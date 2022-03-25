@@ -1,21 +1,25 @@
 import axios from "axios"
 import jsdom from "jsdom"
+import ora from 'ora';
+import { USNewsInstitution } from "./types"
+
+
 const { JSDOM } = jsdom;
 
-interface School {
+interface TESchool {
   name: string;
   state_full: string;
   state_short: string;
 }
 
-export async function parse_tuition_exchange(url: string): Promise<School[]> {
+export async function scrape_tuition_exchange(url: string): Promise<TESchool[]> {
   const html = await axios.get(url);
   const dom = new JSDOM(html.data);
   const data = dom.window.document.querySelectorAll("table")[0].textContent
 
   const cleaned = data.substr(data.indexOf("United Arab"))
   const result = cleaned.split(/\r?\n/);
-  const schools: School[] = []
+  const schools: TESchool[] = []
   let last_country = "";
   for (const line of result) {
     const trimmed_line = line.trim();
@@ -31,7 +35,7 @@ export async function parse_tuition_exchange(url: string): Promise<School[]> {
       last_country = trimmed_line
       continue; // there is no school information on this line, skip
     }
-    // See if there is a -
+    // See if there is a -, hyphen is used to separate the school name from the state
     const line_split = line.split("-")
     if (line_split.length < 2) {
       // This is just the continuation of some line about a state if there is a parantheses, its not a school
@@ -41,6 +45,12 @@ export async function parse_tuition_exchange(url: string): Promise<School[]> {
     }
     else {
       try {
+        // sometimes the line has two hyphens. This is just a school name with a hyphen in it
+        if (line_split.length > 2)
+        {
+          line_split[0] = line_split[0].trim() + " " +  line_split[1].trim()
+          line_split[1] = line_split[2]
+        }
         schools.push({ name: line_split[0].trim(), state_short: line_split[1].trim(), state_full: last_country });
       } catch (error) {
         console.error(error, line);
@@ -51,9 +61,29 @@ export async function parse_tuition_exchange(url: string): Promise<School[]> {
   return schools
 }
 
-export async function get_us_news_schools(url: string): Promise<School[]> {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export async function scrape_usnews_all_schools(url: string): Promise<USNewsInstitution[]> {
+  const max_counter = 187 // 187
+  let all_items:USNewsInstitution[] = []
+  const ora_instance = ora("Scraping US News Schools").start()
+  for (let i = 1; i <= max_counter; i++) {
+    const new_url = url + i.toString()
+    try {
+      const response = await axios.get(new_url);
+      const items:USNewsInstitution[] = response.data.data.items
+      all_items = all_items.concat(items)
+    } catch (error) {
+      console.error(error.response.data);     // NOTE - use "error.response.data` (not "error")
+    }
+    finally
+    {
+      ora_instance.text = `Scraping US News Schools - Page ${i} of ${max_counter}`
+    }
 
-  return {};
+  }
+  ora_instance.stop();
+
+  return all_items;
 
 }
 

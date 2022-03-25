@@ -30,8 +30,8 @@
     "state_full": "Canada"
   },
   {
-    "name": "Birmingham",
-    "state_short": "Southern College",
+    "name": "Birmingham Southern College",
+    "state_short": "AL",
     "state_full": "Alabama"
   },
   {
@@ -380,8 +380,8 @@
     "state_full": "Florida"
   },
   {
-    "name": "Embry",
-    "state_short": "Riddle Aeronautical University",
+    "name": "Embry Riddle Aeronautical University",
+    "state_short": "FL",
     "state_full": "Florida"
   },
   {
@@ -510,8 +510,8 @@
     "state_full": "Georgia"
   },
   {
-    "name": "Truett",
-    "state_short": "McConnell University",
+    "name": "Truett McConnell University",
+    "state_short": "GA",
     "state_full": "Georgia"
   },
   {
@@ -731,7 +731,7 @@
   },
   {
     "name": "Grace College",
-    "state_short": "",
+    "state_short": "IN",
     "state_full": "Indiana"
   },
   {
@@ -770,13 +770,13 @@
     "state_full": "Indiana"
   },
   {
-    "name": "Rose",
-    "state_short": "Hulman Institute of Technology",
+    "name": "Rose Hulman Institute of Technology",
+    "state_short": "IN",
     "state_full": "Indiana"
   },
   {
-    "name": "Saint Mary",
-    "state_short": "of",
+    "name": "Saint Mary of",
+    "state_short": "the",
     "state_full": "Indiana"
   },
   {
@@ -935,8 +935,8 @@
     "state_full": "Kansas"
   },
   {
-    "name": "Cleveland University",
-    "state_short": "Kansas City",
+    "name": "Cleveland University Kansas City",
+    "state_short": "KS",
     "state_full": "Kansas"
   },
   {
@@ -1255,8 +1255,8 @@
     "state_full": "Massachusetts"
   },
   {
-    "name": "New England Law",
-    "state_short": "Boston",
+    "name": "New England Law Boston",
+    "state_short": "MA",
     "state_full": "Massachusetts"
   },
   {
@@ -1410,8 +1410,8 @@
     "state_full": "Minnesota"
   },
   {
-    "name": "Concordia University",
-    "state_short": "St. Paul",
+    "name": "Concordia University St. Paul",
+    "state_short": "MN",
     "state_full": "Minnesota"
   },
   {
@@ -1455,8 +1455,8 @@
     "state_full": "Minnesota"
   },
   {
-    "name": "University of Northwestern",
-    "state_short": "St. Paul",
+    "name": "University of Northwestern St. Paul",
+    "state_short": "MN",
     "state_full": "Minnesota"
   },
   {
@@ -1500,8 +1500,8 @@
     "state_full": "Missouri"
   },
   {
-    "name": "Culver",
-    "state_short": "Stockton College",
+    "name": "Culver Stockton College",
+    "state_short": "MO",
     "state_full": "Missouri"
   },
   {
@@ -1515,8 +1515,8 @@
     "state_full": "Missouri"
   },
   {
-    "name": "Hannibal",
-    "state_short": "LaGrange University",
+    "name": "Hannibal LaGrange University",
+    "state_short": "MO",
     "state_full": "Missouri"
   },
   {
@@ -1670,8 +1670,8 @@
     "state_full": "New Hampshire"
   },
   {
-    "name": "Colby",
-    "state_short": "Sawyer College",
+    "name": "Colby Sawyer College",
+    "state_short": "NH",
     "state_full": "New Hampshire"
   },
   {
@@ -1820,8 +1820,8 @@
     "state_full": "New York"
   },
   {
-    "name": "Concordia College",
-    "state_short": "NY",
+    "name": "Concordia College NY",
+    "state_short": "CLOSED",
     "state_full": "New York"
   },
   {
@@ -2120,8 +2120,8 @@
     "state_full": "North Carolina"
   },
   {
-    "name": "Gardner",
-    "state_short": "Webb University",
+    "name": "Gardner Webb University",
+    "state_short": "NC",
     "state_full": "North Carolina"
   },
   {
@@ -2145,13 +2145,13 @@
     "state_full": "North Carolina"
   },
   {
-    "name": "Lees",
-    "state_short": "McRae College",
+    "name": "Lees McRae College",
+    "state_short": "NC",
     "state_full": "North Carolina"
   },
   {
-    "name": "Lenoir",
-    "state_short": "Rhyne University",
+    "name": "Lenoir Rhyne University",
+    "state_short": "NC",
     "state_full": "North Carolina"
   },
   {
@@ -2170,8 +2170,8 @@
     "state_full": "North Carolina"
   },
   {
-    "name": "Mid",
-    "state_short": "Atlantic Christian University",
+    "name": "Mid Atlantic Christian University",
+    "state_short": "NC",
     "state_full": "North Carolina"
   },
   {
@@ -2940,8 +2940,8 @@
     "state_full": "Tennessee"
   },
   {
-    "name": "Carson",
-    "state_short": "Newman University",
+    "name": "Carson Newman University",
+    "state_short": "TN",
     "state_full": "Tennessee"
   },
   {
@@ -3035,8 +3035,8 @@
     "state_full": "Texas"
   },
   {
-    "name": "Hardin",
-    "state_short": "Simmons University",
+    "name": "Hardin Simmons University",
+    "state_short": "TX",
     "state_full": "Texas"
   },
   {
@@ -3110,8 +3110,8 @@
     "state_full": "Texas"
   },
   {
-    "name": "University of Mary Hardin",
-    "state_short": "Baylor",
+    "name": "University of Mary Hardin Baylor",
+    "state_short": "TX",
     "state_full": "Texas"
   },
   {
@@ -3200,8 +3200,8 @@
     "state_full": "Virginia"
   },
   {
-    "name": "Hampden",
-    "state_short": "Sydney College",
+    "name": "Hampden Sydney College",
+    "state_short": "VA",
     "state_full": "Virginia"
   },
   {
@@ -3225,8 +3225,8 @@
     "state_full": "Virginia"
   },
   {
-    "name": "Randolph",
-    "state_short": "Macon College",
+    "name": "Randolph Macon College",
+    "state_short": "VA",
     "state_full": "Virginia"
   },
   {
