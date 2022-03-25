@@ -1,5 +1,5 @@
-import * as axios from "axios"
-import * as jsdom from "jsdom"
+import axios from "axios"
+import jsdom from "jsdom"
 const { JSDOM } = jsdom;
 
 interface School {

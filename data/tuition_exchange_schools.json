@@ -1,1 +1,3397 @@
-[{"name":"American University Sharjah","state_short":"UAE","state_full":"United Arab Emirates"},{"name":"Franklin University Switzerland","state_short":"SW","state_full":"Switzerland"},{"name":"Al Akhawayn University in Ifrane","state_short":"MR","state_full":"Morocco"},{"name":"American College of Greece","state_short":"GR","state_full":"Greece"},{"name":"American College of Thessaloniki","state_short":"GR","state_full":"Greece"},{"name":"Trinity Western University","state_short":"Canada","state_full":"Canada"},{"name":"Birmingham","state_short":"Southern College","state_full":"Alabama"},{"name":"Huntingdon College","state_short":"AL","state_full":"Alabama"},{"name":"Samford University","state_short":"AL","state_full":"Alabama"},{"name":"Spring Hill College","state_short":"AL","state_full":"Alabama"},{"name":"Alaska Pacific University","state_short":"AK","state_full":"Alaska"},{"name":"Grand Canyon University","state_short":"AZ","state_full":"Arizona"},{"name":"Prescott College","state_short":"AZ","state_full":"Arizona"},{"name":"Harding University","state_short":"AR","state_full":"Arkansas"},{"name":"Hendrix College","state_short":"AR","state_full":"Arkansas"},{"name":"Lyon College","state_short":"AR","state_full":"Arkansas"},{"name":"Ouachita Baptist University","state_short":"AR","state_full":"Arkansas"},{"name":"University of the Ozarks","state_short":"AR","state_full":"Arkansas"},{"name":"Azusa Pacific University","state_short":"CA","state_full":"California"},{"name":"Biola University","state_short":"CA","state_full":"California"},{"name":"California Baptist University","state_short":"CA","state_full":"California"},{"name":"California College of the Arts","state_short":"CA","state_full":"California"},{"name":"California Institute of Integral Studies","state_short":"CA","state_full":"California"},{"name":"California Lutheran University","state_short":"CA","state_full":"California"},{"name":"Chapman University","state_short":"CA","state_full":"California"},{"name":"Concordia University","state_short":"CA","state_full":"California"},{"name":"Dominican University of California","state_short":"CA","state_full":"California"},{"name":"Franciscan School of Theology","state_short":"","state_full":"California"},{"name":"Fresno Pacific University","state_short":"CA","state_full":"California"},{"name":"Hope International University","state_short":"CA","state_full":"California"},{"name":"Loyola Marymount University","state_short":"CA","state_full":"California"},{"name":"Marymount California University","state_short":"CA","state_full":"California"},{"name":"Mills College","state_short":"CA","state_full":"California"},{"name":"Mount Saint Mary's University Los Angeles","state_short":"CA","state_full":"California"},{"name":"Notre Dame de Namur University","state_short":"CA","state_full":"California"},{"name":"Occidental College","state_short":"CA","state_full":"California"},{"name":"Pitzer College","state_short":"CA","state_full":"California"},{"name":"Saint Mary's College of California","state_short":"CA","state_full":"California"},{"name":"Santa Clara University","state_short":"CA","state_full":"California"},{"name":"Simpson University","state_short":"CA","state_full":"California"},{"name":"Southwestern Law School","state_short":"CA","state_full":"California"},{"name":"The Chicago School of Professional Psychology","state_short":"","state_full":"California"},{"name":"The Master's University","state_short":"CA","state_full":"California"},{"name":"University of La Verne","state_short":"CA","state_full":"California"},{"name":"University of Redlands","state_short":"CA","state_full":"California"},{"name":"University of San Diego","state_short":"CA","state_full":"California"},{"name":"University of San Francisco","state_short":"CA","state_full":"California"},{"name":"University of Southern California","state_short":"CA","state_full":"California"},{"name":"University of the Pacific","state_short":"CA","state_full":"California"},{"name":"Vanguard University","state_short":"CA","state_full":"California"},{"name":"Westmont College","state_short":"CA","state_full":"California"},{"name":"Whittier College","state_short":"CA","state_full":"California"},{"name":"William Jessup University","state_short":"CA","state_full":"California"},{"name":"Regis University","state_short":"CO","state_full":"Colorado"},{"name":"Western Colorado University","state_short":"CO","state_full":"Colorado"},{"name":"Connecticut College","state_short":"CT","state_full":"Connecticut"},{"name":"Fairfield University","state_short":"CT","state_full":"Connecticut"},{"name":"Goodwin College","state_short":"CT","state_full":"Connecticut"},{"name":"Mitchell College","state_short":"CT","state_full":"Connecticut"},{"name":"Post University","state_short":"CT","state_full":"Connecticut"},{"name":"Quinnipiac University","state_short":"CT","state_full":"Connecticut"},{"name":"Sacred Heart University","state_short":"CT","state_full":"Connecticut"},{"name":"Trinity College","state_short":"CT","state_full":"Connecticut"},{"name":"University of Bridgeport, The Inc","state_short":"","state_full":"Connecticut"},{"name":"University of Hartford","state_short":"CT","state_full":"Connecticut"},{"name":"University of New Haven","state_short":"CT","state_full":"Connecticut"},{"name":"University of Saint Joseph","state_short":"CT","state_full":"Connecticut"},{"name":"University of Delaware","state_short":"DE","state_full":"Delaware"},{"name":"Wilmington University","state_short":"DE","state_full":"Delaware"},{"name":"American University","state_short":"DC","state_full":"District of Columbia"},{"name":"Catholic University of America, The","state_short":"DC","state_full":"District of Columbia"},{"name":"George Washington University","state_short":"DC, The","state_full":"District of Columbia"},{"name":"Trinity Washington University","state_short":"DC","state_full":"District of Columbia"},{"name":"Ave Maria University","state_short":"FL","state_full":"Florida"},{"name":"Barry University","state_short":"FL","state_full":"Florida"},{"name":"Eckerd College","state_short":"FL","state_full":"Florida"},{"name":"Embry","state_short":"Riddle Aeronautical University","state_full":"Florida"},{"name":"Flagler College","state_short":"FL","state_full":"Florida"},{"name":"Florida Institute of Technology","state_short":"FL","state_full":"Florida"},{"name":"Florida Southern College","state_short":"FL","state_full":"Florida"},{"name":"Jacksonville University","state_short":"FL","state_full":"Florida"},{"name":"Lynn University","state_short":"FL","state_full":"Florida"},{"name":"New College of Florida","state_short":"FL","state_full":"Florida"},{"name":"Palm Beach Atlantic University","state_short":"FL","state_full":"Florida"},{"name":"Rollins College","state_short":"FL","state_full":"Florida"},{"name":"Saint Leo University","state_short":"FL","state_full":"Florida"},{"name":"St. Thomas University","state_short":"FL","state_full":"Florida"},{"name":"Stetson University","state_short":"FL","state_full":"Florida"},{"name":"University of Florida","state_short":"FL","state_full":"Florida"},{"name":"University of North Florida","state_short":"FL","state_full":"Florida"},{"name":"University of Tampa","state_short":"FL","state_full":"Florida"},{"name":"Agnes Scott College","state_short":"GA","state_full":"Georgia"},{"name":"Berry College","state_short":"GA","state_full":"Georgia"},{"name":"Brenau University","state_short":"GA","state_full":"Georgia"},{"name":"Covenant College","state_short":"GA","state_full":"Georgia"},{"name":"LaGrange College","state_short":"GA","state_full":"Georgia"},{"name":"Mercer University","state_short":"GA","state_full":"Georgia"},{"name":"Oglethorpe University","state_short":"GA","state_full":"Georgia"},{"name":"Piedmont University","state_short":"GA","state_full":"Georgia"},{"name":"Reinhardt University","state_short":"GA","state_full":"Georgia"},{"name":"Shorter University","state_short":"GA","state_full":"Georgia"},{"name":"Toccoa Falls College","state_short":"GA","state_full":"Georgia"},{"name":"Truett","state_short":"McConnell University","state_full":"Georgia"},{"name":"Wesleyan College","state_short":"GA","state_full":"Georgia"},{"name":"Young Harris College","state_short":"GA","state_full":"Georgia"},{"name":"Hawaii Pacific University","state_short":"HI","state_full":"Hawaii"},{"name":"College of Idaho (The)","state_short":"ID","state_full":"Idaho"},{"name":"Augustana College","state_short":"IL","state_full":"Illinois"},{"name":"Aurora University","state_short":"IL","state_full":"Illinois"},{"name":"Benedictine University","state_short":"IL","state_full":"Illinois"},{"name":"Blackburn College","state_short":"IL","state_full":"Illinois"},{"name":"Bradley University","state_short":"IL","state_full":"Illinois"},{"name":"Columbia College Chicago","state_short":"IL","state_full":"Illinois"},{"name":"Concordia University","state_short":"IL","state_full":"Illinois"},{"name":"DePaul University","state_short":"IL","state_full":"Illinois"},{"name":"Dominican University","state_short":"IL","state_full":"Illinois"},{"name":"Elmhurst University","state_short":"IL","state_full":"Illinois"},{"name":"Eureka College","state_short":"IL","state_full":"Illinois"},{"name":"Illinois College","state_short":"IL","state_full":"Illinois"},{"name":"Illinois Institute of Technology","state_short":"IL","state_full":"Illinois"},{"name":"Illinois Wesleyan University","state_short":"IL","state_full":"Illinois"},{"name":"Judson University","state_short":"IL","state_full":"Illinois"},{"name":"Knox College","state_short":"IL","state_full":"Illinois"},{"name":"Lewis University","state_short":"IL","state_full":"Illinois"},{"name":"Lincoln College","state_short":"IL","state_full":"Illinois"},{"name":"McKendree University","state_short":"IL","state_full":"Illinois"},{"name":"Methodist College","state_short":"IL","state_full":"Illinois"},{"name":"Millikin University","state_short":"IL","state_full":"Illinois"},{"name":"Monmouth College","state_short":"IL","state_full":"Illinois"},{"name":"National Louis University","state_short":"IL","state_full":"Illinois"},{"name":"North Central College","state_short":"IL","state_full":"Illinois"},{"name":"North Park University","state_short":"IL","state_full":"Illinois"},{"name":"Northern Baptist Theological Seminary","state_short":"IL","state_full":"Illinois"},{"name":"Oak Point University","state_short":"IL","state_full":"Illinois"},{"name":"Quincy University","state_short":"IL","state_full":"Illinois"},{"name":"Rockford University","state_short":"IL","state_full":"Illinois"},{"name":"Roosevelt University","state_short":"IL","state_full":"Illinois"},{"name":"Saint Xavier University","state_short":"IL","state_full":"Illinois"},{"name":"School of the Art Institute of Chicago","state_short":"IL","state_full":"Illinois"},{"name":"Trinity International University","state_short":"IL","state_full":"Illinois"},{"name":"University of St. Francis","state_short":"IL","state_full":"Illinois"},{"name":"Anderson University","state_short":"IN","state_full":"Indiana"},{"name":"Butler University","state_short":"IN","state_full":"Indiana"},{"name":"Calumet College of Saint Joseph","state_short":"IN","state_full":"Indiana"},{"name":"DePauw University","state_short":"IN","state_full":"Indiana"},{"name":"Franklin College","state_short":"IN","state_full":"Indiana"},{"name":"Grace College","state_short":"","state_full":"Indiana"},{"name":"Hanover College","state_short":"IN","state_full":"Indiana"},{"name":"Holy Cross College","state_short":"IN","state_full":"Indiana"},{"name":"Huntington University","state_short":"IN","state_full":"Indiana"},{"name":"Indiana Institute of Technology","state_short":"IN","state_full":"Indiana"},{"name":"Manchester University","state_short":"IN","state_full":"Indiana"},{"name":"Marian University","state_short":"IN","state_full":"Indiana"},{"name":"Oakland City University","state_short":"IN","state_full":"Indiana"},{"name":"Rose","state_short":"Hulman Institute of Technology","state_full":"Indiana"},{"name":"Saint Mary","state_short":"of","state_full":"Indiana"},{"name":"Saint Mary's College","state_short":"IN","state_full":"Indiana"},{"name":"Trine University","state_short":"IN","state_full":"Indiana"},{"name":"University of Evansville","state_short":"IN","state_full":"Indiana"},{"name":"University of Indianapolis","state_short":"IN","state_full":"Indiana"},{"name":"University of Saint Francis","state_short":"IN","state_full":"Indiana"},{"name":"Valparaiso University","state_short":"IN","state_full":"Indiana"},{"name":"Wabash College","state_short":"IN","state_full":"Indiana"},{"name":"Briar Cliff University","state_short":"IA","state_full":"Iowa"},{"name":"Buena Vista University","state_short":"IA","state_full":"Iowa"},{"name":"Central College","state_short":"IA","state_full":"Iowa"},{"name":"Clarke University","state_short":"IA","state_full":"Iowa"},{"name":"Coe College","state_short":"IA","state_full":"Iowa"},{"name":"Cornell College","state_short":"IA","state_full":"Iowa"},{"name":"Drake University","state_short":"IA","state_full":"Iowa"},{"name":"Graceland University","state_short":"IA","state_full":"Iowa"},{"name":"Grand View University","state_short":"IA","state_full":"Iowa"},{"name":"Iowa Wesleyan University","state_short":"IA","state_full":"Iowa"},{"name":"Loras College","state_short":"IA","state_full":"Iowa"},{"name":"Luther College","state_short":"IA","state_full":"Iowa"},{"name":"Mercy College of Health Sciences","state_short":"IA","state_full":"Iowa"},{"name":"Morningside College","state_short":"IA","state_full":"Iowa"},{"name":"Mount Mercy University","state_short":"IA","state_full":"Iowa"},{"name":"Simpson College","state_short":"IA","state_full":"Iowa"},{"name":"St. Ambrose University","state_short":"IA","state_full":"Iowa"},{"name":"University of Dubuque","state_short":"IA","state_full":"Iowa"},{"name":"Upper Iowa University","state_short":"IA","state_full":"Iowa"},{"name":"Wartburg College","state_short":"IA","state_full":"Iowa"},{"name":"William Penn University","state_short":"IA","state_full":"Iowa"},{"name":"Baker University","state_short":"KS","state_full":"Kansas"},{"name":"Benedictine College","state_short":"KS","state_full":"Kansas"},{"name":"Bethany College","state_short":"KS","state_full":"Kansas"},{"name":"Cleveland University","state_short":"Kansas City","state_full":"Kansas"},{"name":"Kansas Wesleyan University","state_short":"KS","state_full":"Kansas"},{"name":"Newman University","state_short":"KS","state_full":"Kansas"},{"name":"Ottawa University","state_short":"KS","state_full":"Kansas"},{"name":"Southwestern College","state_short":"KS","state_full":"Kansas"},{"name":"Bellarmine University","state_short":"KY","state_full":"Kentucky"},{"name":"Berea College","state_short":"KY","state_full":"Kentucky"},{"name":"Boyce College","state_short":"KY","state_full":"Kentucky"},{"name":"Brescia University","state_short":"KY","state_full":"Kentucky"},{"name":"Centre College","state_short":"KY","state_full":"Kentucky"},{"name":"Georgetown College","state_short":"KY","state_full":"Kentucky"},{"name":"Kentucky Wesleyan College","state_short":"KY","state_full":"Kentucky"},{"name":"Lindsey Wilson College","state_short":"KY","state_full":"Kentucky"},{"name":"Midway University","state_short":"KY","state_full":"Kentucky"},{"name":"Southern Baptist Theological Seminary","state_short":"KY","state_full":"Kentucky"},{"name":"Thomas More University","state_short":"KY","state_full":"Kentucky"},{"name":"Transylvania University","state_short":"KY","state_full":"Kentucky"},{"name":"Union College","state_short":"KY","state_full":"Kentucky"},{"name":"University of the Cumberlands, The","state_short":"KY","state_full":"Kentucky"},{"name":"Centenary College","state_short":"LA","state_full":"Louisiana"},{"name":"Dillard University","state_short":"LA","state_full":"Louisiana"},{"name":"Leavell College","state_short":"LA","state_full":"Louisiana"},{"name":"Louisiana Tech University","state_short":"LA","state_full":"Louisiana"},{"name":"Loyola University New Orleans","state_short":"LA","state_full":"Louisiana"},{"name":"New Orleans Baptist Theological Seminary","state_short":"LA","state_full":"Louisiana"},{"name":"Tulane University","state_short":"LA","state_full":"Louisiana"},{"name":"Maine College of Art","state_short":"ME","state_full":"Maine"},{"name":"Saint Joseph's College of Maine","state_short":"ME","state_full":"Maine"},{"name":"University of New England","state_short":"ME","state_full":"Maine"},{"name":"Goucher College","state_short":"MD","state_full":"Maryland"},{"name":"HBP","state_short":"","state_full":"Maryland"},{"name":"Hood College","state_short":"MD","state_full":"Maryland"},{"name":"Loyola University Maryland","state_short":"MD","state_full":"Maryland"},{"name":"Maryland Institute College of Art (MICA)","state_short":"MD","state_full":"Maryland"},{"name":"Maryland University of Integrative Health","state_short":"MD","state_full":"Maryland"},{"name":"McDaniel College","state_short":"MD","state_full":"Maryland"},{"name":"Mount Saint Mary's University","state_short":"MD","state_full":"Maryland"},{"name":"Notre Dame of Maryland University","state_short":"MD","state_full":"Maryland"},{"name":"St. John's College","state_short":"MD","state_full":"Maryland"},{"name":"St. Mary's College of Maryland","state_short":"MD","state_full":"Maryland"},{"name":"Stevenson University","state_short":"MD","state_full":"Maryland"},{"name":"Washington College","state_short":"MD","state_full":"Maryland"},{"name":"American International College","state_short":"MA","state_full":"Massachusetts"},{"name":"Anna Maria College","state_short":"MA","state_full":"Massachusetts"},{"name":"Assumption University","state_short":"MA","state_full":"Massachusetts"},{"name":"Bard College at Simon's Rock","state_short":"MA","state_full":"Massachusetts"},{"name":"Bay Path University","state_short":"MA","state_full":"Massachusetts"},{"name":"Bay State College","state_short":"","state_full":"Massachusetts"},{"name":"Boston University","state_short":"MA","state_full":"Massachusetts"},{"name":"Clark University","state_short":"MA","state_full":"Massachusetts"},{"name":"Curry College","state_short":"MA","state_full":"Massachusetts"},{"name":"Dean College","state_short":"MA","state_full":"Massachusetts"},{"name":"Elms College (College of our Lady of the Elms)","state_short":"MA","state_full":"Massachusetts"},{"name":"Emerson College","state_short":"MA","state_full":"Massachusetts"},{"name":"Emmanuel College","state_short":"MA","state_full":"Massachusetts"},{"name":"Endicott College","state_short":"MA","state_full":"Massachusetts"},{"name":"Fisher College","state_short":"MA","state_full":"Massachusetts"},{"name":"Hampshire College","state_short":"MA","state_full":"Massachusetts"},{"name":"Hellenic College Holy Cross","state_short":"MA","state_full":"Massachusetts"},{"name":"Laboure College","state_short":"MA","state_full":"Massachusetts"},{"name":"Lasell University","state_short":"MA","state_full":"Massachusetts"},{"name":"Lesley University","state_short":"MA","state_full":"Massachusetts"},{"name":"Merrimack College","state_short":"MA","state_full":"Massachusetts"},{"name":"Mount Holyoke College","state_short":"MA","state_full":"Massachusetts"},{"name":"New England Law","state_short":"Boston","state_full":"Massachusetts"},{"name":"Nichols College","state_short":"MA","state_full":"Massachusetts"},{"name":"Pine Manor College","state_short":"MA","state_full":"Massachusetts"},{"name":"Regis College","state_short":"MA","state_full":"Massachusetts"},{"name":"Simmons University","state_short":"MA","state_full":"Massachusetts"},{"name":"Springfield College","state_short":"MA","state_full":"Massachusetts"},{"name":"Stonehill College","state_short":"MA","state_full":"Massachusetts"},{"name":"Suffolk University","state_short":"MA","state_full":"Massachusetts"},{"name":"Wentworth Institute of Technology","state_short":"MA","state_full":"Massachusetts"},{"name":"Western New England University","state_short":"MA","state_full":"Massachusetts"},{"name":"Wheaton College","state_short":"MA","state_full":"Massachusetts"},{"name":"Worcester Polytechnic Institute","state_short":"MA","state_full":"Massachusetts"},{"name":"Adrian College","state_short":"MI","state_full":"Michigan"},{"name":"Albion College","state_short":"MI","state_full":"Michigan"},{"name":"Alma College","state_short":"MI","state_full":"Michigan"},{"name":"Aquinas College","state_short":"MI","state_full":"Michigan"},{"name":"Cleary University","state_short":"MI","state_full":"Michigan"},{"name":"Hillsdale College","state_short":"MI","state_full":"Michigan"},{"name":"Kalamazoo College","state_short":"MI","state_full":"Michigan"},{"name":"Kettering University","state_short":"MI","state_full":"Michigan"},{"name":"Madonna University","state_short":"MI","state_full":"Michigan"},{"name":"Northwood University","state_short":"MI","state_full":"Michigan"},{"name":"Olivet College","state_short":"MI","state_full":"Michigan"},{"name":"Walsh College","state_short":"MI","state_full":"Michigan"},{"name":"Wayne State University","state_short":"MI","state_full":"Michigan"},{"name":"Western Theological Seminary","state_short":"MI","state_full":"Michigan"},{"name":"Augsburg University","state_short":"MN","state_full":"Minnesota"},{"name":"Bethel University","state_short":"MN","state_full":"Minnesota"},{"name":"College of St. Benedict","state_short":"MN","state_full":"Minnesota"},{"name":"College of St. Scholastica","state_short":"MN","state_full":"Minnesota"},{"name":"Concordia College at Moorhead","state_short":"MN","state_full":"Minnesota"},{"name":"Concordia University","state_short":"St. Paul","state_full":"Minnesota"},{"name":"Gustavus Adolphus College","state_short":"MN","state_full":"Minnesota"},{"name":"Hamline University","state_short":"MN","state_full":"Minnesota"},{"name":"Luther Seminary","state_short":"MN","state_full":"Minnesota"},{"name":"Minneapolis College of Art & Design","state_short":"MN","state_full":"Minnesota"},{"name":"Mitchell Hamline School Of Law","state_short":"MN","state_full":"Minnesota"},{"name":"Saint  John's University","state_short":"MN","state_full":"Minnesota"},{"name":"Saint Mary's University of Minnesota","state_short":"MN","state_full":"Minnesota"},{"name":"St. Catherine University","state_short":"MN","state_full":"Minnesota"},{"name":"University of Northwestern","state_short":"St. Paul","state_full":"Minnesota"},{"name":"University of St. Thomas","state_short":"MN","state_full":"Minnesota"},{"name":"Belhaven University","state_short":"MS","state_full":"Mississippi"},{"name":"Millsaps College","state_short":"MS","state_full":"Mississippi"},{"name":"Mississippi College","state_short":"MS","state_full":"Mississippi"},{"name":"Avila University","state_short":"MO","state_full":"Missouri"},{"name":"Central Methodist University","state_short":"MO","state_full":"Missouri"},{"name":"Columbia College","state_short":"MO","state_full":"Missouri"},{"name":"Cottey College","state_short":"MO","state_full":"Missouri"},{"name":"Culver","state_short":"Stockton College","state_full":"Missouri"},{"name":"Drury University","state_short":"MO","state_full":"Missouri"},{"name":"Fontbonne University","state_short":"MO","state_full":"Missouri"},{"name":"Hannibal","state_short":"LaGrange University","state_full":"Missouri"},{"name":"Kansas City Art Institute","state_short":"MO","state_full":"Missouri"},{"name":"Lindenwood University","state_short":"MO","state_full":"Missouri"},{"name":"Logan University","state_short":"MO","state_full":"Missouri"},{"name":"Maryville University of St. Louis","state_short":"MO","state_full":"Missouri"},{"name":"Midwestern Baptist Theological Seminar","state_short":"MO","state_full":"Missouri"},{"name":"Missouri Baptist University","state_short":"MO","state_full":"Missouri"},{"name":"Park University","state_short":"MO","state_full":"Missouri"},{"name":"Rockhurst University","state_short":"MO","state_full":"Missouri"},{"name":"Saint Louis University","state_short":"MO","state_full":"Missouri"},{"name":"Southwest Baptist University","state_short":"MO","state_full":"Missouri"},{"name":"Spurgeon College","state_short":"MO","state_full":"Missouri"},{"name":"Stephens College","state_short":"MO","state_full":"Missouri"},{"name":"Westminster College","state_short":"MO","state_full":"Missouri"},{"name":"William Jewell College","state_short":"MO","state_full":"Missouri"},{"name":"William Woods University","state_short":"MO","state_full":"Missouri"},{"name":"Carroll College","state_short":"MT","state_full":"Montana"},{"name":"Rocky Mountain College","state_short":"MT","state_full":"Montana"},{"name":"University of Providence","state_short":"MT","state_full":"Montana"},{"name":"College Four","state_short":"","state_full":"Nebraska"},{"name":"College of Saint Mary","state_short":"NE","state_full":"Nebraska"},{"name":"Concordia University","state_short":"NE","state_full":"Nebraska"},{"name":"Creighton University","state_short":"NE","state_full":"Nebraska"},{"name":"Doane University","state_short":"NE","state_full":"Nebraska"},{"name":"Hastings College","state_short":"NE","state_full":"Nebraska"},{"name":"Midland University","state_short":"NE","state_full":"Nebraska"},{"name":"Nebraska Methodist College","state_short":"NE","state_full":"Nebraska"},{"name":"Nebraska Wesleyan University","state_short":"NE","state_full":"Nebraska"},{"name":"SAMPLE Exchange","state_short":"","state_full":"Nebraska"},{"name":"Sierra Nevada University","state_short":"NV","state_full":"Nevada"},{"name":"Antioch University New England","state_short":"NH","state_full":"New Hampshire"},{"name":"Colby","state_short":"Sawyer College","state_full":"New Hampshire"},{"name":"Franklin Pierce University","state_short":"NH","state_full":"New Hampshire"},{"name":"New England College","state_short":"NH","state_full":"New Hampshire"},{"name":"Rivier University","state_short":"NH","state_full":"New Hampshire"},{"name":"Saint Anselm College","state_short":"NH","state_full":"New Hampshire"},{"name":"Southern New Hampshire University","state_short":"NH","state_full":"New Hampshire"},{"name":"Bloomfield College","state_short":"NJ","state_full":"New Jersey"},{"name":"Caldwell University","state_short":"NJ","state_full":"New Jersey"},{"name":"Centenary University","state_short":"NJ","state_full":"New Jersey"},{"name":"Drew University","state_short":"NJ","state_full":"New Jersey"},{"name":"Fairleigh Dickinson University","state_short":"NJ","state_full":"New Jersey"},{"name":"Georgian Court University","state_short":"NJ","state_full":"New Jersey"},{"name":"Monmouth University","state_short":"NJ","state_full":"New Jersey"},{"name":"Princeton Theological Seminary","state_short":"NJ","state_full":"New Jersey"},{"name":"Rider University","state_short":"NJ","state_full":"New Jersey"},{"name":"Saint Elizabeth University","state_short":"(NJ)","state_full":"New Jersey"},{"name":"Saint Peter's University","state_short":"NJ","state_full":"New Jersey"},{"name":"Seton Hall University","state_short":"NJ","state_full":"New Jersey"},{"name":"Stevens Institute of Technology","state_short":"NJ","state_full":"New Jersey"},{"name":"Stockton University of NJ","state_short":"NJ","state_full":"New Jersey"},{"name":"St. John's College, Santa Fe","state_short":"NM","state_full":"New Mexico"},{"name":"Adelphi University","state_short":"NY","state_full":"New York"},{"name":"Albany Law School","state_short":"NY","state_full":"New York"},{"name":"Alfred University","state_short":"NY","state_full":"New York"},{"name":"Bard College","state_short":"NY","state_full":"New York"},{"name":"Canisius College","state_short":"NY","state_full":"New York"},{"name":"Cazenovia College","state_short":"NY","state_full":"New York"},{"name":"Clarkson University","state_short":"NY","state_full":"New York"},{"name":"College of Mount Saint Vincent","state_short":"NY","state_full":"New York"},{"name":"College of Saint Rose","state_short":"NY","state_full":"New York"},{"name":"Concordia College","state_short":"NY","state_full":"New York"},{"name":"Daemen College","state_short":"NY","state_full":"New York"},{"name":"Dominican College of Blauvelt","state_short":"NY","state_full":"New York"},{"name":"D'Youville College","state_short":"NY","state_full":"New York"},{"name":"Elmira College","state_short":"NY","state_full":"New York"},{"name":"Five Towns College","state_short":"","state_full":"New York"},{"name":"Fordham University","state_short":"NY","state_full":"New York"},{"name":"Hartwick College","state_short":"NY","state_full":"New York"},{"name":"Hilbert College","state_short":"NY","state_full":"New York"},{"name":"Hobart and William Smith Colleges","state_short":"NY","state_full":"New York"},{"name":"Hofstra University","state_short":"NY","state_full":"New York"},{"name":"Houghton College","state_short":"NY","state_full":"New York"},{"name":"Iona College","state_short":"NY","state_full":"New York"},{"name":"Keuka College","state_short":"NY","state_full":"New York"},{"name":"LeMoyne College","state_short":"NY","state_full":"New York"},{"name":"LIM College","state_short":"NY","state_full":"New York"},{"name":"Long Island University, Brooklyn Campus","state_short":"NY","state_full":"New York"},{"name":"Long Island University, LIU Post","state_short":"NY","state_full":"New York"},{"name":"Manhattan College","state_short":"NY","state_full":"New York"},{"name":"Manhattanville College","state_short":"NY","state_full":"New York"},{"name":"Marist College","state_short":"","state_full":"New York"},{"name":"Marymount Manhattan College","state_short":"NY","state_full":"New York"},{"name":"Medaille College","state_short":"NY","state_full":"New York"},{"name":"Mercy College","state_short":"NY","state_full":"New York"},{"name":"Molloy College","state_short":"NY","state_full":"New York"},{"name":"Mount Saint Mary College","state_short":"NY","state_full":"New York"},{"name":"Nazareth College","state_short":"NY","state_full":"New York"},{"name":"New York Institute of Technology","state_short":"NY","state_full":"New York"},{"name":"Niagara University","state_short":"NY","state_full":"New York"},{"name":"Northeast College of Health Sciences","state_short":"NY","state_full":"New York"},{"name":"Nyack College","state_short":"NY","state_full":"New York"},{"name":"Pace University","state_short":"NY","state_full":"New York"},{"name":"Paul Smith's College of Arts & Sciences","state_short":"NY","state_full":"New York"},{"name":"Pratt Institute","state_short":"NY","state_full":"New York"},{"name":"Roberts Wesleyan College","state_short":"NY","state_full":"New York"},{"name":"Rochester Inst. of Technology","state_short":"NY","state_full":"New York"},{"name":"Russell Sage College","state_short":"","state_full":"New York"},{"name":"Sarah Lawrence College","state_short":"NY","state_full":"New York"},{"name":"Siena College","state_short":"NY","state_full":"New York"},{"name":"Skidmore College","state_short":"NY","state_full":"New York"},{"name":"St. Bonaventure University","state_short":"NY","state_full":"New York"},{"name":"St. Francis College","state_short":"NY","state_full":"New York"},{"name":"St. John Fisher College","state_short":"NY","state_full":"New York"},{"name":"St. John's University","state_short":"NY","state_full":"New York"},{"name":"St. Joseph's College","state_short":"NY","state_full":"New York"},{"name":"St. Lawrence University","state_short":"NY","state_full":"New York"},{"name":"St. Thomas Aquinas College","state_short":"NY","state_full":"New York"},{"name":"Syracuse University","state_short":"NY","state_full":"New York"},{"name":"Trocaire College","state_short":"NY","state_full":"New York"},{"name":"Utica University","state_short":"NY","state_full":"New York"},{"name":"Vaughn College","state_short":"NY","state_full":"New York"},{"name":"Villa Maria College","state_short":"NY","state_full":"New York"},{"name":"Wagner College","state_short":"NY","state_full":"New York"},{"name":"Wells College","state_short":"NY","state_full":"New York"},{"name":"Barton College","state_short":"NC","state_full":"North Carolina"},{"name":"Belmont Abbey College","state_short":"NC","state_full":"North Carolina"},{"name":"Campbell University","state_short":"NC","state_full":"North Carolina"},{"name":"Catawba College","state_short":"NC","state_full":"North Carolina"},{"name":"Chowan University","state_short":"NC","state_full":"North Carolina"},{"name":"Elon University","state_short":"NC","state_full":"North Carolina"},{"name":"Gardner","state_short":"Webb University","state_full":"North Carolina"},{"name":"Greensboro College","state_short":"NC","state_full":"North Carolina"},{"name":"Guilford College","state_short":"NC","state_full":"North Carolina"},{"name":"High Point University","state_short":"NC","state_full":"North Carolina"},{"name":"Johnson & Wales University","state_short":"NC","state_full":"North Carolina"},{"name":"Lees","state_short":"McRae College","state_full":"North Carolina"},{"name":"Lenoir","state_short":"Rhyne University","state_full":"North Carolina"},{"name":"Mars Hill University","state_short":"NC","state_full":"North Carolina"},{"name":"Meredith College","state_short":"NC","state_full":"North Carolina"},{"name":"Methodist University","state_short":"NC","state_full":"North Carolina"},{"name":"Mid","state_short":"Atlantic Christian University","state_full":"North Carolina"},{"name":"North Carolina Wesleyan College","state_short":"NC","state_full":"North Carolina"},{"name":"Pfeiffer University","state_short":"NC","state_full":"North Carolina"},{"name":"Queens University of Charlotte","state_short":"NC","state_full":"North Carolina"},{"name":"Salem Academy & College","state_short":"NC","state_full":"North Carolina"},{"name":"St. Andrews University","state_short":"NC","state_full":"North Carolina"},{"name":"University of Mount Olive","state_short":"NC","state_full":"North Carolina"},{"name":"Warren Wilson College","state_short":"NC","state_full":"North Carolina"},{"name":"William Peace University","state_short":"NC","state_full":"North Carolina"},{"name":"Wingate University","state_short":"NC","state_full":"North Carolina"},{"name":"University of Jamestown","state_short":"","state_full":"North Dakota"},{"name":"Ashland University","state_short":"OH","state_full":"Ohio"},{"name":"Aultman College","state_short":"OH","state_full":"Ohio"},{"name":"Baldwin Wallace University","state_short":"OH","state_full":"Ohio"},{"name":"Bluffton University","state_short":"OH","state_full":"Ohio"},{"name":"Capital University","state_short":"OH","state_full":"Ohio"},{"name":"Case Western Reserve University","state_short":"OH","state_full":"Ohio"},{"name":"Cleveland Institute of Art","state_short":"OH","state_full":"Ohio"},{"name":"College of Wooster, The","state_short":"OH","state_full":"Ohio"},{"name":"Columbus College of Art & Design","state_short":"OH","state_full":"Ohio"},{"name":"Defiance College","state_short":"OH","state_full":"Ohio"},{"name":"Franklin University","state_short":"OH","state_full":"Ohio"},{"name":"Heidelberg University","state_short":"OH","state_full":"Ohio"},{"name":"Hiram College","state_short":"OH","state_full":"Ohio"},{"name":"John Carroll University","state_short":"OH","state_full":"Ohio"},{"name":"Lake Erie College","state_short":"OH","state_full":"Ohio"},{"name":"Lourdes University","state_short":"OH","state_full":"Ohio"},{"name":"Malone University","state_short":"OH","state_full":"Ohio"},{"name":"Marietta College","state_short":"OH","state_full":"Ohio"},{"name":"Mercy College of Ohio","state_short":"OH","state_full":"Ohio"},{"name":"Mount St. Joseph University","state_short":"OH","state_full":"Ohio"},{"name":"Mount Vernon Nazarene University","state_short":"OH","state_full":"Ohio"},{"name":"Muskingum University","state_short":"OH","state_full":"Ohio"},{"name":"Notre Dame College","state_short":"OH","state_full":"Ohio"},{"name":"Ohio Christian University","state_short":"OH","state_full":"Ohio"},{"name":"Ohio Dominican University","state_short":"OH","state_full":"Ohio"},{"name":"Ohio Northern University","state_short":"OH","state_full":"Ohio"},{"name":"Ohio Wesleyan University","state_short":"OH","state_full":"Ohio"},{"name":"Otterbein University","state_short":"OH","state_full":"Ohio"},{"name":"Tiffin University","state_short":"OH","state_full":"Ohio"},{"name":"University of Dayton","state_short":"OH","state_full":"Ohio"},{"name":"University of Findlay","state_short":"OH","state_full":"Ohio"},{"name":"University of Mount Union","state_short":"OH","state_full":"Ohio"},{"name":"Ursuline College","state_short":"OH","state_full":"Ohio"},{"name":"Walsh University","state_short":"OH","state_full":"Ohio"},{"name":"Wilmington College","state_short":"OH","state_full":"Ohio"},{"name":"Wittenberg University","state_short":"OH","state_full":"Ohio"},{"name":"Xavier University","state_short":"OH","state_full":"Ohio"},{"name":"Oklahoma City University","state_short":"OK","state_full":"Oklahoma"},{"name":"University of Tulsa, The","state_short":"OK","state_full":"Oklahoma"},{"name":"Bushnell University","state_short":"OR","state_full":"Oregon"},{"name":"George Fox University","state_short":"OR","state_full":"Oregon"},{"name":"Lewis & Clark College","state_short":"OR","state_full":"Oregon"},{"name":"Linfield University","state_short":"OR","state_full":"Oregon"},{"name":"Pacific University","state_short":"OR","state_full":"Oregon"},{"name":"University of Portland","state_short":"OR","state_full":"Oregon"},{"name":"Warner Pacific University","state_short":"OR","state_full":"Oregon"},{"name":"Willamette University","state_short":"OR","state_full":"Oregon"},{"name":"Albright College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Allegheny College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Alvernia University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Arcadia University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Bucknell University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Cabrini University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Carlow University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Cedar Crest College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Chatham University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Chestnut Hill College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Delaware Valley University","state_short":"PA","state_full":"Pennsylvania"},{"name":"DeSales University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Dickinson College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Drexel University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Duquesne University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Eastern University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Elizabethtown College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Franklin & Marshall College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Gannon University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Geisinger Commonwealth School of Medicine","state_short":"PA","state_full":"Pennsylvania"},{"name":"Geneva College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Gettysburg College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Grove City College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Gwynedd Mercy University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Harrisburg University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Holy Family University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Immaculata University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Juniata College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Keystone College","state_short":"PA","state_full":"Pennsylvania"},{"name":"King's College","state_short":"PA","state_full":"Pennsylvania"},{"name":"La Roche University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Lafayette College","state_short":"PA","state_full":"Pennsylvania"},{"name":"LaSalle University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Lebanon Valley College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Lycoming College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Marywood University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Mercyhurst University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Misericordia University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Moore College of Art and Design","state_short":"PA","state_full":"Pennsylvania"},{"name":"Moravian University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Mount Aloysius College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Muhlenberg College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Neumann University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Peirce College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Philadelphia University (Jefferson University","state_short":"East Falls Campus) PA","state_full":"Pennsylvania"},{"name":"Pittsburgh Technical College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Pittsburgh Theological Seminary","state_short":"PA","state_full":"Pennsylvania"},{"name":"Point Park University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Robert Morris University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Rosemont College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Saint Francis University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Saint Joseph's University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Saint Vincent College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Seton Hill University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Susquehanna University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Temple University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Thiel College","state_short":"PA","state_full":"Pennsylvania"},{"name":"University of Pittsburgh","state_short":"PA","state_full":"Pennsylvania"},{"name":"University of Scranton","state_short":"PA","state_full":"Pennsylvania"},{"name":"University of the Arts, The","state_short":"PA","state_full":"Pennsylvania"},{"name":"University of the Sciences in Philadelphia","state_short":"PA","state_full":"Pennsylvania"},{"name":"Ursinus College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Villanova University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Washington & Jefferson College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Waynesburg University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Westminster College","state_short":"PA","state_full":"Pennsylvania"},{"name":"Widener University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Wilkes University","state_short":"PA","state_full":"Pennsylvania"},{"name":"Wilson College","state_short":"PA","state_full":"Pennsylvania"},{"name":"York College of PA","state_short":"PA","state_full":"Pennsylvania"},{"name":"Bryant University","state_short":"RI","state_full":"Rhode Island"},{"name":"Johnson & Wales University","state_short":"RI","state_full":"Rhode Island"},{"name":"Providence College","state_short":"RI","state_full":"Rhode Island"},{"name":"Roger Williams University","state_short":"RI","state_full":"Rhode Island"},{"name":"Salve Regina University","state_short":"RI","state_full":"Rhode Island"},{"name":"Anderson University","state_short":"SC","state_full":"South Carolina"},{"name":"Charleston Southern University","state_short":"SC","state_full":"South Carolina"},{"name":"Coker University","state_short":"SC","state_full":"South Carolina"},{"name":"Columbia College","state_short":"SC","state_full":"South Carolina"},{"name":"Columbia International University","state_short":"SC","state_full":"South Carolina"},{"name":"Converse University","state_short":"SC","state_full":"South Carolina"},{"name":"Erskine College","state_short":"SC","state_full":"South Carolina"},{"name":"Furman University","state_short":"SC","state_full":"South Carolina"},{"name":"Limestone University","state_short":"SC","state_full":"South Carolina"},{"name":"Newberry College","state_short":"SC","state_full":"South Carolina"},{"name":"North Greenville University","state_short":"SC","state_full":"South Carolina"},{"name":"Presbyterian College","state_short":"SC","state_full":"South Carolina"},{"name":"Sherman College of Chiropractic","state_short":"SC","state_full":"South Carolina"},{"name":"Southern Wesleyan University","state_short":"SC","state_full":"South Carolina"},{"name":"Wofford College","state_short":"SC","state_full":"South Carolina"},{"name":"Augustana University","state_short":"SD","state_full":"South Dakota"},{"name":"Dakota Wesleyan University","state_short":"SD","state_full":"South Dakota"},{"name":"Mount Marty University","state_short":"SD","state_full":"South Dakota"},{"name":"University of Sioux Falls","state_short":"SD","state_full":"South Dakota"},{"name":"Belmont University","state_short":"TN","state_full":"Tennessee"},{"name":"Bryan College","state_short":"TN","state_full":"Tennessee"},{"name":"Carson","state_short":"Newman University","state_full":"Tennessee"},{"name":"Christian Brothers University","state_short":"TN","state_full":"Tennessee"},{"name":"Johnson University","state_short":"TN","state_full":"Tennessee"},{"name":"Lee University","state_short":"TN","state_full":"Tennessee"},{"name":"Lincoln Memorial University","state_short":"TN","state_full":"Tennessee"},{"name":"Maryville College","state_short":"TN","state_full":"Tennessee"},{"name":"Milligan University","state_short":"TN","state_full":"Tennessee"},{"name":"Rhodes College","state_short":"TN","state_full":"Tennessee"},{"name":"Tennessee Wesleyan University","state_short":"TN","state_full":"Tennessee"},{"name":"Trevecca University","state_short":"TN","state_full":"Tennessee"},{"name":"Union University","state_short":"TN","state_full":"Tennessee"},{"name":"University of the South","state_short":"TN","state_full":"Tennessee"},{"name":"Abilene Christian University","state_short":"TX","state_full":"Texas"},{"name":"Austin College","state_short":"TX","state_full":"Texas"},{"name":"Baylor University","state_short":"TX","state_full":"Texas"},{"name":"Concordia University at Austin","state_short":"TX","state_full":"Texas"},{"name":"Criswell College","state_short":"TX","state_full":"Texas"},{"name":"Dallas Baptist University","state_short":"TX","state_full":"Texas"},{"name":"East Texas Baptist University","state_short":"TX","state_full":"Texas"},{"name":"Hardin","state_short":"Simmons University","state_full":"Texas"},{"name":"Houston Baptist University","state_short":"TX","state_full":"Texas"},{"name":"Howard Payne University","state_short":"TX","state_full":"Texas"},{"name":"Jacksonville College","state_short":"TX","state_full":"Texas"},{"name":"McMurry University","state_short":"TX","state_full":"Texas"},{"name":"Schreiner University","state_short":"TX","state_full":"Texas"},{"name":"Southwestern Baptist Theological Seminary","state_short":"TX","state_full":"Texas"},{"name":"Southwestern University","state_short":"TX","state_full":"Texas"},{"name":"St. Edward's University","state_short":"TX","state_full":"Texas"},{"name":"St. Mary's University","state_short":"TX","state_full":"Texas"},{"name":"Texas Christian University","state_short":"TX","state_full":"Texas"},{"name":"Texas Lutheran University","state_short":"TX","state_full":"Texas"},{"name":"Texas Wesleyan University","state_short":"TX","state_full":"Texas"},{"name":"Trinity University","state_short":"TX","state_full":"Texas"},{"name":"University of Dallas","state_short":"TX","state_full":"Texas"},{"name":"University of Mary Hardin","state_short":"Baylor","state_full":"Texas"},{"name":"University of St. Thomas","state_short":"TX","state_full":"Texas"},{"name":"University of the Incarnate Word","state_short":"TX","state_full":"Texas"},{"name":"Wayland Baptist University","state_short":"TX","state_full":"Texas"},{"name":"Westminster College","state_short":"UT","state_full":"Utah"},{"name":"Bennington College","state_short":"VT","state_full":"Vermont"},{"name":"Champlain College","state_short":"VT","state_full":"Vermont"},{"name":"Landmark College","state_short":"VT","state_full":"Vermont"},{"name":"Norwich University","state_short":"VT","state_full":"Vermont"},{"name":"Saint Michael's College","state_short":"VT","state_full":"Vermont"},{"name":"Sterling College","state_short":"VT","state_full":"Vermont"},{"name":"University of the Virgin Islands","state_short":"VI","state_full":"Virgin Islands"},{"name":"Appalachian School of Law","state_short":"VA","state_full":"Virginia"},{"name":"Averett University","state_short":"VA","state_full":"Virginia"},{"name":"Bluefield University","state_short":"VA","state_full":"Virginia"},{"name":"Bridgewater College","state_short":"VA","state_full":"Virginia"},{"name":"Emory & Henry College","state_short":"VA","state_full":"Virginia"},{"name":"Ferrum College","state_short":"VA","state_full":"Virginia"},{"name":"Hampden","state_short":"Sydney College","state_full":"Virginia"},{"name":"Hollins University","state_short":"VA","state_full":"Virginia"},{"name":"Mary Baldwin University","state_short":"VA","state_full":"Virginia"},{"name":"Marymount University","state_short":"VA","state_full":"Virginia"},{"name":"Randolph College","state_short":"VA","state_full":"Virginia"},{"name":"Randolph","state_short":"Macon College","state_full":"Virginia"},{"name":"Regent University","state_short":"VA","state_full":"Virginia"},{"name":"Roanoke College","state_short":"VA","state_full":"Virginia"},{"name":"Shenandoah University","state_short":"VA","state_full":"Virginia"},{"name":"Sweet Briar College","state_short":"VA","state_full":"Virginia"},{"name":"University of Lynchburg","state_short":"VA","state_full":"Virginia"},{"name":"University of Richmond","state_short":"VA","state_full":"Virginia"},{"name":"Virginia Wesleyan University","state_short":"VA","state_full":"Virginia"},{"name":"Cornish College of the Arts","state_short":"WA","state_full":"Washington"},{"name":"Gonzaga University","state_short":"WA","state_full":"Washington"},{"name":"Heritage University","state_short":"WA","state_full":"Washington"},{"name":"Pacific Lutheran University","state_short":"WA","state_full":"Washington"},{"name":"Saint Martin's University","state_short":"WA","state_full":"Washington"},{"name":"Seattle University","state_short":"WA","state_full":"Washington"},{"name":"University of Puget Sound","state_short":"WA","state_full":"Washington"},{"name":"Whitworth University","state_short":"WA","state_full":"Washington"},{"name":"Bethany College","state_short":"WV","state_full":"West Virginia"},{"name":"Davis and Elkins College","state_short":"WV","state_full":"West Virginia"},{"name":"University of Charleston","state_short":"WV","state_full":"West Virginia"},{"name":"West Virginia Wesleyan College","state_short":"WV","state_full":"West Virginia"},{"name":"Alverno College","state_short":"WI","state_full":"Wisconsin"},{"name":"Beloit College","state_short":"WI","state_full":"Wisconsin"},{"name":"Carroll University","state_short":"WI","state_full":"Wisconsin"},{"name":"Carthage College","state_short":"WI","state_full":"Wisconsin"},{"name":"Concordia University","state_short":"WI","state_full":"Wisconsin"},{"name":"Lakeland University","state_short":"WI","state_full":"Wisconsin"},{"name":"Lawrence University","state_short":"WI","state_full":"Wisconsin"},{"name":"Marian University","state_short":"WI","state_full":"Wisconsin"},{"name":"Marquette University","state_short":"WI","state_full":"Wisconsin"},{"name":"Milwaukee School of Engineering","state_short":"WI","state_full":"Wisconsin"},{"name":"Northland College","state_short":"WI","state_full":"Wisconsin"},{"name":"Ripon College","state_short":"WI","state_full":"Wisconsin"},{"name":"St. Norbert College","state_short":"WI","state_full":"Wisconsin"},{"name":"Viterbo University","state_short":"WI","state_full":"Wisconsin"}]
+[
+    {
+        "name": "American University Sharjah",
+        "state_short": "UAE",
+        "state_full": "United Arab Emirates"
+    },
+    {
+        "name": "Franklin University Switzerland",
+        "state_short": "SW",
+        "state_full": "Switzerland"
+    },
+    {
+        "name": "Al Akhawayn University in Ifrane",
+        "state_short": "MR",
+        "state_full": "Morocco"
+    },
+    {
+        "name": "American College of Greece",
+        "state_short": "GR",
+        "state_full": "Greece"
+    },
+    {
+        "name": "American College of Thessaloniki",
+        "state_short": "GR",
+        "state_full": "Greece"
+    },
+    {
+        "name": "Trinity Western University",
+        "state_short": "Canada",
+        "state_full": "Canada"
+    },
+    {
+        "name": "Birmingham",
+        "state_short": "Southern College",
+        "state_full": "Alabama"
+    },
+    {
+        "name": "Huntingdon College",
+        "state_short": "AL",
+        "state_full": "Alabama"
+    },
+    {
+        "name": "Samford University",
+        "state_short": "AL",
+        "state_full": "Alabama"
+    },
+    {
+        "name": "Spring Hill College",
+        "state_short": "AL",
+        "state_full": "Alabama"
+    },
+    {
+        "name": "Alaska Pacific University",
+        "state_short": "AK",
+        "state_full": "Alaska"
+    },
+    {
+        "name": "Grand Canyon University",
+        "state_short": "AZ",
+        "state_full": "Arizona"
+    },
+    {
+        "name": "Prescott College",
+        "state_short": "AZ",
+        "state_full": "Arizona"
+    },
+    {
+        "name": "Harding University",
+        "state_short": "AR",
+        "state_full": "Arkansas"
+    },
+    {
+        "name": "Hendrix College",
+        "state_short": "AR",
+        "state_full": "Arkansas"
+    },
+    {
+        "name": "Lyon College",
+        "state_short": "AR",
+        "state_full": "Arkansas"
+    },
+    {
+        "name": "Ouachita Baptist University",
+        "state_short": "AR",
+        "state_full": "Arkansas"
+    },
+    {
+        "name": "University of the Ozarks",
+        "state_short": "AR",
+        "state_full": "Arkansas"
+    },
+    {
+        "name": "Azusa Pacific University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Biola University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "California Baptist University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "California College of the Arts",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "California Institute of Integral Studies",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "California Lutheran University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Chapman University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Concordia University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Dominican University of California",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Franciscan School of Theology",
+        "state_short": "",
+        "state_full": "California"
+    },
+    {
+        "name": "Fresno Pacific University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Hope International University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Loyola Marymount University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Marymount California University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Mills College",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Mount Saint Mary's University Los Angeles",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Notre Dame de Namur University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Occidental College",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Pitzer College",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Saint Mary's College of California",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Santa Clara University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Simpson University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Southwestern Law School",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "The Chicago School of Professional Psychology",
+        "state_short": "",
+        "state_full": "California"
+    },
+    {
+        "name": "The Master's University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "University of La Verne",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "University of Redlands",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "University of San Diego",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "University of San Francisco",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "University of Southern California",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "University of the Pacific",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Vanguard University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Westmont College",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Whittier College",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "William Jessup University",
+        "state_short": "CA",
+        "state_full": "California"
+    },
+    {
+        "name": "Regis University",
+        "state_short": "CO",
+        "state_full": "Colorado"
+    },
+    {
+        "name": "Western Colorado University",
+        "state_short": "CO",
+        "state_full": "Colorado"
+    },
+    {
+        "name": "Connecticut College",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "Fairfield University",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "Goodwin College",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "Mitchell College",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "Post University",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "Quinnipiac University",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "Sacred Heart University",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "Trinity College",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "University of Bridgeport, The Inc",
+        "state_short": "",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "University of Hartford",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "University of New Haven",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "University of Saint Joseph",
+        "state_short": "CT",
+        "state_full": "Connecticut"
+    },
+    {
+        "name": "University of Delaware",
+        "state_short": "DE",
+        "state_full": "Delaware"
+    },
+    {
+        "name": "Wilmington University",
+        "state_short": "DE",
+        "state_full": "Delaware"
+    },
+    {
+        "name": "American University",
+        "state_short": "DC",
+        "state_full": "District of Columbia"
+    },
+    {
+        "name": "Catholic University of America, The",
+        "state_short": "DC",
+        "state_full": "District of Columbia"
+    },
+    {
+        "name": "George Washington University",
+        "state_short": "DC, The",
+        "state_full": "District of Columbia"
+    },
+    {
+        "name": "Trinity Washington University",
+        "state_short": "DC",
+        "state_full": "District of Columbia"
+    },
+    {
+        "name": "Ave Maria University",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Barry University",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Eckerd College",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Embry",
+        "state_short": "Riddle Aeronautical University",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Flagler College",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Florida Institute of Technology",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Florida Southern College",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Jacksonville University",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Lynn University",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "New College of Florida",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Palm Beach Atlantic University",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Rollins College",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Saint Leo University",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "St. Thomas University",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Stetson University",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "University of Florida",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "University of North Florida",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "University of Tampa",
+        "state_short": "FL",
+        "state_full": "Florida"
+    },
+    {
+        "name": "Agnes Scott College",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Berry College",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Brenau University",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Covenant College",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "LaGrange College",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Mercer University",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Oglethorpe University",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Piedmont University",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Reinhardt University",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Shorter University",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Toccoa Falls College",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Truett",
+        "state_short": "McConnell University",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Wesleyan College",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Young Harris College",
+        "state_short": "GA",
+        "state_full": "Georgia"
+    },
+    {
+        "name": "Hawaii Pacific University",
+        "state_short": "HI",
+        "state_full": "Hawaii"
+    },
+    {
+        "name": "College of Idaho (The)",
+        "state_short": "ID",
+        "state_full": "Idaho"
+    },
+    {
+        "name": "Augustana College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Aurora University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Benedictine University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Blackburn College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Bradley University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Columbia College Chicago",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Concordia University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "DePaul University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Dominican University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Elmhurst University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Eureka College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Illinois College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Illinois Institute of Technology",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Illinois Wesleyan University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Judson University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Knox College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Lewis University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Lincoln College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "McKendree University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Methodist College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Millikin University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Monmouth College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "National Louis University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "North Central College",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "North Park University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Northern Baptist Theological Seminary",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Oak Point University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Quincy University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Rockford University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Roosevelt University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Saint Xavier University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "School of the Art Institute of Chicago",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Trinity International University",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "University of St. Francis",
+        "state_short": "IL",
+        "state_full": "Illinois"
+    },
+    {
+        "name": "Anderson University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Butler University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Calumet College of Saint Joseph",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "DePauw University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Franklin College",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Grace College",
+        "state_short": "",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Hanover College",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Holy Cross College",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Huntington University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Indiana Institute of Technology",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Manchester University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Marian University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Oakland City University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Rose",
+        "state_short": "Hulman Institute of Technology",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Saint Mary",
+        "state_short": "of",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Saint Mary's College",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Trine University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "University of Evansville",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "University of Indianapolis",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "University of Saint Francis",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Valparaiso University",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Wabash College",
+        "state_short": "IN",
+        "state_full": "Indiana"
+    },
+    {
+        "name": "Briar Cliff University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Buena Vista University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Central College",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Clarke University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Coe College",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Cornell College",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Drake University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Graceland University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Grand View University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Iowa Wesleyan University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Loras College",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Luther College",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Mercy College of Health Sciences",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Morningside College",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Mount Mercy University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Simpson College",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "St. Ambrose University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "University of Dubuque",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Upper Iowa University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Wartburg College",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "William Penn University",
+        "state_short": "IA",
+        "state_full": "Iowa"
+    },
+    {
+        "name": "Baker University",
+        "state_short": "KS",
+        "state_full": "Kansas"
+    },
+    {
+        "name": "Benedictine College",
+        "state_short": "KS",
+        "state_full": "Kansas"
+    },
+    {
+        "name": "Bethany College",
+        "state_short": "KS",
+        "state_full": "Kansas"
+    },
+    {
+        "name": "Cleveland University",
+        "state_short": "Kansas City",
+        "state_full": "Kansas"
+    },
+    {
+        "name": "Kansas Wesleyan University",
+        "state_short": "KS",
+        "state_full": "Kansas"
+    },
+    {
+        "name": "Newman University",
+        "state_short": "KS",
+        "state_full": "Kansas"
+    },
+    {
+        "name": "Ottawa University",
+        "state_short": "KS",
+        "state_full": "Kansas"
+    },
+    {
+        "name": "Southwestern College",
+        "state_short": "KS",
+        "state_full": "Kansas"
+    },
+    {
+        "name": "Bellarmine University",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Berea College",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Boyce College",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Brescia University",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Centre College",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Georgetown College",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Kentucky Wesleyan College",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Lindsey Wilson College",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Midway University",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Southern Baptist Theological Seminary",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Thomas More University",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Transylvania University",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Union College",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "University of the Cumberlands, The",
+        "state_short": "KY",
+        "state_full": "Kentucky"
+    },
+    {
+        "name": "Centenary College",
+        "state_short": "LA",
+        "state_full": "Louisiana"
+    },
+    {
+        "name": "Dillard University",
+        "state_short": "LA",
+        "state_full": "Louisiana"
+    },
+    {
+        "name": "Leavell College",
+        "state_short": "LA",
+        "state_full": "Louisiana"
+    },
+    {
+        "name": "Louisiana Tech University",
+        "state_short": "LA",
+        "state_full": "Louisiana"
+    },
+    {
+        "name": "Loyola University New Orleans",
+        "state_short": "LA",
+        "state_full": "Louisiana"
+    },
+    {
+        "name": "New Orleans Baptist Theological Seminary",
+        "state_short": "LA",
+        "state_full": "Louisiana"
+    },
+    {
+        "name": "Tulane University",
+        "state_short": "LA",
+        "state_full": "Louisiana"
+    },
+    {
+        "name": "Maine College of Art",
+        "state_short": "ME",
+        "state_full": "Maine"
+    },
+    {
+        "name": "Saint Joseph's College of Maine",
+        "state_short": "ME",
+        "state_full": "Maine"
+    },
+    {
+        "name": "University of New England",
+        "state_short": "ME",
+        "state_full": "Maine"
+    },
+    {
+        "name": "Goucher College",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "HBP",
+        "state_short": "",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "Hood College",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "Loyola University Maryland",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "Maryland Institute College of Art (MICA)",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "Maryland University of Integrative Health",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "McDaniel College",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "Mount Saint Mary's University",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "Notre Dame of Maryland University",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "St. John's College",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "St. Mary's College of Maryland",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "Stevenson University",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "Washington College",
+        "state_short": "MD",
+        "state_full": "Maryland"
+    },
+    {
+        "name": "American International College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Anna Maria College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Assumption University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Bard College at Simon's Rock",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Bay Path University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Bay State College",
+        "state_short": "",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Boston University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Clark University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Curry College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Dean College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Elms College (College of our Lady of the Elms)",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Emerson College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Emmanuel College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Endicott College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Fisher College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Hampshire College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Hellenic College Holy Cross",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Laboure College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Lasell University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Lesley University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Merrimack College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Mount Holyoke College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "New England Law",
+        "state_short": "Boston",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Nichols College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Pine Manor College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Regis College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Simmons University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Springfield College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Stonehill College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Suffolk University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Wentworth Institute of Technology",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Western New England University",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Wheaton College",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Worcester Polytechnic Institute",
+        "state_short": "MA",
+        "state_full": "Massachusetts"
+    },
+    {
+        "name": "Adrian College",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Albion College",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Alma College",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Aquinas College",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Cleary University",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Hillsdale College",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Kalamazoo College",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Kettering University",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Madonna University",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Northwood University",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Olivet College",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Walsh College",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Wayne State University",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Western Theological Seminary",
+        "state_short": "MI",
+        "state_full": "Michigan"
+    },
+    {
+        "name": "Augsburg University",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Bethel University",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "College of St. Benedict",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "College of St. Scholastica",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Concordia College at Moorhead",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Concordia University",
+        "state_short": "St. Paul",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Gustavus Adolphus College",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Hamline University",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Luther Seminary",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Minneapolis College of Art & Design",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Mitchell Hamline School Of Law",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Saint  John's University",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Saint Mary's University of Minnesota",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "St. Catherine University",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "University of Northwestern",
+        "state_short": "St. Paul",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "University of St. Thomas",
+        "state_short": "MN",
+        "state_full": "Minnesota"
+    },
+    {
+        "name": "Belhaven University",
+        "state_short": "MS",
+        "state_full": "Mississippi"
+    },
+    {
+        "name": "Millsaps College",
+        "state_short": "MS",
+        "state_full": "Mississippi"
+    },
+    {
+        "name": "Mississippi College",
+        "state_short": "MS",
+        "state_full": "Mississippi"
+    },
+    {
+        "name": "Avila University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Central Methodist University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Columbia College",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Cottey College",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Culver",
+        "state_short": "Stockton College",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Drury University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Fontbonne University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Hannibal",
+        "state_short": "LaGrange University",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Kansas City Art Institute",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Lindenwood University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Logan University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Maryville University of St. Louis",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Midwestern Baptist Theological Seminar",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Missouri Baptist University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Park University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Rockhurst University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Saint Louis University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Southwest Baptist University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Spurgeon College",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Stephens College",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Westminster College",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "William Jewell College",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "William Woods University",
+        "state_short": "MO",
+        "state_full": "Missouri"
+    },
+    {
+        "name": "Carroll College",
+        "state_short": "MT",
+        "state_full": "Montana"
+    },
+    {
+        "name": "Rocky Mountain College",
+        "state_short": "MT",
+        "state_full": "Montana"
+    },
+    {
+        "name": "University of Providence",
+        "state_short": "MT",
+        "state_full": "Montana"
+    },
+    {
+        "name": "College Four",
+        "state_short": "",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "College of Saint Mary",
+        "state_short": "NE",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "Concordia University",
+        "state_short": "NE",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "Creighton University",
+        "state_short": "NE",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "Doane University",
+        "state_short": "NE",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "Hastings College",
+        "state_short": "NE",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "Midland University",
+        "state_short": "NE",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "Nebraska Methodist College",
+        "state_short": "NE",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "Nebraska Wesleyan University",
+        "state_short": "NE",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "SAMPLE Exchange",
+        "state_short": "",
+        "state_full": "Nebraska"
+    },
+    {
+        "name": "Sierra Nevada University",
+        "state_short": "NV",
+        "state_full": "Nevada"
+    },
+    {
+        "name": "Antioch University New England",
+        "state_short": "NH",
+        "state_full": "New Hampshire"
+    },
+    {
+        "name": "Colby",
+        "state_short": "Sawyer College",
+        "state_full": "New Hampshire"
+    },
+    {
+        "name": "Franklin Pierce University",
+        "state_short": "NH",
+        "state_full": "New Hampshire"
+    },
+    {
+        "name": "New England College",
+        "state_short": "NH",
+        "state_full": "New Hampshire"
+    },
+    {
+        "name": "Rivier University",
+        "state_short": "NH",
+        "state_full": "New Hampshire"
+    },
+    {
+        "name": "Saint Anselm College",
+        "state_short": "NH",
+        "state_full": "New Hampshire"
+    },
+    {
+        "name": "Southern New Hampshire University",
+        "state_short": "NH",
+        "state_full": "New Hampshire"
+    },
+    {
+        "name": "Bloomfield College",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Caldwell University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Centenary University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Drew University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Fairleigh Dickinson University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Georgian Court University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Monmouth University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Princeton Theological Seminary",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Rider University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Saint Elizabeth University",
+        "state_short": "(NJ)",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Saint Peter's University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Seton Hall University",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Stevens Institute of Technology",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "Stockton University of NJ",
+        "state_short": "NJ",
+        "state_full": "New Jersey"
+    },
+    {
+        "name": "St. John's College, Santa Fe",
+        "state_short": "NM",
+        "state_full": "New Mexico"
+    },
+    {
+        "name": "Adelphi University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Albany Law School",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Alfred University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Bard College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Canisius College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Cazenovia College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Clarkson University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "College of Mount Saint Vincent",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "College of Saint Rose",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Concordia College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Daemen College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Dominican College of Blauvelt",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "D'Youville College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Elmira College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Five Towns College",
+        "state_short": "",
+        "state_full": "New York"
+    },
+    {
+        "name": "Fordham University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Hartwick College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Hilbert College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Hobart and William Smith Colleges",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Hofstra University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Houghton College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Iona College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Keuka College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "LeMoyne College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "LIM College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Long Island University, Brooklyn Campus",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Long Island University, LIU Post",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Manhattan College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Manhattanville College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Marist College",
+        "state_short": "",
+        "state_full": "New York"
+    },
+    {
+        "name": "Marymount Manhattan College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Medaille College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Mercy College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Molloy College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Mount Saint Mary College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Nazareth College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "New York Institute of Technology",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Niagara University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Northeast College of Health Sciences",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Nyack College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Pace University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Paul Smith's College of Arts & Sciences",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Pratt Institute",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Roberts Wesleyan College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Rochester Inst. of Technology",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Russell Sage College",
+        "state_short": "",
+        "state_full": "New York"
+    },
+    {
+        "name": "Sarah Lawrence College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Siena College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Skidmore College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "St. Bonaventure University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "St. Francis College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "St. John Fisher College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "St. John's University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "St. Joseph's College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "St. Lawrence University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "St. Thomas Aquinas College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Syracuse University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Trocaire College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Utica University",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Vaughn College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Villa Maria College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Wagner College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Wells College",
+        "state_short": "NY",
+        "state_full": "New York"
+    },
+    {
+        "name": "Barton College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Belmont Abbey College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Campbell University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Catawba College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Chowan University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Elon University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Gardner",
+        "state_short": "Webb University",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Greensboro College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Guilford College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "High Point University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Johnson & Wales University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Lees",
+        "state_short": "McRae College",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Lenoir",
+        "state_short": "Rhyne University",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Mars Hill University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Meredith College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Methodist University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Mid",
+        "state_short": "Atlantic Christian University",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "North Carolina Wesleyan College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Pfeiffer University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Queens University of Charlotte",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Salem Academy & College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "St. Andrews University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "University of Mount Olive",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Warren Wilson College",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "William Peace University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "Wingate University",
+        "state_short": "NC",
+        "state_full": "North Carolina"
+    },
+    {
+        "name": "University of Jamestown",
+        "state_short": "",
+        "state_full": "North Dakota"
+    },
+    {
+        "name": "Ashland University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Aultman College",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Baldwin Wallace University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Bluffton University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Capital University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Case Western Reserve University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Cleveland Institute of Art",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "College of Wooster, The",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Columbus College of Art & Design",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Defiance College",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Franklin University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Heidelberg University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Hiram College",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "John Carroll University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Lake Erie College",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Lourdes University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Malone University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Marietta College",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Mercy College of Ohio",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Mount St. Joseph University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Mount Vernon Nazarene University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Muskingum University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Notre Dame College",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Ohio Christian University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Ohio Dominican University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Ohio Northern University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Ohio Wesleyan University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Otterbein University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Tiffin University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "University of Dayton",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "University of Findlay",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "University of Mount Union",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Ursuline College",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Walsh University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Wilmington College",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Wittenberg University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Xavier University",
+        "state_short": "OH",
+        "state_full": "Ohio"
+    },
+    {
+        "name": "Oklahoma City University",
+        "state_short": "OK",
+        "state_full": "Oklahoma"
+    },
+    {
+        "name": "University of Tulsa, The",
+        "state_short": "OK",
+        "state_full": "Oklahoma"
+    },
+    {
+        "name": "Bushnell University",
+        "state_short": "OR",
+        "state_full": "Oregon"
+    },
+    {
+        "name": "George Fox University",
+        "state_short": "OR",
+        "state_full": "Oregon"
+    },
+    {
+        "name": "Lewis & Clark College",
+        "state_short": "OR",
+        "state_full": "Oregon"
+    },
+    {
+        "name": "Linfield University",
+        "state_short": "OR",
+        "state_full": "Oregon"
+    },
+    {
+        "name": "Pacific University",
+        "state_short": "OR",
+        "state_full": "Oregon"
+    },
+    {
+        "name": "University of Portland",
+        "state_short": "OR",
+        "state_full": "Oregon"
+    },
+    {
+        "name": "Warner Pacific University",
+        "state_short": "OR",
+        "state_full": "Oregon"
+    },
+    {
+        "name": "Willamette University",
+        "state_short": "OR",
+        "state_full": "Oregon"
+    },
+    {
+        "name": "Albright College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Allegheny College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Alvernia University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Arcadia University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Bucknell University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Cabrini University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Carlow University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Cedar Crest College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Chatham University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Chestnut Hill College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Delaware Valley University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "DeSales University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Dickinson College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Drexel University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Duquesne University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Eastern University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Elizabethtown College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Franklin & Marshall College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Gannon University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Geisinger Commonwealth School of Medicine",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Geneva College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Gettysburg College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Grove City College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Gwynedd Mercy University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Harrisburg University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Holy Family University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Immaculata University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Juniata College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Keystone College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "King's College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "La Roche University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Lafayette College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "LaSalle University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Lebanon Valley College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Lycoming College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Marywood University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Mercyhurst University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Misericordia University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Moore College of Art and Design",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Moravian University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Mount Aloysius College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Muhlenberg College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Neumann University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Peirce College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Philadelphia University (Jefferson University",
+        "state_short": "East Falls Campus) PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Pittsburgh Technical College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Pittsburgh Theological Seminary",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Point Park University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Robert Morris University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Rosemont College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Saint Francis University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Saint Joseph's University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Saint Vincent College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Seton Hill University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Susquehanna University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Temple University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Thiel College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "University of Pittsburgh",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "University of Scranton",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "University of the Arts, The",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "University of the Sciences in Philadelphia",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Ursinus College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Villanova University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Washington & Jefferson College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Waynesburg University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Westminster College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Widener University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Wilkes University",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Wilson College",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "York College of PA",
+        "state_short": "PA",
+        "state_full": "Pennsylvania"
+    },
+    {
+        "name": "Bryant University",
+        "state_short": "RI",
+        "state_full": "Rhode Island"
+    },
+    {
+        "name": "Johnson & Wales University",
+        "state_short": "RI",
+        "state_full": "Rhode Island"
+    },
+    {
+        "name": "Providence College",
+        "state_short": "RI",
+        "state_full": "Rhode Island"
+    },
+    {
+        "name": "Roger Williams University",
+        "state_short": "RI",
+        "state_full": "Rhode Island"
+    },
+    {
+        "name": "Salve Regina University",
+        "state_short": "RI",
+        "state_full": "Rhode Island"
+    },
+    {
+        "name": "Anderson University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Charleston Southern University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Coker University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Columbia College",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Columbia International University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Converse University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Erskine College",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Furman University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Limestone University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Newberry College",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "North Greenville University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Presbyterian College",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Sherman College of Chiropractic",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Southern Wesleyan University",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Wofford College",
+        "state_short": "SC",
+        "state_full": "South Carolina"
+    },
+    {
+        "name": "Augustana University",
+        "state_short": "SD",
+        "state_full": "South Dakota"
+    },
+    {
+        "name": "Dakota Wesleyan University",
+        "state_short": "SD",
+        "state_full": "South Dakota"
+    },
+    {
+        "name": "Mount Marty University",
+        "state_short": "SD",
+        "state_full": "South Dakota"
+    },
+    {
+        "name": "University of Sioux Falls",
+        "state_short": "SD",
+        "state_full": "South Dakota"
+    },
+    {
+        "name": "Belmont University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Bryan College",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Carson",
+        "state_short": "Newman University",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Christian Brothers University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Johnson University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Lee University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Lincoln Memorial University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Maryville College",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Milligan University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Rhodes College",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Tennessee Wesleyan University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Trevecca University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Union University",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "University of the South",
+        "state_short": "TN",
+        "state_full": "Tennessee"
+    },
+    {
+        "name": "Abilene Christian University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Austin College",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Baylor University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Concordia University at Austin",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Criswell College",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Dallas Baptist University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "East Texas Baptist University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Hardin",
+        "state_short": "Simmons University",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Houston Baptist University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Howard Payne University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Jacksonville College",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "McMurry University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Schreiner University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Southwestern Baptist Theological Seminary",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Southwestern University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "St. Edward's University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "St. Mary's University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Texas Christian University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Texas Lutheran University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Texas Wesleyan University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Trinity University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "University of Dallas",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "University of Mary Hardin",
+        "state_short": "Baylor",
+        "state_full": "Texas"
+    },
+    {
+        "name": "University of St. Thomas",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "University of the Incarnate Word",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Wayland Baptist University",
+        "state_short": "TX",
+        "state_full": "Texas"
+    },
+    {
+        "name": "Westminster College",
+        "state_short": "UT",
+        "state_full": "Utah"
+    },
+    {
+        "name": "Bennington College",
+        "state_short": "VT",
+        "state_full": "Vermont"
+    },
+    {
+        "name": "Champlain College",
+        "state_short": "VT",
+        "state_full": "Vermont"
+    },
+    {
+        "name": "Landmark College",
+        "state_short": "VT",
+        "state_full": "Vermont"
+    },
+    {
+        "name": "Norwich University",
+        "state_short": "VT",
+        "state_full": "Vermont"
+    },
+    {
+        "name": "Saint Michael's College",
+        "state_short": "VT",
+        "state_full": "Vermont"
+    },
+    {
+        "name": "Sterling College",
+        "state_short": "VT",
+        "state_full": "Vermont"
+    },
+    {
+        "name": "University of the Virgin Islands",
+        "state_short": "VI",
+        "state_full": "Virgin Islands"
+    },
+    {
+        "name": "Appalachian School of Law",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Averett University",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Bluefield University",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Bridgewater College",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Emory & Henry College",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Ferrum College",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Hampden",
+        "state_short": "Sydney College",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Hollins University",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Mary Baldwin University",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Marymount University",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Randolph College",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Randolph",
+        "state_short": "Macon College",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Regent University",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Roanoke College",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Shenandoah University",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Sweet Briar College",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "University of Lynchburg",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "University of Richmond",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Virginia Wesleyan University",
+        "state_short": "VA",
+        "state_full": "Virginia"
+    },
+    {
+        "name": "Cornish College of the Arts",
+        "state_short": "WA",
+        "state_full": "Washington"
+    },
+    {
+        "name": "Gonzaga University",
+        "state_short": "WA",
+        "state_full": "Washington"
+    },
+    {
+        "name": "Heritage University",
+        "state_short": "WA",
+        "state_full": "Washington"
+    },
+    {
+        "name": "Pacific Lutheran University",
+        "state_short": "WA",
+        "state_full": "Washington"
+    },
+    {
+        "name": "Saint Martin's University",
+        "state_short": "WA",
+        "state_full": "Washington"
+    },
+    {
+        "name": "Seattle University",
+        "state_short": "WA",
+        "state_full": "Washington"
+    },
+    {
+        "name": "University of Puget Sound",
+        "state_short": "WA",
+        "state_full": "Washington"
+    },
+    {
+        "name": "Whitworth University",
+        "state_short": "WA",
+        "state_full": "Washington"
+    },
+    {
+        "name": "Bethany College",
+        "state_short": "WV",
+        "state_full": "West Virginia"
+    },
+    {
+        "name": "Davis and Elkins College",
+        "state_short": "WV",
+        "state_full": "West Virginia"
+    },
+    {
+        "name": "University of Charleston",
+        "state_short": "WV",
+        "state_full": "West Virginia"
+    },
+    {
+        "name": "West Virginia Wesleyan College",
+        "state_short": "WV",
+        "state_full": "West Virginia"
+    },
+    {
+        "name": "Alverno College",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Beloit College",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Carroll University",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Carthage College",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Concordia University",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Lakeland University",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Lawrence University",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Marian University",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Marquette University",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Milwaukee School of Engineering",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Northland College",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Ripon College",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "St. Norbert College",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    },
+    {
+        "name": "Viterbo University",
+        "state_short": "WI",
+        "state_full": "Wisconsin"
+    }
+]
