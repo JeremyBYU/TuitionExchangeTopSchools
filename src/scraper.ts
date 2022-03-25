@@ -1,16 +1,12 @@
 import axios from "axios"
 import jsdom from "jsdom"
 import ora from 'ora';
-import { USNewsInstitution } from "./types"
+import { USNewsInstitution, SimplifiedInstitution, TESchool } from "./types"
 
 
 const { JSDOM } = jsdom;
 
-interface TESchool {
-  name: string;
-  state_full: string;
-  state_short: string;
-}
+
 
 export async function scrape_tuition_exchange(url: string): Promise<TESchool[]> {
   const html = await axios.get(url);
@@ -85,6 +81,40 @@ export async function scrape_usnews_all_schools(url: string): Promise<USNewsInst
 
   return all_items;
 
+}
+
+
+
+export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNewsInstitution[]): SimplifiedInstitution[] {
+  const simplified_institutions: SimplifiedInstitution[] = usnews_schools.map((usnews_school: USNewsInstitution): SimplifiedInstitution  => {
+    return {
+      displayName: usnews_school.institution.displayName,
+      state: usnews_school.institution.state,
+      city: usnews_school.institution.city,
+      foundTE: false,
+      foundUSNews: true,
+      primaryKey: usnews_school.primaryKey,
+      isPublic: usnews_school.institution.isPublic,
+      aliasNames: usnews_school.institution.aliasNames,
+      schoolType: usnews_school.institution.schoolType,
+      sortName: usnews_school.institution.sortName,
+      rankingType: usnews_school.institution.rankingType,
+      rankingDisplayName: usnews_school.institution.rankingDisplayName,
+      rankingDisplayRank: usnews_school.institution.rankingDisplayRank,
+      rankingSortRank: usnews_school.institution.rankingSortRank,
+      rankingFullDisplayText: usnews_school.institution.rankingFullDisplayText,
+      zip: usnews_school.institution.zip,
+      region: usnews_school.institution.region,
+      tuition: usnews_school.searchData.tuition.rawValue,
+      enrollment: usnews_school.searchData.enrollment.rawValue,
+      acceptanceRate: usnews_school.searchData.acceptanceRate.rawValue,
+      hsGpaAvg: usnews_school.searchData.hsGpaAvg.rawValue
+    }
+  })
+
+  // for each tuition exchange school, try to find the other school in the list
+
+  return []
 }
 
 

@@ -265,11 +265,17 @@ export interface USNewsInstitution {
 /////// End US News Types ///////
 
 
+export interface TESchool {
+  name: string;
+  state_full: string;
+  state_short: string;
+}
+
 export interface SimplifiedInstitution {
   displayName: string; // institution key
   state: string; // institution key
   city: string; // institution key
-  found
+  foundTE: boolean;
   foundUSNews: boolean;
   primaryKey: string[]; // root level
   isPublic: boolean; // institution key, true
@@ -283,8 +289,8 @@ export interface SimplifiedInstitution {
   rankingFullDisplayText: string; // institution key, #18 in Regional Universities North
   zip: string; // institution key
   region: string; // institution key
-  tuition: {value: string, name: string}[] // searchData.tuition.displayValue key
-  enrollment: {value: string, name: string}[] // searchData.enrollment.displayValue key
+  tuition: number; // searchData.tuition.rawValue key
+  enrollment: number; // searchData.enrollment.rawValue key
   acceptanceRate: number // searchData.acceptanceRate.rawValue
   hsGpaAvg: number // searchData.hsGpaAvg.rawValue
 

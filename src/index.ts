@@ -1,4 +1,4 @@
-import { scrape_tuition_exchange, scrape_usnews_all_schools } from "./scraper.js" 
+import { scrape_tuition_exchange, scrape_usnews_all_schools, combine_tes_usnews } from "./scraper.js" 
 import * as fs from "fs"
 import yargs from 'yargs'
 const writeFile = fs.promises.writeFile
@@ -8,6 +8,8 @@ const TUITION_EXCHANGE_FILE = "data/tuition_exchange_schools.json"
 
 const USNEWS_URL = "https://www.usnews.com/best-colleges/api/search?_sort=schoolName&_sortDirection=asc&_page="
 const USNEWS_FILE = "data/usnews_schools.json"
+
+const COMBINED_FILE = "data/combined_data.json"
 
 async function scrape_tes()
 {
@@ -27,10 +29,20 @@ async function scrape_usnews()
   console.log(`Finished - US News Scraper, saved file in ${USNEWS_FILE}`)
 }
 
+async function combine_data()
+{
+  console.log("Starting - Combing data")
+  const data = combine_tes_usnews(JSON.parse(fs.readFileSync(TUITION_EXCHANGE_FILE, 'utf8')), JSON.parse(fs.readFileSync(USNEWS_FILE, 'utf8')))
+  const json = JSON.stringify(data, null, 2)
+  writeFile(COMBINED_FILE, json, 'utf8')
+  console.log(`Finished - Combining Data, saved file in ${COMBINED_FILE}`)
+}
+
 (async () => {
   const argv = yargs(process.argv.splice(2))
     .command('scrape-tes', 'Scrape all the Tuition Exchange Schools', () => {}, scrape_tes)
-    .command('scrape-usnews', 'Scrape all the Tuition Exchange Schools', () => {}, scrape_usnews)
+    .command('scrape-usnews', 'Scrape all the US News Schools', () => {}, scrape_usnews)
+    .command('combine-data', 'Combine Tuition Exchange and US News Data', () => {}, combine_data)
     .demandCommand(1, 1, 'choose a command: scrape-tes or scrape-usnews')
     .strict()
     .alias('scrape-tes','scrape-tuition-exchange-schools')
