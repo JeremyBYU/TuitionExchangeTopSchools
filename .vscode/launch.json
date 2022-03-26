@@ -12,7 +12,7 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/build/src/index.js",
-            "args": ["scrape-usnews"],
+            "args": ["combine-data"],
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
                 "${workspaceFolder}/build/**/*.js"

@@ -1,11 +1,16 @@
 import axios from "axios"
 import jsdom from "jsdom"
 import ora from 'ora';
+import { removeStopwords } from "stopword"
+import TrieSearch from 'trie-search';
 import { USNewsInstitution, SimplifiedInstitution, TESchool } from "./types"
 
 
 const { JSDOM } = jsdom;
 
+const duplicate_handle = {
+  "universityofpittsburgh": "universityofpittsburghpittsburghcampus"
+}
 
 
 export async function scrape_tuition_exchange(url: string): Promise<TESchool[]> {
@@ -84,8 +89,25 @@ export async function scrape_usnews_all_schools(url: string): Promise<USNewsInst
 }
 
 
+export function clean_name(word:string)
+{
+  let new_word = word.toLowerCase()
+  new_word = new_word.replace(/\([^()]*\)/g, '')
+  new_word = new_word.replace(/-*/g, '')
+  new_word = new_word.replace("'", "")
+  new_word = new_word.trim()
+  const new_word_array:string[] = new_word.split(" ")
+  if (new_word_array[0] == "the" || new_word_array[0] == "a" || new_word_array[0] == "an")
+  {
+    new_word_array.shift()
+  }
+  const final_word =  new_word_array.join("")
+  return final_word
+}
+
 
 export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNewsInstitution[]): SimplifiedInstitution[] {
+
   const simplified_institutions: SimplifiedInstitution[] = usnews_schools.map((usnews_school: USNewsInstitution): SimplifiedInstitution  => {
     return {
       displayName: usnews_school.institution.displayName,
@@ -111,6 +133,87 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
       hsGpaAvg: usnews_school.searchData.hsGpaAvg.rawValue
     }
   })
+
+  // eslint-disable-next-line prefer-const
+  let startTime = performance.now()
+  const trie = new TrieSearch('sortName');
+  trie.addAll(simplified_institutions);
+  // eslint-disable-next-line prefer-const
+  let endTime = performance.now()
+  console.log(`Trie index took ${endTime - startTime} milliseconds.`);
+
+  const ignore_list = ["university", "college", "state"] // dont search for these terms, they are not very unique
+  const tes_school_full_data = []
+  const missing_tes_schools = []
+  const duplicate_test_schools = []
+  for (let i = 0; i < tes_school.length; ++i) {
+    const school = tes_school[i];
+    const search_term = clean_name(school.name)
+    const us_news_school_matches:SimplifiedInstitution[] = trie.get(search_term)
+    // No Match Found
+    if (us_news_school_matches.length == 0) {
+      console.log(`Could not find #${i}, ${school.name} in US News`)
+      missing_tes_schools.push(i)
+    }
+    else
+    {
+      let match = us_news_school_matches[0]
+      // Multiple Matches Found
+      if (us_news_school_matches.length > 1) {
+        // Reduce by state
+        const filtered_schools = us_news_school_matches.filter((match) => match.state == school.state_short)
+        if (filtered_schools.length == 1) {
+          match = filtered_schools[0]
+        }
+        else
+        {
+          if (duplicate_handle[search_term])
+          {
+            const filtered_schools_2 = filtered_schools.filter((match) => match.sortName == duplicate_handle[search_term])
+            match = filtered_schools_2[0]
+          }
+          else
+          {
+            console.error(`Found more than one match for ${school.name} in US News. ${us_news_school_matches}`)
+            duplicate_test_schools.push({i: i, school: school, matches: us_news_school_matches})
+            continue;
+          }
+        }
+      }
+      match.foundTE = true
+      tes_school_full_data.push(match)
+    }
+    
+  }
+  console.log("Ready!")
+
+  // const search_list = school.name.split(' ').filter((word) => !ignore_list.includes(word.toLowerCase()))
+  // const possible_matches = new Map()  // store the possible matches in a Map, the value will be the number of hits!
+  // for (const search_term of search_list) {
+  //   console.log(search_term)
+  //   const us_news_school_matches = trie.get(search_term)
+  //   for (const us_news_school of us_news_school_matches)
+  //   {
+  //     if (possible_matches.has(us_news_school))
+  //     { 
+  //       possible_matches.set(us_news_school, possible_matches.get(us_news_school) + 1)
+  //     }
+  //     else
+  //     {
+  //       possible_matches.set(us_news_school, 1)
+  //     }
+  //   }
+  // }
+
+  // startTime = performance.now()
+  // const results = trie.search('California');
+  // endTime = performance.now()
+  // console.log(`Trie search took ${endTime - startTime} milliseconds.`,);
+  // for (const result of results) {
+  //   console.log(result);
+  // }
+
+  
 
   // for each tuition exchange school, try to find the other school in the list
 
