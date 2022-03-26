@@ -1,8 +1,9 @@
 import axios from "axios"
 import jsdom from "jsdom"
 import ora from 'ora';
-import { removeStopwords } from "stopword"
 import TrieSearch from 'trie-search';
+import Wade from 'wade'
+import {removeStopwords} from 'stopword'
 import { USNewsInstitution, SimplifiedInstitution, TESchool } from "./types"
 
 
@@ -130,10 +131,15 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
       tuition: usnews_school.searchData.tuition.rawValue,
       enrollment: usnews_school.searchData.enrollment.rawValue,
       acceptanceRate: usnews_school.searchData.acceptanceRate.rawValue,
-      hsGpaAvg: usnews_school.searchData.hsGpaAvg.rawValue
+      hsGpaAvg: usnews_school.searchData.hsGpaAvg.rawValue,
+      nameTE: "",
+      stateTE: "" 
     }
   })
 
+
+ 
+  
   // eslint-disable-next-line prefer-const
   let startTime = performance.now()
   const trie = new TrieSearch('sortName');
@@ -141,6 +147,15 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
   // eslint-disable-next-line prefer-const
   let endTime = performance.now()
   console.log(`Trie index took ${endTime - startTime} milliseconds.`);
+  
+  startTime = performance.now()
+  const us_news_strings = simplified_institutions.map((school) => { 
+    const index_words = removeStopwords(school.displayName.split(" ")).join(" ")
+    return index_words
+  })
+  const searchWade = Wade(us_news_strings);
+  endTime = performance.now()
+  console.log(`Wade index took ${endTime - startTime} milliseconds.`);
 
   const ignore_list = ["university", "college", "state"] // dont search for these terms, they are not very unique
   const tes_school_full_data = []
@@ -152,8 +167,35 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
     const us_news_school_matches:SimplifiedInstitution[] = trie.get(search_term)
     // No Match Found
     if (us_news_school_matches.length == 0) {
-      console.log(`Could not find #${i}, ${school.name} in US News`)
-      missing_tes_schools.push(i)
+      console.log(`Could not find #${i}, ${school.name} in US News using trie index. Searching using Wade index.`)
+      let search_words = removeStopwords(school.name.split(' '))
+      search_words = removeStopwords(search_words, ignore_list)
+      let wadeMatches = searchWade(search_words.join(' '))
+      wadeMatches = wadeMatches.sort((a, b) => {
+        if (a.score > b.score)
+          return -1
+        else if (a.score < b.score)
+          return 1
+        else return 0;
+      } )
+      let found_match = false
+      for (let j = 0; j < wadeMatches.length; ++j) {
+        const wadeMatch = wadeMatches[j]
+        const match = simplified_institutions[wadeMatch.index]
+        if (match.state == school.state_short && wadeMatch.score > 0.6) {
+          // TODO I should log this
+          match.foundTE = true
+          match.nameTE = school.name
+          match.stateTE = school.state_short
+          tes_school_full_data.push(match)
+          found_match = true;
+          break;
+        }
+      }
+      if (!found_match) {
+        missing_tes_schools.push(i)
+        console.error(`Could not find #${i}, ${school.name} in US News using wade index.`)
+      }
     }
     else
     {
@@ -181,6 +223,8 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
         }
       }
       match.foundTE = true
+      match.nameTE = school.name
+      match.stateTE = school.state_short
       tes_school_full_data.push(match)
     }
     

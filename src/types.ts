@@ -293,5 +293,7 @@ export interface SimplifiedInstitution {
   enrollment: number; // searchData.enrollment.rawValue key
   acceptanceRate: number // searchData.acceptanceRate.rawValue
   hsGpaAvg: number // searchData.hsGpaAvg.rawValue
+  nameTE: string; // blank
+  stateTE: string; // blank
 
 }
