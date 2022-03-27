@@ -264,6 +264,9 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
   endTime = performance.now()
   console.log(`Wade index took ${endTime - startTime} milliseconds.`);
 
+  let count_found_1 = 0
+  let count_found_2 = 0
+
   // eslint-disable-next-line prefer-const
   const ignore_list = ["university", "college", "state"] // dont search for these terms, they are not very unique
   const tes_school_full_data = []
@@ -284,6 +287,7 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
         // console.log(chalk.blue(`Found #${i}, ${school.name} using URL hashmap, ${usnews_url_key}=${usnews_url_map[usnews_url_key]}`))
         match = usnews_url_map[usnews_url_key]
         match.foundTE = true
+        count_found_1+= 1
       }
       else
       {
@@ -292,6 +296,7 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
         match = searchWithWadeIndex(school, ignore_list, searchWade, simplified_institutions)
         if (match != null)
         {
+          count_found_1+= 1
           match.foundTE = true
           match.suspicious = true // this has a false positive rate of about 10% i would guess
         }
@@ -305,28 +310,33 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
     else {
       // we found matches with our trie search! but how many...
       match = us_news_school_matches[0]
+      count_found_2 += 1
       if (us_news_school_matches.length > 1) {
         // Multiple Matches Found 
         // Reduce by state
         const filtered_schools = us_news_school_matches.filter((match) => match.state == school.state_short)
         if (filtered_schools.length == 1) {
           match = filtered_schools[0]
+          // match.foundTE = true
         }
         else {
           if (duplicate_handle[search_term]) {
             const filtered_schools_2 = filtered_schools.filter((match) => match.sortName == duplicate_handle[search_term])
             match = filtered_schools_2[0]
+            // match.foundTE = true
           }
           else {
             console.error(chalk.red(`Found more than one match for ${school.name} in US News. ${us_news_school_matches}`))
             duplicate_test_schools.push({ i: i, school: school, matches: us_news_school_matches })
+            count_found_2 -= 1
             continue;
           }
         }
       }
     }
-    if (match && match.foundTE)
+    if (match)
     {
+      match.foundTE = true
       match.nameTE = school.name
       match.stateTE = school.state_short
       match.urlTE = school.urlTE
@@ -335,6 +345,8 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
     }
 
   }
+
+  console.log(count_found_1, count_found_2)
 
   return [tes_school_full_data, missing_tes_schools]
 }

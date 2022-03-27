@@ -7,6 +7,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
     "@types/node": "~16.11",
     "@types/yargs": "^17.0.10",
     "@typescript-eslint/eslint-plugin": "~5.14",
@@ -15,16 +18,15 @@
     "eslint-config-prettier": "~8.5",
     "prettier": "~2.5",
     "rimraf": "~3.0",
-    "tsutils": "~3.21",
-    "typescript": "~4.6",
-    "@rollup/plugin-commonjs": "^17.0.0",
-    "@rollup/plugin-node-resolve": "^11.0.0",
     "rollup": "^2.3.4",
     "rollup-plugin-css-only": "^3.1.0",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.0.0",
     "rollup-plugin-terser": "^7.0.0",
-    "svelte": "^3.0.0"
+    "svelte": "^3.0.0",
+    "svelte-simple-datatables": "^0.2.3",
+    "tsutils": "~3.21",
+    "typescript": "~4.6"
   },
   "scripts": {
     "prestart": "npm run build || true",
@@ -43,11 +45,11 @@
     "fastest-levenshtein": "^1.0.12",
     "jsdom": "^19.0.0",
     "ora": "^6.1.0",
+    "sirv-cli": "^2.0.0",
     "stopword": "^2.0.1",
     "trie-search": "^1.3.6",
     "wade": "^0.3.3",
-    "yargs": "^17.4.0",
-    "sirv-cli": "^2.0.0"
+    "yargs": "^17.4.0"
   },
   "engines": {
     "node": ">= 16.13 <17"
