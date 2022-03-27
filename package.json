@@ -29,6 +29,7 @@
   "dependencies": {
     "axios": "^0.26.1",
     "chalk": "^5.0.1",
+    "fastest-levenshtein": "^1.0.12",
     "jsdom": "^19.0.0",
     "ora": "^6.1.0",
     "stopword": "^2.0.1",

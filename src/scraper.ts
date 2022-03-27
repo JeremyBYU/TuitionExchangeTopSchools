@@ -3,7 +3,9 @@ import jsdom from "jsdom"
 import ora from 'ora';
 import TrieSearch from 'trie-search';
 import Wade from 'wade'
-import {removeStopwords} from 'stopword'
+import chalk from 'chalk'
+import { removeStopwords } from 'stopword'
+import { distance } from 'fastest-levenshtein'
 import { USNewsInstitution, SimplifiedInstitution, TESchool } from "./types"
 
 
@@ -17,48 +19,65 @@ const duplicate_handle = {
 export async function scrape_tuition_exchange(url: string): Promise<TESchool[]> {
   const html = await axios.get(url);
   const dom = new JSDOM(html.data);
-  const data = dom.window.document.querySelectorAll("table")[0].textContent
-
-  const cleaned = data.substr(data.indexOf("United Arab"))
-  const result = cleaned.split(/\r?\n/);
+  // const data = dom.window.document.querySelectorAll("table")[0].textContent
+  const data = dom.window.document.querySelectorAll("table a")
+  // const filtered_data = data.filter(x => x.href.includes("memlist.cfm"))
   const schools: TESchool[] = []
-  let last_country = "";
-  for (const line of result) {
-    const trimmed_line = line.trim();
-    // skip blank lines
+
+  for (const school of data) {
+    if (!school.href.includes("memlist.cfm")) {
+      continue
+    }
+    const line = school.textContent
+    const trimmed_line = line.trim()
     if (trimmed_line == "")
       continue
-    // determine how many tabs are on the line
-    // if 2 or 0 tabs, this is just the country or state name
-    // eslint-disable-next-line no-control-regex
-    const regex_match = line.match(new RegExp("\t", "g")) // null if no match
-    const num_tabs = regex_match == null ? 0 : regex_match.length
-    if (num_tabs >= 2 || num_tabs == 0) {
-      last_country = trimmed_line
-      continue; // there is no school information on this line, skip
-    }
-    // See if there is a -, hyphen is used to separate the school name from the state
     const line_split = line.split("-")
     if (line_split.length < 2) {
       // This is just the continuation of some line about a state if there is a parantheses, its not a school
       if (line.includes("("))
         continue
-      schools.push({ name: line_split[0].trim(), state_short: "", state_full: last_country });
+      schools.push({ name: line_split[0].trim(), state_short: "", state_full: "", urlTE: "https://telo.tuitionexchange.org/" + school.href, urlSchoolTE: "" });
     }
     else {
       try {
         // sometimes the line has two hyphens. This is just a school name with a hyphen in it
-        if (line_split.length > 2)
-        {
-          line_split[0] = line_split[0].trim() + " " +  line_split[1].trim()
+        if (line_split.length > 2) {
+          line_split[0] = line_split[0].trim() + " " + line_split[1].trim()
           line_split[1] = line_split[2]
         }
-        schools.push({ name: line_split[0].trim(), state_short: line_split[1].trim(), state_full: last_country });
+        schools.push({ name: line_split[0].trim(), state_short: line_split[1].trim(), state_full: "", urlTE: "https://telo.tuitionexchange.org/" + school.href, urlSchoolTE: "" });
       } catch (error) {
         console.error(error, line);
       }
     }
+
   }
+
+  // Scrape **individual** school pages, need to get school url
+  // I slowly realized that the school url is actually the most unique thing about a school!
+  const ora_instance = ora("Scraping Tuition Exchange Schools").start()
+  for (let i = 0; i < schools.length; ++i) {
+    const school = schools[i]
+
+    try {
+      const html = await axios.get(school.urlTE);
+      const dom = new JSDOM(html.data);
+  
+      const xpath = "//strong[text()='School URL']";
+      const matchingElement = dom.window.document.evaluate(xpath, dom.window.document, null, 9, null).singleNodeValue;
+      const urlSchoolTE = matchingElement.nextElementSibling.nextElementSibling
+      school["urlSchoolTE"] = urlSchoolTE.href
+    } catch (error) {
+      console.error(error.response.data);     // NOTE - use "error.response.data` (not "error")
+    }
+    finally
+    {
+      ora_instance.text = `Scraping Tuition Exchange Schools - Page ${i} of ${schools.length}`
+    }
+
+  }
+  ora_instance.stop();
 
   return schools
 }
@@ -66,57 +85,126 @@ export async function scrape_tuition_exchange(url: string): Promise<TESchool[]> 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export async function scrape_usnews_all_schools(url: string): Promise<USNewsInstitution[]> {
   const max_counter = 187 // 187
-  let all_items:USNewsInstitution[] = []
-  const ora_instance = ora("Scraping US News Schools").start()
+  let all_items: USNewsInstitution[] = []
+  const ora_instance = ora("Scraping US News Schools in Bulk").start()
   for (let i = 1; i <= max_counter; i++) {
     const new_url = url + i.toString()
     try {
       const response = await axios.get(new_url);
-      const items:USNewsInstitution[] = response.data.data.items
+      let items: USNewsInstitution[] = response.data.data.items
+      items = items.map((item: USNewsInstitution) => { 
+        const urlUSNews = "https://www.usnews.com/best-colleges/" + item.institution.urlName + "-" + item.institution.primaryKey
+        item.additional = {urlUSNews: urlUSNews, urlSchool: ""}
+        return item
+      })
       all_items = all_items.concat(items)
     } catch (error) {
       console.error(error.response.data);     // NOTE - use "error.response.data` (not "error")
     }
-    finally
-    {
-      ora_instance.text = `Scraping US News Schools - Page ${i} of ${max_counter}`
+    finally {
+      ora_instance.text = `Scraping US News Schools in Bulk - Page ${i} of ${max_counter}`
     }
 
   }
-  ora_instance.stop();
+  ora_instance.succeed("Scraping US News Schools in Bulk - Done");
+  ora_instance.start("Scraping US News Schools Individually")
+
+  for (const item of all_items) {
+    try {
+      const html = await axios.get(item.additional.urlUSNews);
+      const dom = new JSDOM(html.data);
+  
+      const xpath = "//a[text()='Website']";
+      const matchingElement = dom.window.document.evaluate(xpath, dom.window.document, null, 9, null).singleNodeValue;
+      item.additional.urlSchool = matchingElement.href
+      // console.log("tst")
+    
+    } catch (error) {
+      console.error(error);     // NOTE - use "error.response.data` (not "error")
+      console.error(item.additional.urlUSNews)
+    }
+    finally {
+      ora_instance.text = `Scraping US News Schools Individually - ${item.institution.displayName}`
+    }
+
+  }
+  ora_instance.succeed("Scraping US News Schools Individually - Done");
+
 
   return all_items;
 
 }
 
 
-export function clean_name(word:string)
-{
+export function clean_name(word: string) {
   let new_word = word.toLowerCase()
   new_word = new_word.replace(/\([^()]*\)/g, '')
   new_word = new_word.replace(/-*/g, '')
   new_word = new_word.replace("'", "")
   new_word = new_word.trim()
-  const new_word_array:string[] = new_word.split(" ")
-  if (new_word_array[0] == "the" || new_word_array[0] == "a" || new_word_array[0] == "an")
-  {
+  const new_word_array: string[] = new_word.split(" ")
+  if (new_word_array[0] == "the" || new_word_array[0] == "a" || new_word_array[0] == "an") {
     new_word_array.shift()
   }
-  const final_word =  new_word_array.join("")
+  const final_word = new_word_array.join("")
   return final_word
+}
+
+export function searchWithWadeIndex(school: TESchool, ignore_list: string[], searchWade, simplified_institutions: SimplifiedInstitution[]) {
+  let search_words = removeStopwords(school.name.split(' ')) // remove stop words (the, a, an, etc.)
+  search_words = removeStopwords(search_words, ignore_list) // remove obvious words that are not unique
+  let wadeMatches = searchWade(search_words.join(' '))
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  let match: SimplifiedInstitution = null
+  // sort the list by score, high score first
+  wadeMatches = wadeMatches.sort((a, b) => {
+    if (a.score > b.score)
+      return -1
+    else if (a.score < b.score)
+      return 1
+    else return 0;
+  })
+  let found_match = false
+  wadeMatches = wadeMatches.filter((match) => match.score > 0.6)
+  if (wadeMatches.length == 0)
+    return null
+  // eslint-disable-next-line prefer-spread
+  const max_score = Math.max.apply(Math, wadeMatches.map(function (o) { return o.score; }))
+  // only get the top matches that belong in the correct state
+  wadeMatches = wadeMatches.filter((wadeMatch) => (wadeMatch.score >= max_score) && simplified_institutions[wadeMatch.index].state == school.state_short)
+  let min_ldist = 100000
+  for (let j = 0; j < wadeMatches.length; ++j) {
+    const wadeMatch = wadeMatches[j]
+    const match_j = simplified_institutions[wadeMatch.index]
+    const l_ldist = distance(match_j.displayName, school.name)
+    if (l_ldist < min_ldist) {
+      min_ldist = l_ldist
+      found_match = true
+      match = match_j
+    }
+  }
+  if (found_match) {
+    match.foundTE = true
+    match.nameTE = school.name
+    match.stateTE = school.state_short
+    return match
+  }
+  else
+    return null
 }
 
 
 export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNewsInstitution[]): SimplifiedInstitution[] {
 
-  const simplified_institutions: SimplifiedInstitution[] = usnews_schools.map((usnews_school: USNewsInstitution): SimplifiedInstitution  => {
+  const simplified_institutions: SimplifiedInstitution[] = usnews_schools.map((usnews_school: USNewsInstitution): SimplifiedInstitution => {
     return {
       displayName: usnews_school.institution.displayName,
       state: usnews_school.institution.state,
       city: usnews_school.institution.city,
       foundTE: false,
       foundUSNews: true,
-      primaryKey: usnews_school.primaryKey,
+      primaryKey: usnews_school.institution.primaryKey,
+      urlName: usnews_school.institution.urlName,
       isPublic: usnews_school.institution.isPublic,
       aliasNames: usnews_school.institution.aliasNames,
       schoolType: usnews_school.institution.schoolType,
@@ -133,13 +221,13 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
       acceptanceRate: usnews_school.searchData.acceptanceRate.rawValue,
       hsGpaAvg: usnews_school.searchData.hsGpaAvg.rawValue,
       nameTE: "",
-      stateTE: "" 
+      stateTE: ""
     }
   })
 
 
- 
-  
+
+
   // eslint-disable-next-line prefer-const
   let startTime = performance.now()
   const trie = new TrieSearch('sortName');
@@ -147,9 +235,9 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
   // eslint-disable-next-line prefer-const
   let endTime = performance.now()
   console.log(`Trie index took ${endTime - startTime} milliseconds.`);
-  
+
   startTime = performance.now()
-  const us_news_strings = simplified_institutions.map((school) => { 
+  const us_news_strings = simplified_institutions.map((school) => {
     const index_words = removeStopwords(school.displayName.split(" ")).join(" ")
     return index_words
   })
@@ -164,41 +252,22 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
   for (let i = 0; i < tes_school.length; ++i) {
     const school = tes_school[i];
     const search_term = clean_name(school.name)
-    const us_news_school_matches:SimplifiedInstitution[] = trie.get(search_term)
+    const us_news_school_matches: SimplifiedInstitution[] = trie.get(search_term)
     // No Match Found
     if (us_news_school_matches.length == 0) {
-      console.log(`Could not find #${i}, ${school.name} in US News using trie index. Searching using Wade index.`)
-      let search_words = removeStopwords(school.name.split(' '))
-      search_words = removeStopwords(search_words, ignore_list)
-      let wadeMatches = searchWade(search_words.join(' '))
-      wadeMatches = wadeMatches.sort((a, b) => {
-        if (a.score > b.score)
-          return -1
-        else if (a.score < b.score)
-          return 1
-        else return 0;
-      } )
-      let found_match = false
-      for (let j = 0; j < wadeMatches.length; ++j) {
-        const wadeMatch = wadeMatches[j]
-        const match = simplified_institutions[wadeMatch.index]
-        if (match.state == school.state_short && wadeMatch.score > 0.6) {
-          // TODO I should log this
-          match.foundTE = true
-          match.nameTE = school.name
-          match.stateTE = school.state_short
-          tes_school_full_data.push(match)
-          found_match = true;
-          break;
-        }
+      // try and use the school name as a search term use a Wade index
+      // console.log(`Could not find #${i}, ${school.name} in US News using trie index. Searching using Wade index.`)
+      const match = searchWithWadeIndex(school, ignore_list, searchWade, simplified_institutions)
+      if (match != null) {
+        console.log(chalk.green(`Found wade index match. ${school.name}=${match.displayName}, ${school.state_short}=${match.state}`))
+        tes_school_full_data.push(match)
       }
-      if (!found_match) {
-        missing_tes_schools.push(i)
-        console.error(`Could not find #${i}, ${school.name} in US News using wade index.`)
+      else {
+        console.error(chalk.red(`Could not find #${i}, ${school.name} in US News using wade index.`))
+        missing_tes_schools.push(school)
       }
     }
-    else
-    {
+    else {
       let match = us_news_school_matches[0]
       // Multiple Matches Found
       if (us_news_school_matches.length > 1) {
@@ -207,17 +276,14 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
         if (filtered_schools.length == 1) {
           match = filtered_schools[0]
         }
-        else
-        {
-          if (duplicate_handle[search_term])
-          {
+        else {
+          if (duplicate_handle[search_term]) {
             const filtered_schools_2 = filtered_schools.filter((match) => match.sortName == duplicate_handle[search_term])
             match = filtered_schools_2[0]
           }
-          else
-          {
-            console.error(`Found more than one match for ${school.name} in US News. ${us_news_school_matches}`)
-            duplicate_test_schools.push({i: i, school: school, matches: us_news_school_matches})
+          else {
+            console.error(chalk.red(`Found more than one match for ${school.name} in US News. ${us_news_school_matches}`))
+            duplicate_test_schools.push({ i: i, school: school, matches: us_news_school_matches })
             continue;
           }
         }
@@ -227,41 +293,10 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
       match.stateTE = school.state_short
       tes_school_full_data.push(match)
     }
-    
+
   }
-  console.log("Ready!")
 
-  // const search_list = school.name.split(' ').filter((word) => !ignore_list.includes(word.toLowerCase()))
-  // const possible_matches = new Map()  // store the possible matches in a Map, the value will be the number of hits!
-  // for (const search_term of search_list) {
-  //   console.log(search_term)
-  //   const us_news_school_matches = trie.get(search_term)
-  //   for (const us_news_school of us_news_school_matches)
-  //   {
-  //     if (possible_matches.has(us_news_school))
-  //     { 
-  //       possible_matches.set(us_news_school, possible_matches.get(us_news_school) + 1)
-  //     }
-  //     else
-  //     {
-  //       possible_matches.set(us_news_school, 1)
-  //     }
-  //   }
-  // }
-
-  // startTime = performance.now()
-  // const results = trie.search('California');
-  // endTime = performance.now()
-  // console.log(`Trie search took ${endTime - startTime} milliseconds.`,);
-  // for (const result of results) {
-  //   console.log(result);
-  // }
-
-  
-
-  // for each tuition exchange school, try to find the other school in the list
-
-  return []
+  return tes_school_full_data
 }
 
 

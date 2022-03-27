@@ -2,3396 +2,4754 @@
   {
     "name": "American University Sharjah",
     "state_short": "UAE",
-    "state_full": "United Arab Emirates"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1126",
+    "urlSchoolTE": "http://www.aus.edu/"
   },
   {
     "name": "Franklin University Switzerland",
     "state_short": "SW",
-    "state_full": "Switzerland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1304",
+    "urlSchoolTE": "http://www.fus.edu/"
   },
   {
     "name": "Al Akhawayn University in Ifrane",
     "state_short": "MR",
-    "state_full": "Morocco"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1190",
+    "urlSchoolTE": "http://www.aui.ma/"
   },
   {
     "name": "American College of Greece",
     "state_short": "GR",
-    "state_full": "Greece"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1156",
+    "urlSchoolTE": "http://www.acg.edu/"
   },
   {
     "name": "American College of Thessaloniki",
     "state_short": "GR",
-    "state_full": "Greece"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1286",
+    "urlSchoolTE": "https://www.act.edu/"
   },
   {
     "name": "Trinity Western University",
     "state_short": "Canada",
-    "state_full": "Canada"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1333",
+    "urlSchoolTE": "https://www.twu.ca/"
   },
   {
     "name": "Birmingham Southern College",
     "state_short": "AL",
-    "state_full": "Alabama"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=42",
+    "urlSchoolTE": "http://www.bsc.edu/"
   },
   {
     "name": "Huntingdon College",
     "state_short": "AL",
-    "state_full": "Alabama"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=146",
+    "urlSchoolTE": "http://www.huntingdon.edu/"
   },
   {
     "name": "Samford University",
     "state_short": "AL",
-    "state_full": "Alabama"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=944",
+    "urlSchoolTE": "http://www.samford.edu/"
   },
   {
     "name": "Spring Hill College",
     "state_short": "AL",
-    "state_full": "Alabama"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1188",
+    "urlSchoolTE": "http://www.shc.edu/"
   },
   {
     "name": "Alaska Pacific University",
     "state_short": "AK",
-    "state_full": "Alaska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1032",
+    "urlSchoolTE": "http://www.alaskapacific.edu/"
   },
   {
     "name": "Grand Canyon University",
     "state_short": "AZ",
-    "state_full": "Arizona"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=927",
+    "urlSchoolTE": "http://www.gcu.edu/"
   },
   {
     "name": "Prescott College",
     "state_short": "AZ",
-    "state_full": "Arizona"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=256",
+    "urlSchoolTE": "http://www.prescott.edu/"
   },
   {
     "name": "Harding University",
     "state_short": "AR",
-    "state_full": "Arkansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=133",
+    "urlSchoolTE": "http://www.harding.edu/"
   },
   {
     "name": "Hendrix College",
     "state_short": "AR",
-    "state_full": "Arkansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=135",
+    "urlSchoolTE": "http://www.hendrix.edu/"
   },
   {
     "name": "Lyon College",
     "state_short": "AR",
-    "state_full": "Arkansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=960",
+    "urlSchoolTE": "http://www.lyon.edu/"
   },
   {
     "name": "Ouachita Baptist University",
     "state_short": "AR",
-    "state_full": "Arkansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1119",
+    "urlSchoolTE": "http://www.obu.edu/"
   },
   {
     "name": "University of the Ozarks",
     "state_short": "AR",
-    "state_full": "Arkansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1095",
+    "urlSchoolTE": "http://www.ozarks.edu/"
   },
   {
     "name": "Azusa Pacific University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=22",
+    "urlSchoolTE": "http://www.apu.edu/"
   },
   {
     "name": "Biola University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1039",
+    "urlSchoolTE": "http://www.biola.edu/"
   },
   {
     "name": "California Baptist University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=934",
+    "urlSchoolTE": "http://www.calbaptist.edu/"
   },
   {
     "name": "California College of the Arts",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1224",
+    "urlSchoolTE": "https://www.cca.edu/"
   },
   {
     "name": "California Institute of Integral Studies",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1141",
+    "urlSchoolTE": "http://www.ciis.edu/"
   },
   {
     "name": "California Lutheran University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=422",
+    "urlSchoolTE": "http://www.callutheran.edu/"
   },
   {
     "name": "Chapman University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=60",
+    "urlSchoolTE": "http://www.chapman.edu/"
   },
   {
     "name": "Concordia University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1105",
+    "urlSchoolTE": "http://www.cui.edu/"
   },
   {
     "name": "Dominican University of California",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1034",
+    "urlSchoolTE": "www.dominican.edu"
   },
   {
     "name": "Franciscan School of Theology",
     "state_short": "",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1339",
+    "urlSchoolTE": "https://www.fst.edu/"
   },
   {
     "name": "Fresno Pacific University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=956",
+    "urlSchoolTE": "http://www.fresno.edu/"
   },
   {
     "name": "Hope International University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1296",
+    "urlSchoolTE": "http://www.hiu.edu/"
   },
   {
     "name": "Loyola Marymount University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1129",
+    "urlSchoolTE": "http://www.lmu.edu/"
   },
   {
     "name": "Marymount California University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1079",
+    "urlSchoolTE": "http://www.marymountcalifornia.edu/"
   },
   {
     "name": "Mills College",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=198",
+    "urlSchoolTE": "http://www.mills.edu/"
   },
   {
     "name": "Mount Saint Mary's University Los Angeles",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=894",
+    "urlSchoolTE": "http://www.msmu.edu/"
   },
   {
     "name": "Notre Dame de Namur University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1183",
+    "urlSchoolTE": "http://ndnu.edu/"
   },
   {
     "name": "Occidental College",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=939",
+    "urlSchoolTE": "http://www.oxy.edu/"
   },
   {
     "name": "Pitzer College",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1357",
+    "urlSchoolTE": "http://www.pitzer.edu/"
   },
   {
     "name": "Saint Mary's College of California",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=950",
+    "urlSchoolTE": "http://www.stmarys-ca.edu/"
   },
   {
     "name": "Santa Clara University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=277",
+    "urlSchoolTE": "http://www.scu.edu/"
   },
   {
     "name": "Simpson University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1014",
+    "urlSchoolTE": "http://www.simpsonu.edu/"
   },
   {
     "name": "Southwestern Law School",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=326",
+    "urlSchoolTE": "http://www.swlaw.edu/"
   },
   {
     "name": "The Chicago School of Professional Psychology",
     "state_short": "",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1265",
+    "urlSchoolTE": "http://www.thechicagoschool.edu/"
   },
   {
     "name": "The Master's University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1272",
+    "urlSchoolTE": "http://www.masters.edu/"
   },
   {
     "name": "University of La Verne",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=353",
+    "urlSchoolTE": "http://www.laverne.edu/"
   },
   {
     "name": "University of Redlands",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=360",
+    "urlSchoolTE": "http://www.redlands.edu/"
   },
   {
     "name": "University of San Diego",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=989",
+    "urlSchoolTE": "http://www.sandiego.edu/"
   },
   {
     "name": "University of San Francisco",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=933",
+    "urlSchoolTE": "http://www.usfca.edu/undergraduate/"
   },
   {
     "name": "University of Southern California",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=364",
+    "urlSchoolTE": "http://www.usc.edu/"
   },
   {
     "name": "University of the Pacific",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=357",
+    "urlSchoolTE": "http://www.pacific.edu/"
   },
   {
     "name": "Vanguard University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=408",
+    "urlSchoolTE": "http://www.vanguard.edu/"
   },
   {
     "name": "Westmont College",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=398",
+    "urlSchoolTE": "http://www.westmont.edu/"
   },
   {
     "name": "Whittier College",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=387",
+    "urlSchoolTE": "http://www.whittier.edu/"
   },
   {
     "name": "William Jessup University",
     "state_short": "CA",
-    "state_full": "California"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1360",
+    "urlSchoolTE": "https://www.jessup.edu/"
   },
   {
     "name": "Regis University",
     "state_short": "CO",
-    "state_full": "Colorado"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=971",
+    "urlSchoolTE": "http://www.regis.edu/"
   },
   {
     "name": "Western Colorado University",
     "state_short": "CO",
-    "state_full": "Colorado"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1258",
+    "urlSchoolTE": "https://www.western.edu/"
   },
   {
     "name": "Connecticut College",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=74",
+    "urlSchoolTE": "http://www.connecticutcollege.edu/"
   },
   {
     "name": "Fairfield University",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=907",
+    "urlSchoolTE": "http://www.fairfield.edu/"
   },
   {
     "name": "Goodwin College",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1147",
+    "urlSchoolTE": "http://www.goodwin.edu/"
   },
   {
     "name": "Mitchell College",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1073",
+    "urlSchoolTE": "http://www.mitchell.edu/"
   },
   {
     "name": "Post University",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1363",
+    "urlSchoolTE": "http://post.edu/"
   },
   {
     "name": "Quinnipiac University",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=258",
+    "urlSchoolTE": "http://www.quinnipiac.edu/"
   },
   {
     "name": "Sacred Heart University",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=286",
+    "urlSchoolTE": "http://www.sacredheart.edu/"
   },
   {
     "name": "Trinity College",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1204",
+    "urlSchoolTE": "http://www.trincoll.edu/"
   },
   {
     "name": "University of Bridgeport, The Inc",
     "state_short": "",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1361",
+    "urlSchoolTE": "https://www.bridgeport.edu/"
   },
   {
     "name": "University of Hartford",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=349",
+    "urlSchoolTE": "http://www.hartford.edu/"
   },
   {
     "name": "University of New Haven",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=224",
+    "urlSchoolTE": "http://www.newhaven.edu/"
   },
   {
     "name": "University of Saint Joseph",
     "state_short": "CT",
-    "state_full": "Connecticut"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=306",
+    "urlSchoolTE": "http://www.usj.edu/"
   },
   {
     "name": "University of Delaware",
     "state_short": "DE",
-    "state_full": "Delaware"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=344",
+    "urlSchoolTE": "http://www.udel.edu/"
   },
   {
     "name": "Wilmington University",
     "state_short": "DE",
-    "state_full": "Delaware"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1061",
+    "urlSchoolTE": "http://www.wilmu.edu/inquiry/mobile/generaldegrees0.aspx?utm_campaign=leadgeneratio&utm_expid=8459971-10.IsMjetobQUuBN3ykuHy0oA.0"
   },
   {
     "name": "American University",
     "state_short": "DC",
-    "state_full": "District of Columbia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=10",
+    "urlSchoolTE": "http://american.edu/admissions"
   },
   {
     "name": "Catholic University of America, The",
     "state_short": "DC",
-    "state_full": "District of Columbia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=79",
+    "urlSchoolTE": "https://www.catholic.edu/index.html"
   },
   {
     "name": "George Washington University",
     "state_short": "DC, The",
-    "state_full": "District of Columbia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=127",
+    "urlSchoolTE": "https://www.gwu.edu/"
   },
   {
     "name": "Trinity Washington University",
     "state_short": "DC",
-    "state_full": "District of Columbia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=336",
+    "urlSchoolTE": "http://www.trinitydc.edu/"
   },
   {
     "name": "Ave Maria University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1352",
+    "urlSchoolTE": "https://www.avemaria.edu/"
   },
   {
     "name": "Barry University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=430",
+    "urlSchoolTE": "http://www.barry.edu/"
   },
   {
     "name": "Eckerd College",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=97",
+    "urlSchoolTE": "https://www.eckerd.edu/"
   },
   {
     "name": "Embry Riddle Aeronautical University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=982",
+    "urlSchoolTE": "http://www.erau.edu/"
   },
   {
     "name": "Flagler College",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=110",
+    "urlSchoolTE": "http://www.flagler.edu/"
   },
   {
     "name": "Florida Institute of Technology",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1122",
+    "urlSchoolTE": "http://www.fit.edu/"
   },
   {
     "name": "Florida Southern College",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=111",
+    "urlSchoolTE": "http://www.flsouthern.edu/"
   },
   {
     "name": "Jacksonville University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=951",
+    "urlSchoolTE": "http://www.ju.edu/"
   },
   {
     "name": "Lynn University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1036",
+    "urlSchoolTE": "http://www.lynn.edu/"
   },
   {
     "name": "New College of Florida",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1169",
+    "urlSchoolTE": "http://www.ncf.edu/"
   },
   {
     "name": "Palm Beach Atlantic University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=416",
+    "urlSchoolTE": "http://www.pba.edu/"
   },
   {
     "name": "Rollins College",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1206",
+    "urlSchoolTE": "http://www.rollins.edu/"
   },
   {
     "name": "Saint Leo University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=310",
+    "urlSchoolTE": "http://www.saintleo.edu/"
   },
   {
     "name": "St. Thomas University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=318",
+    "urlSchoolTE": "http://www.stu.edu/"
   },
   {
     "name": "Stetson University",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=421",
+    "urlSchoolTE": "http://www.stetson.edu/"
   },
   {
     "name": "University of Florida",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=348",
+    "urlSchoolTE": "http://www.ufl.edu/"
   },
   {
     "name": "University of North Florida",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=355",
+    "urlSchoolTE": "http://www.unf.edu/"
   },
   {
     "name": "University of Tampa",
     "state_short": "FL",
-    "state_full": "Florida"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=328",
+    "urlSchoolTE": "http://www.ut.edu/"
   },
   {
     "name": "Agnes Scott College",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=16",
+    "urlSchoolTE": "http://www.agnesscott.edu/"
   },
   {
     "name": "Berry College",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=953",
+    "urlSchoolTE": "http://www.berry.edu/"
   },
   {
     "name": "Brenau University",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=419",
+    "urlSchoolTE": "http://www.brenau.edu/"
   },
   {
     "name": "Covenant College",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=905",
+    "urlSchoolTE": "http://www.covenant.edu/"
   },
   {
     "name": "LaGrange College",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=164",
+    "urlSchoolTE": "http://www.lagrange.edu/"
   },
   {
     "name": "Mercer University",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1075",
+    "urlSchoolTE": "http://undergrad.mercer.edu/"
   },
   {
     "name": "Oglethorpe University",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=236",
+    "urlSchoolTE": "http://www.oglethorpe.edu/"
   },
   {
     "name": "Piedmont University",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1316",
+    "urlSchoolTE": "https://www.piedmont.edu/"
   },
   {
     "name": "Reinhardt University",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1212",
+    "urlSchoolTE": "http://www.reinhardt.edu/"
   },
   {
     "name": "Shorter University",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=285",
+    "urlSchoolTE": "http://www.shorter.edu/"
   },
   {
     "name": "Toccoa Falls College",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1198",
+    "urlSchoolTE": "http://www.tfc.edu/"
   },
   {
     "name": "Truett McConnell University",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1167",
+    "urlSchoolTE": "http://www.truett.edu/"
   },
   {
     "name": "Wesleyan College",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=380",
+    "urlSchoolTE": "http://www.wesleyancollege.edu/"
   },
   {
     "name": "Young Harris College",
     "state_short": "GA",
-    "state_full": "Georgia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1029",
+    "urlSchoolTE": "http://www.yhc.edu/"
   },
   {
     "name": "Hawaii Pacific University",
     "state_short": "HI",
-    "state_full": "Hawaii"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1269",
+    "urlSchoolTE": "http://www.hpu.edu/"
   },
   {
     "name": "College of Idaho (The)",
     "state_short": "ID",
-    "state_full": "Idaho"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=5",
+    "urlSchoolTE": "http://www.collegeofidaho.edu/"
   },
   {
     "name": "Augustana College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=20",
+    "urlSchoolTE": "http://www.augustana.edu/"
   },
   {
     "name": "Aurora University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=21",
+    "urlSchoolTE": "http://www.aurora.edu/"
   },
   {
     "name": "Benedictine University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=148",
+    "urlSchoolTE": "http://www.ben.edu/"
   },
   {
     "name": "Blackburn College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1205",
+    "urlSchoolTE": "http://www.blackburn.edu/"
   },
   {
     "name": "Bradley University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=37",
+    "urlSchoolTE": "http://www.bradley.edu/"
   },
   {
     "name": "Columbia College Chicago",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1072",
+    "urlSchoolTE": "http://www.colum.edu/"
   },
   {
     "name": "Concordia University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=978",
+    "urlSchoolTE": "http://www.cuchicago.edu/"
   },
   {
     "name": "DePaul University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=925",
+    "urlSchoolTE": "http://www.depaul.edu/"
   },
   {
     "name": "Dominican University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=90",
+    "urlSchoolTE": "http://www.dom.edu/"
   },
   {
     "name": "Elmhurst University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=98",
+    "urlSchoolTE": "http://www.elmhurst.edu/"
   },
   {
     "name": "Eureka College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1320",
+    "urlSchoolTE": "https://eureka.edu/"
   },
   {
     "name": "Illinois College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=149",
+    "urlSchoolTE": "http://www.ic.edu/"
   },
   {
     "name": "Illinois Institute of Technology",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=984",
+    "urlSchoolTE": "http://admission.iit.edu/"
   },
   {
     "name": "Illinois Wesleyan University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1331",
+    "urlSchoolTE": "https://www.iwu.edu/"
   },
   {
     "name": "Judson University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=154",
+    "urlSchoolTE": "http://www.judsonu.edu/"
   },
   {
     "name": "Knox College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1114",
+    "urlSchoolTE": "http://www.knox.edu/"
   },
   {
     "name": "Lewis University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=169",
+    "urlSchoolTE": "http://www.lewisu.edu/"
   },
   {
     "name": "Lincoln College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1220",
+    "urlSchoolTE": "http://lincolncollege.edu/"
   },
   {
     "name": "McKendree University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=886",
+    "urlSchoolTE": "http://www.mckendree.edu/"
   },
   {
     "name": "Methodist College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1184",
+    "urlSchoolTE": "http://methodistcol.edu/"
   },
   {
     "name": "Millikin University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=197",
+    "urlSchoolTE": "http://www.millikin.edu/"
   },
   {
     "name": "Monmouth College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=200",
+    "urlSchoolTE": "http://www.monmouthcollege.edu/"
   },
   {
     "name": "National Louis University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=227",
+    "urlSchoolTE": "http://www.nl.edu/"
   },
   {
     "name": "North Central College",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=217",
+    "urlSchoolTE": "http://www.northcentralcollege.edu/"
   },
   {
     "name": "North Park University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=229",
+    "urlSchoolTE": "http://www.northpark.edu/"
   },
   {
     "name": "Northern Baptist Theological Seminary",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=945",
+    "urlSchoolTE": "http://www.seminary.edu/"
   },
   {
     "name": "Oak Point University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1263",
+    "urlSchoolTE": "http://www.resu.edu/"
   },
   {
     "name": "Quincy University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=259",
+    "urlSchoolTE": "http://www.quincy.edu/"
   },
   {
     "name": "Rockford University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=269",
+    "urlSchoolTE": "http://www.rockford.edu/"
   },
   {
     "name": "Roosevelt University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=271",
+    "urlSchoolTE": "http://www.roosevelt.edu/"
   },
   {
     "name": "Saint Xavier University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=320",
+    "urlSchoolTE": "http://www.sxu.edu/"
   },
   {
     "name": "School of the Art Institute of Chicago",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1011",
+    "urlSchoolTE": "http://www.saic.edu/"
   },
   {
     "name": "Trinity International University",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=443",
+    "urlSchoolTE": "http://www.tiu.edu/"
   },
   {
     "name": "University of St. Francis",
     "state_short": "IL",
-    "state_full": "Illinois"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=366",
+    "urlSchoolTE": "http://www.stfrancis.edu/"
   },
   {
     "name": "Anderson University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=441",
+    "urlSchoolTE": "http://www.anderson.edu/"
   },
   {
     "name": "Butler University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=45",
+    "urlSchoolTE": "www.butler.edu"
   },
   {
     "name": "Calumet College of Saint Joseph",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1017",
+    "urlSchoolTE": "http://www.ccsj.edu/"
   },
   {
     "name": "DePauw University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1104",
+    "urlSchoolTE": "http://www.depauw.edu/"
   },
   {
     "name": "Franklin College",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=114",
+    "urlSchoolTE": "http://www.franklincollege.edu/"
   },
   {
     "name": "Grace College",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1343",
+    "urlSchoolTE": "http://www.grace.edu/"
   },
   {
     "name": "Hanover College",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=130",
+    "urlSchoolTE": "http://www.hanover.edu/"
   },
   {
     "name": "Holy Cross College",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=986",
+    "urlSchoolTE": "https://www.hcc-nd.edu/"
   },
   {
     "name": "Huntington University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1038",
+    "urlSchoolTE": "http://www.huntington.edu/"
   },
   {
     "name": "Indiana Institute of Technology",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=151",
+    "urlSchoolTE": "http://www.indianatech.edu/"
   },
   {
     "name": "Manchester University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=941",
+    "urlSchoolTE": "http://www.manchester.edu/"
   },
   {
     "name": "Marian University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=180",
+    "urlSchoolTE": "http://www.marian.edu/"
   },
   {
     "name": "Oakland City University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=235",
+    "urlSchoolTE": "http://www.oak.edu/"
   },
   {
     "name": "Rose Hulman Institute of Technology",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1006",
+    "urlSchoolTE": "http://www.rose-hulman.edu/"
   },
   {
     "name": "Saint Mary of",
     "state_short": "the",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1118",
+    "urlSchoolTE": "http://www.smwc.edu/"
   },
   {
     "name": "Saint Mary's College",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1355",
+    "urlSchoolTE": "https://www.saintmarys.edu/"
   },
   {
     "name": "Trine University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=338",
+    "urlSchoolTE": "http://www.trine.edu/"
   },
   {
     "name": "University of Evansville",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=346",
+    "urlSchoolTE": "http://www.evansville.edu/"
   },
   {
     "name": "University of Indianapolis",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=350",
+    "urlSchoolTE": "www.uindy.edu"
   },
   {
     "name": "University of Saint Francis",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=975",
+    "urlSchoolTE": "http://www.sf.edu/"
   },
   {
     "name": "Valparaiso University",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=368",
+    "urlSchoolTE": "http://www.valpo.edu/"
   },
   {
     "name": "Wabash College",
     "state_short": "IN",
-    "state_full": "Indiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=371",
+    "urlSchoolTE": "http://www.wabash.edu/"
   },
   {
     "name": "Briar Cliff University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=38",
+    "urlSchoolTE": "http://www.briarcliff.edu/"
   },
   {
     "name": "Buena Vista University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=44",
+    "urlSchoolTE": "http://www.bvu.edu/"
   },
   {
     "name": "Central College",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=57",
+    "urlSchoolTE": "http://www.central.edu/"
   },
   {
     "name": "Clarke University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=923",
+    "urlSchoolTE": "http://www.clarke.edu/"
   },
   {
     "name": "Coe College",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=68",
+    "urlSchoolTE": "http://www.coe.edu/"
   },
   {
     "name": "Cornell College",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=76",
+    "urlSchoolTE": "http://www.cornellcollege.edu/"
   },
   {
     "name": "Drake University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=91",
+    "urlSchoolTE": "http://www.drake.edu/"
   },
   {
     "name": "Graceland University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=985",
+    "urlSchoolTE": "http://www.graceland.edu/"
   },
   {
     "name": "Grand View University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=123",
+    "urlSchoolTE": "http://www.grandview.edu/"
   },
   {
     "name": "Iowa Wesleyan University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1052",
+    "urlSchoolTE": "http://www.iw.edu/"
   },
   {
     "name": "Loras College",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=173",
+    "urlSchoolTE": "http://www.loras.edu/"
   },
   {
     "name": "Luther College",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=175",
+    "urlSchoolTE": "http://www.luther.edu/"
   },
   {
     "name": "Mercy College of Health Sciences",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1046",
+    "urlSchoolTE": "http://www.mchs.edu/"
   },
   {
     "name": "Morningside College",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=205",
+    "urlSchoolTE": "http://www.morningside.edu/"
   },
   {
     "name": "Mount Mercy University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=887",
+    "urlSchoolTE": "http://www.mtmercy.edu/"
   },
   {
     "name": "Simpson College",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=289",
+    "urlSchoolTE": "http://www.simpson.edu/"
   },
   {
     "name": "St. Ambrose University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=279",
+    "urlSchoolTE": "http://www.sau.edu/"
   },
   {
     "name": "University of Dubuque",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=345",
+    "urlSchoolTE": "http://www.dbq.edu/"
   },
   {
     "name": "Upper Iowa University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=351",
+    "urlSchoolTE": "http://www.uiu.edu/"
   },
   {
     "name": "Wartburg College",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=377",
+    "urlSchoolTE": "http://www.wartburg.edu/"
   },
   {
     "name": "William Penn University",
     "state_short": "IA",
-    "state_full": "Iowa"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=402",
+    "urlSchoolTE": "http://www.wmpenn.edu/"
   },
   {
     "name": "Baker University",
     "state_short": "KS",
-    "state_full": "Kansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=23",
+    "urlSchoolTE": "http://www.bakeru.edu/"
   },
   {
     "name": "Benedictine College",
     "state_short": "KS",
-    "state_full": "Kansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=434",
+    "urlSchoolTE": "http://www.benedictine.edu/"
   },
   {
     "name": "Bethany College",
     "state_short": "KS",
-    "state_full": "Kansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=34",
+    "urlSchoolTE": "http://www.bethanylb.edu/"
   },
   {
     "name": "Cleveland University Kansas City",
     "state_short": "KS",
-    "state_full": "Kansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1362",
+    "urlSchoolTE": "https://www.cleveland.edu/"
   },
   {
     "name": "Kansas Wesleyan University",
     "state_short": "KS",
-    "state_full": "Kansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=954",
+    "urlSchoolTE": "http://www.kwu.edu/"
   },
   {
     "name": "Newman University",
     "state_short": "KS",
-    "state_full": "Kansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=979",
+    "urlSchoolTE": "http://www.newmanu.edu/"
   },
   {
     "name": "Ottawa University",
     "state_short": "KS",
-    "state_full": "Kansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=240",
+    "urlSchoolTE": "http://www.ottawa.edu/"
   },
   {
     "name": "Southwestern College",
     "state_short": "KS",
-    "state_full": "Kansas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=324",
+    "urlSchoolTE": "http://www.sckans.edu/"
   },
   {
     "name": "Bellarmine University",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=877",
+    "urlSchoolTE": "http://www.bellarmine.edu/"
   },
   {
     "name": "Berea College",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=31",
+    "urlSchoolTE": "http://www.berea.edu/"
   },
   {
     "name": "Boyce College",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1318",
+    "urlSchoolTE": "https://boycecollege.com/"
   },
   {
     "name": "Brescia University",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=949",
+    "urlSchoolTE": "http://www.brescia.edu/"
   },
   {
     "name": "Centre College",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=920",
+    "urlSchoolTE": "http://www.centre.edu/"
   },
   {
     "name": "Georgetown College",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=119",
+    "urlSchoolTE": "http://www.georgetowncollege.edu/"
   },
   {
     "name": "Kentucky Wesleyan College",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=162",
+    "urlSchoolTE": "http://www.kwc.edu/"
   },
   {
     "name": "Lindsey Wilson College",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=958",
+    "urlSchoolTE": "http://www.lindsey.edu/"
   },
   {
     "name": "Midway University",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1028",
+    "urlSchoolTE": "http://www.midway.edu/"
   },
   {
     "name": "Southern Baptist Theological Seminary",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1317",
+    "urlSchoolTE": "https://www.sbts.edu/"
   },
   {
     "name": "Thomas More University",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=333",
+    "urlSchoolTE": "http://www.thomasmore.edu/"
   },
   {
     "name": "Transylvania University",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=335",
+    "urlSchoolTE": "http://www.transy.edu/"
   },
   {
     "name": "Union College",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1065",
+    "urlSchoolTE": "http://www.unionky.edu/"
   },
   {
     "name": "University of the Cumberlands, The",
     "state_short": "KY",
-    "state_full": "Kentucky"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=906",
+    "urlSchoolTE": "http://www.ucumberlands.edu/"
   },
   {
     "name": "Centenary College",
     "state_short": "LA",
-    "state_full": "Louisiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=58",
+    "urlSchoolTE": "http://www.centenary.edu/"
   },
   {
     "name": "Dillard University",
     "state_short": "LA",
-    "state_full": "Louisiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1313",
+    "urlSchoolTE": "http://www.dillard.edu/"
   },
   {
     "name": "Leavell College",
     "state_short": "LA",
-    "state_full": "Louisiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1325",
+    "urlSchoolTE": "https://www.nobts.edu/LeavellCollege/"
   },
   {
     "name": "Louisiana Tech University",
     "state_short": "LA",
-    "state_full": "Louisiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1164",
+    "urlSchoolTE": "http://www.latech.edu/"
   },
   {
     "name": "Loyola University New Orleans",
     "state_short": "LA",
-    "state_full": "Louisiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1226",
+    "urlSchoolTE": "http://www.loyno.edu/humanresources"
   },
   {
     "name": "New Orleans Baptist Theological Seminary",
     "state_short": "LA",
-    "state_full": "Louisiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1321",
+    "urlSchoolTE": "https://nobts.edu/"
   },
   {
     "name": "Tulane University",
     "state_short": "LA",
-    "state_full": "Louisiana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=339",
+    "urlSchoolTE": "http://www.tulane.edu/"
   },
   {
     "name": "Maine College of Art",
     "state_short": "ME",
-    "state_full": "Maine"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1173",
+    "urlSchoolTE": "http://meca.edu/"
   },
   {
     "name": "Saint Joseph's College of Maine",
     "state_short": "ME",
-    "state_full": "Maine"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=290",
+    "urlSchoolTE": "http://www.sjcme.edu/"
   },
   {
     "name": "University of New England",
     "state_short": "ME",
-    "state_full": "Maine"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1137",
+    "urlSchoolTE": "http://www.une.edu/"
   },
   {
     "name": "Goucher College",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=122",
+    "urlSchoolTE": "http://www.goucher.edu/"
   },
   {
     "name": "HBP",
     "state_short": "",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1124",
+    "urlSchoolTE": "http://www.hbp.com/"
   },
   {
     "name": "Hood College",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=142",
+    "urlSchoolTE": "http://www.hood.edu/"
   },
   {
     "name": "Loyola University Maryland",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=172",
+    "urlSchoolTE": "http://www.loyola.edu/"
   },
   {
     "name": "Maryland Institute College of Art (MICA)",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=437",
+    "urlSchoolTE": "http://www.mica.edu/"
   },
   {
     "name": "Maryland University of Integrative Health",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1285",
+    "urlSchoolTE": "http://www.muih.edu/"
   },
   {
     "name": "McDaniel College",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=384",
+    "urlSchoolTE": "http://www.mcdaniel.edu/"
   },
   {
     "name": "Mount Saint Mary's University",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=206",
+    "urlSchoolTE": "http://www.msmary.edu/"
   },
   {
     "name": "Notre Dame of Maryland University",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=231",
+    "urlSchoolTE": "http://www.ndm.edu/"
   },
   {
     "name": "St. John's College",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1303",
+    "urlSchoolTE": "http://www.sjc.edu/"
   },
   {
     "name": "St. Mary's College of Maryland",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=987",
+    "urlSchoolTE": "http://www.smcm.edu/admissions"
   },
   {
     "name": "Stevenson University",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1002",
+    "urlSchoolTE": "http://www.stevenson.edu/"
   },
   {
     "name": "Washington College",
     "state_short": "MD",
-    "state_full": "Maryland"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=375",
+    "urlSchoolTE": "http://www.washcoll.edu/"
   },
   {
     "name": "American International College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1311",
+    "urlSchoolTE": "http://www.aic.edu/"
   },
   {
     "name": "Anna Maria College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=14",
+    "urlSchoolTE": "http://www.annamaria.edu/"
   },
   {
     "name": "Assumption University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=18",
+    "urlSchoolTE": "http://www.assumption.edu/"
   },
   {
     "name": "Bard College at Simon's Rock",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=300",
+    "urlSchoolTE": "http://www.simons-rock.edu/"
   },
   {
     "name": "Bay Path University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1097",
+    "urlSchoolTE": "http://www.baypath.edu/"
   },
   {
     "name": "Bay State College",
     "state_short": "",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1344",
+    "urlSchoolTE": "http://www.baystate.edu/"
   },
   {
     "name": "Boston University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1068",
+    "urlSchoolTE": "http://www.bu.edu/"
   },
   {
     "name": "Clark University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1121",
+    "urlSchoolTE": "http://www.clarku.edu/"
   },
   {
     "name": "Curry College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=81",
+    "urlSchoolTE": "http://www.curry.edu/"
   },
   {
     "name": "Dean College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=86",
+    "urlSchoolTE": "http://www.dean.edu/"
   },
   {
     "name": "Elms College (College of our Lady of the Elms)",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1001",
+    "urlSchoolTE": "http://www.elms.edu/"
   },
   {
     "name": "Emerson College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=100",
+    "urlSchoolTE": "http://www.emerson.edu/"
   },
   {
     "name": "Emmanuel College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=102",
+    "urlSchoolTE": "http://www.emmanuel.edu/"
   },
   {
     "name": "Endicott College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=930",
+    "urlSchoolTE": "http://www.endicott.edu/"
   },
   {
     "name": "Fisher College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1166",
+    "urlSchoolTE": "http://www.fisher.edu/"
   },
   {
     "name": "Hampshire College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1116",
+    "urlSchoolTE": "http://www.hampshire.edu/"
   },
   {
     "name": "Hellenic College Holy Cross",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1170",
+    "urlSchoolTE": "http://www.hchc.edu/"
   },
   {
     "name": "Laboure College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1268",
+    "urlSchoolTE": "hppt://www.laboure.edu"
   },
   {
     "name": "Lasell University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=922",
+    "urlSchoolTE": "http://www.lasell.edu/"
   },
   {
     "name": "Lesley University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=168",
+    "urlSchoolTE": "http://www.lesley.edu/"
   },
   {
     "name": "Merrimack College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=193",
+    "urlSchoolTE": "http://www.merrimack.edu/"
   },
   {
     "name": "Mount Holyoke College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=195",
+    "urlSchoolTE": "http://www.mtholyoke.edu/"
   },
   {
     "name": "New England Law Boston",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1228",
+    "urlSchoolTE": "http://www.nesl.edu/"
   },
   {
     "name": "Nichols College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=218",
+    "urlSchoolTE": "http://www.nichols.edu/"
   },
   {
     "name": "Pine Manor College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1113",
+    "urlSchoolTE": "http://www.pmc.edu/"
   },
   {
     "name": "Regis College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=261",
+    "urlSchoolTE": "http://www.regiscollege.edu/"
   },
   {
     "name": "Simmons University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=288",
+    "urlSchoolTE": "http://www.simmons.edu/"
   },
   {
     "name": "Springfield College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=299",
+    "urlSchoolTE": "http://www.springfieldcollege.edu/"
   },
   {
     "name": "Stonehill College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=314",
+    "urlSchoolTE": "http://www.stonehill.edu/"
   },
   {
     "name": "Suffolk University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=889",
+    "urlSchoolTE": "http://www.suffolk.edu/"
   },
   {
     "name": "Wentworth Institute of Technology",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1215",
+    "urlSchoolTE": "http://wit.edu/"
   },
   {
     "name": "Western New England University",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=399",
+    "urlSchoolTE": "http://www.wne.edu/"
   },
   {
     "name": "Wheaton College",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=386",
+    "urlSchoolTE": "http://www.wheatoncollege.edu/"
   },
   {
     "name": "Worcester Polytechnic Institute",
     "state_short": "MA",
-    "state_full": "Massachusetts"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=964",
+    "urlSchoolTE": "http://www.wpi.edu/"
   },
   {
     "name": "Adrian College",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=3",
+    "urlSchoolTE": "http://www.adrian.edu/"
   },
   {
     "name": "Albion College",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1261",
+    "urlSchoolTE": "http://www.albion.edu/"
   },
   {
     "name": "Alma College",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=8",
+    "urlSchoolTE": "http://www.alma.edu/"
   },
   {
     "name": "Aquinas College",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=15",
+    "urlSchoolTE": "http://www.aquinas.edu/"
   },
   {
     "name": "Cleary University",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1294",
+    "urlSchoolTE": "http://www,cleary.edu/"
   },
   {
     "name": "Hillsdale College",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=138",
+    "urlSchoolTE": "http://www.hillsdale.edu/"
   },
   {
     "name": "Kalamazoo College",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1319",
+    "urlSchoolTE": "hppt://www.kzoo.edu"
   },
   {
     "name": "Kettering University",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1138",
+    "urlSchoolTE": "http://www.kettering.edu/admissions/undergraduate-admissions"
   },
   {
     "name": "Madonna University",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=179",
+    "urlSchoolTE": "http://www.madonna.edu/"
   },
   {
     "name": "Northwood University",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1084",
+    "urlSchoolTE": "http://www.northwood.edu/"
   },
   {
     "name": "Olivet College",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=238",
+    "urlSchoolTE": "http://www.olivetcollege.edu/"
   },
   {
     "name": "Walsh College",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1153",
+    "urlSchoolTE": "http://www.walshcollege.edu/"
   },
   {
     "name": "Wayne State University",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1171",
+    "urlSchoolTE": "http://www.wayne.edu/"
   },
   {
     "name": "Western Theological Seminary",
     "state_short": "MI",
-    "state_full": "Michigan"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=929",
+    "urlSchoolTE": "http://www.westernsem.edu/"
   },
   {
     "name": "Augsburg University",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=19",
+    "urlSchoolTE": "http://www.augsburg.edu/"
   },
   {
     "name": "Bethel University",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=440",
+    "urlSchoolTE": "https://www.bethel.edu/undergrad/"
   },
   {
     "name": "College of St. Benedict",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=302",
+    "urlSchoolTE": "http://www.csbsju.edu/"
   },
   {
     "name": "College of St. Scholastica",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=316",
+    "urlSchoolTE": "http://www.css.edu/"
   },
   {
     "name": "Concordia College at Moorhead",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=72",
+    "urlSchoolTE": "http://www.cord.edu/"
   },
   {
     "name": "Concordia University St. Paul",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1309",
+    "urlSchoolTE": "https://www.csp.edu/"
   },
   {
     "name": "Gustavus Adolphus College",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=117",
+    "urlSchoolTE": "http://www.gustavus.edu/"
   },
   {
     "name": "Hamline University",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=129",
+    "urlSchoolTE": "http://www.hamline.edu/"
   },
   {
     "name": "Luther Seminary",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1310",
+    "urlSchoolTE": "http://www.luthersem.edu/"
   },
   {
     "name": "Minneapolis College of Art & Design",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=187",
+    "urlSchoolTE": "http://www.mcad.edu/"
   },
   {
     "name": "Mitchell Hamline School Of Law",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1168",
+    "urlSchoolTE": "https://mitchellhamline.edu/"
   },
   {
     "name": "Saint  John's University",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=292",
+    "urlSchoolTE": "http://www.csbsju.edu/"
   },
   {
     "name": "Saint Mary's University of Minnesota",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1069",
+    "urlSchoolTE": "http://www.smumn.edu/"
   },
   {
     "name": "St. Catherine University",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1007",
+    "urlSchoolTE": "http://www.stkate.edu/"
   },
   {
     "name": "University of Northwestern St. Paul",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1022",
+    "urlSchoolTE": "http://www.unwsp.edu/"
   },
   {
     "name": "University of St. Thomas",
     "state_short": "MN",
-    "state_full": "Minnesota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1189",
+    "urlSchoolTE": "http://www.stthomas.edu/"
   },
   {
     "name": "Belhaven University",
     "state_short": "MS",
-    "state_full": "Mississippi"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=28",
+    "urlSchoolTE": "http://www.belhaven.edu/"
   },
   {
     "name": "Millsaps College",
     "state_short": "MS",
-    "state_full": "Mississippi"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=204",
+    "urlSchoolTE": "https://www.millsaps.edu/"
   },
   {
     "name": "Mississippi College",
     "state_short": "MS",
-    "state_full": "Mississippi"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1112",
+    "urlSchoolTE": "http://www.mc.edu/"
   },
   {
     "name": "Avila University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1187",
+    "urlSchoolTE": "http://www.avila.edu/"
   },
   {
     "name": "Central Methodist University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1274",
+    "urlSchoolTE": "https://centralmethodist.edu/"
   },
   {
     "name": "Columbia College",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=70",
+    "urlSchoolTE": "http://www.ccis.edu/"
   },
   {
     "name": "Cottey College",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1341",
+    "urlSchoolTE": "http://www.cottey.edu/"
   },
   {
     "name": "Culver Stockton College",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=80",
+    "urlSchoolTE": "http://www.culver.edu/"
   },
   {
     "name": "Drury University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=93",
+    "urlSchoolTE": "http://www.drury.edu/"
   },
   {
     "name": "Fontbonne University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=112",
+    "urlSchoolTE": "http://www.fontbonne.edu/"
   },
   {
     "name": "Hannibal LaGrange University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1222",
+    "urlSchoolTE": "http://www.hlg.edu/index.php"
   },
   {
     "name": "Kansas City Art Institute",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=156",
+    "urlSchoolTE": "http://www.kcai.edu/"
   },
   {
     "name": "Lindenwood University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1260",
+    "urlSchoolTE": "http://www.lindenwood.edu/"
   },
   {
     "name": "Logan University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1259",
+    "urlSchoolTE": "http://www.logan.edu/"
   },
   {
     "name": "Maryville University of St. Louis",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=215",
+    "urlSchoolTE": "http://www.maryville.edu/"
   },
   {
     "name": "Midwestern Baptist Theological Seminar",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1350",
+    "urlSchoolTE": "https://mbts.edu/"
   },
   {
     "name": "Missouri Baptist University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1120",
+    "urlSchoolTE": "http://mobap.edu/"
   },
   {
     "name": "Park University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=245",
+    "urlSchoolTE": "http://www.park.edu/"
   },
   {
     "name": "Rockhurst University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1035",
+    "urlSchoolTE": "http://www.rockhurst.edu/tuitionbenefits"
   },
   {
     "name": "Saint Louis University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=936",
+    "urlSchoolTE": "http://www.slu.edu/"
   },
   {
     "name": "Southwest Baptist University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1109",
+    "urlSchoolTE": "http://www.sbuniv.edu/"
   },
   {
     "name": "Spurgeon College",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1353",
+    "urlSchoolTE": "www.spurgeoncollege.com"
   },
   {
     "name": "Stephens College",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=304",
+    "urlSchoolTE": "http://www.stephens.edu/"
   },
   {
     "name": "Westminster College",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=382",
+    "urlSchoolTE": "https://www.wcmo.edu/"
   },
   {
     "name": "William Jewell College",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=397",
+    "urlSchoolTE": "http://www.jewell.edu/"
   },
   {
     "name": "William Woods University",
     "state_short": "MO",
-    "state_full": "Missouri"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=405",
+    "urlSchoolTE": "http://www.williamwoods.edu/"
   },
   {
     "name": "Carroll College",
     "state_short": "MT",
-    "state_full": "Montana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=51",
+    "urlSchoolTE": "http://www.carroll.edu/"
   },
   {
     "name": "Rocky Mountain College",
     "state_short": "MT",
-    "state_full": "Montana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=270",
+    "urlSchoolTE": "http://www.rocky.edu/"
   },
   {
     "name": "University of Providence",
     "state_short": "MT",
-    "state_full": "Montana"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1093",
+    "urlSchoolTE": "http://www.uprovidence.edu/"
   },
   {
     "name": "College Four",
     "state_short": "",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1281",
+    "urlSchoolTE": "www.tuitionexchange.org"
   },
   {
     "name": "College of Saint Mary",
     "state_short": "NE",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=295",
+    "urlSchoolTE": "http://www.csm.edu/"
   },
   {
     "name": "Concordia University",
     "state_short": "NE",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=918",
+    "urlSchoolTE": "http://www.cune.edu/"
   },
   {
     "name": "Creighton University",
     "state_short": "NE",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=78",
+    "urlSchoolTE": "http://www.creighton.edu/"
   },
   {
     "name": "Doane University",
     "state_short": "NE",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=89",
+    "urlSchoolTE": "http://www.doane.edu/"
   },
   {
     "name": "Hastings College",
     "state_short": "NE",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=132",
+    "urlSchoolTE": "http://www.hastings.edu/"
   },
   {
     "name": "Midland University",
     "state_short": "NE",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1276",
+    "urlSchoolTE": "https://www.midlandu.edu/"
   },
   {
     "name": "Nebraska Methodist College",
     "state_short": "NE",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1110",
+    "urlSchoolTE": "http://www.methodistcollege.edu/"
   },
   {
     "name": "Nebraska Wesleyan University",
     "state_short": "NE",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=233",
+    "urlSchoolTE": "http://www.nebrwesleyan.edu/"
   },
   {
     "name": "SAMPLE Exchange",
     "state_short": "",
-    "state_full": "Nebraska"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1283",
+    "urlSchoolTE": ""
   },
   {
     "name": "Sierra Nevada University",
     "state_short": "NV",
-    "state_full": "Nevada"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=429",
+    "urlSchoolTE": "http://www.sierranevada.edu/"
   },
   {
     "name": "Antioch University New England",
     "state_short": "NH",
-    "state_full": "New Hampshire"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1009",
+    "urlSchoolTE": "https://www.antioch.edu/new-england/"
   },
   {
     "name": "Colby Sawyer College",
     "state_short": "NH",
-    "state_full": "New Hampshire"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=65",
+    "urlSchoolTE": "http://www.colby-sawyer.edu/"
   },
   {
     "name": "Franklin Pierce University",
     "state_short": "NH",
-    "state_full": "New Hampshire"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=113",
+    "urlSchoolTE": "http://www.franklinpierce.edu/"
   },
   {
     "name": "New England College",
     "state_short": "NH",
-    "state_full": "New Hampshire"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=221",
+    "urlSchoolTE": "http://www.nec.edu/"
   },
   {
     "name": "Rivier University",
     "state_short": "NH",
-    "state_full": "New Hampshire"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1266",
+    "urlSchoolTE": "http://www.rivier.edu/"
   },
   {
     "name": "Saint Anselm College",
     "state_short": "NH",
-    "state_full": "New Hampshire"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=301",
+    "urlSchoolTE": "http://www.anselm.edu/"
   },
   {
     "name": "Southern New Hampshire University",
     "state_short": "NH",
-    "state_full": "New Hampshire"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1162",
+    "urlSchoolTE": "http://www.snhu.edu/Campus-College-Student.aspx"
   },
   {
     "name": "Bloomfield College",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=35",
+    "urlSchoolTE": "http://www.bloomfield.edu/"
   },
   {
     "name": "Caldwell University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=48",
+    "urlSchoolTE": "http://www.caldwell.edu/"
   },
   {
     "name": "Centenary University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1043",
+    "urlSchoolTE": "http://www.centenaryuniversity.edu/"
   },
   {
     "name": "Drew University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=92",
+    "urlSchoolTE": "http://www.drew.edu/"
   },
   {
     "name": "Fairleigh Dickinson University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=108",
+    "urlSchoolTE": "http://www.fdu.edu/"
   },
   {
     "name": "Georgian Court University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=935",
+    "urlSchoolTE": "http://www.georgian.edu/"
   },
   {
     "name": "Monmouth University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=201",
+    "urlSchoolTE": "http://www.monmouth.edu/"
   },
   {
     "name": "Princeton Theological Seminary",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1200",
+    "urlSchoolTE": "http://www.ptsem.edu/"
   },
   {
     "name": "Rider University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=913",
+    "urlSchoolTE": "http://www.rider.edu/"
   },
   {
     "name": "Saint Elizabeth University",
     "state_short": "(NJ)",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1136",
+    "urlSchoolTE": "http://www.steu.edu/"
   },
   {
     "name": "Saint Peter's University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=298",
+    "urlSchoolTE": "http://www.saintpeters.edu/"
   },
   {
     "name": "Seton Hall University",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=284",
+    "urlSchoolTE": "http://www.shu.edu/"
   },
   {
     "name": "Stevens Institute of Technology",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=990",
+    "urlSchoolTE": "http://www.stevens.edu/"
   },
   {
     "name": "Stockton University of NJ",
     "state_short": "NJ",
-    "state_full": "New Jersey"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1165",
+    "urlSchoolTE": "admissions.stockton.edu"
   },
   {
     "name": "St. John's College, Santa Fe",
     "state_short": "NM",
-    "state_full": "New Mexico"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1307",
+    "urlSchoolTE": "http://www.sjc.edu/"
   },
   {
     "name": "Adelphi University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=2",
+    "urlSchoolTE": "http://www.adelphi.edu/"
   },
   {
     "name": "Albany Law School",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=924",
+    "urlSchoolTE": "http://www.albanylaw.edu/"
   },
   {
     "name": "Alfred University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=6",
+    "urlSchoolTE": "http://www.alfred.edu/"
   },
   {
     "name": "Bard College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=24",
+    "urlSchoolTE": "http://www.bard.edu/"
   },
   {
     "name": "Canisius College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=49",
+    "urlSchoolTE": "http://www.canisius.edu/"
   },
   {
     "name": "Cazenovia College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=55",
+    "urlSchoolTE": "http://www.cazenovia.edu/"
   },
   {
     "name": "Clarkson University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=64",
+    "urlSchoolTE": "http://www.clarkson.edu/"
   },
   {
     "name": "College of Mount Saint Vincent",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=994",
+    "urlSchoolTE": "http://www.mountsaintvincent.edu/"
   },
   {
     "name": "College of Saint Rose",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=315",
+    "urlSchoolTE": "http://www.strose.edu/"
   },
   {
     "name": "Concordia College NY",
     "state_short": "CLOSED",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1004",
+    "urlSchoolTE": "http://www.concordia-ny.edu/"
   },
   {
     "name": "Daemen College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=83",
+    "urlSchoolTE": "http://www.daemen.edu/"
   },
   {
     "name": "Dominican College of Blauvelt",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1062",
+    "urlSchoolTE": "http://www.dc.edu/"
   },
   {
     "name": "D'Youville College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=95",
+    "urlSchoolTE": "http://www.dyc.edu/"
   },
   {
     "name": "Elmira College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=99",
+    "urlSchoolTE": "http://www.elmira.edu/"
   },
   {
     "name": "Five Towns College",
     "state_short": "",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1346",
+    "urlSchoolTE": "http://www.ftc.edu/"
   },
   {
     "name": "Fordham University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=904",
+    "urlSchoolTE": "http://www.fordham.edu/"
   },
   {
     "name": "Hartwick College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=131",
+    "urlSchoolTE": "https://www.hartwick.edu/"
   },
   {
     "name": "Hilbert College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=413",
+    "urlSchoolTE": "http://www.hilbert.edu/"
   },
   {
     "name": "Hobart and William Smith Colleges",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=147",
+    "urlSchoolTE": "http://www.hws.edu/"
   },
   {
     "name": "Hofstra University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=140",
+    "urlSchoolTE": "http://www.hofstra.edu/"
   },
   {
     "name": "Houghton College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=143",
+    "urlSchoolTE": "http://www.houghton.edu/"
   },
   {
     "name": "Iona College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=888",
+    "urlSchoolTE": "http://www.iona.edu/"
   },
   {
     "name": "Keuka College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=158",
+    "urlSchoolTE": "http://www.keuka.edu/"
   },
   {
     "name": "LeMoyne College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=897",
+    "urlSchoolTE": "http://www.lemoyne.edu/"
   },
   {
     "name": "LIM College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1354",
+    "urlSchoolTE": "http://limcollege.edu/"
   },
   {
     "name": "Long Island University, Brooklyn Campus",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1027",
+    "urlSchoolTE": "http://liu.edu/brooklyn"
   },
   {
     "name": "Long Island University, LIU Post",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1010",
+    "urlSchoolTE": "http://www.liu.edu/"
   },
   {
     "name": "Manhattan College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=895",
+    "urlSchoolTE": "http://www.manhattan.edu/"
   },
   {
     "name": "Manhattanville College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1139",
+    "urlSchoolTE": "http://www.mville.edu/"
   },
   {
     "name": "Marist College",
     "state_short": "",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1066",
+    "urlSchoolTE": "http://www.marist.edu/"
   },
   {
     "name": "Marymount Manhattan College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=946",
+    "urlSchoolTE": "http://www.mmm.edu/"
   },
   {
     "name": "Medaille College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=902",
+    "urlSchoolTE": "http://www.medaille.edu/"
   },
   {
     "name": "Mercy College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1131",
+    "urlSchoolTE": "http://www.mercy.edu/"
   },
   {
     "name": "Molloy College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=199",
+    "urlSchoolTE": "http://www.molloy.edu/"
   },
   {
     "name": "Mount Saint Mary College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=207",
+    "urlSchoolTE": "http://www.msmc.edu/"
   },
   {
     "name": "Nazareth College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=216",
+    "urlSchoolTE": "http://www.naz.edu/"
   },
   {
     "name": "New York Institute of Technology",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=968",
+    "urlSchoolTE": "http://www.nyit.edu/"
   },
   {
     "name": "Niagara University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=225",
+    "urlSchoolTE": "http://www.niagara.edu/"
   },
   {
     "name": "Northeast College of Health Sciences",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1302",
+    "urlSchoolTE": "http://www.nycc.edu/"
   },
   {
     "name": "Nyack College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=234",
+    "urlSchoolTE": "http://www.nyack.edu/"
   },
   {
     "name": "Pace University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=242",
+    "urlSchoolTE": "http://www.pace.edu/"
   },
   {
     "name": "Paul Smith's College of Arts & Sciences",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=436",
+    "urlSchoolTE": "http://www.paulsmiths.edu/"
   },
   {
     "name": "Pratt Institute",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=253",
+    "urlSchoolTE": "http://www.pratt.edu/"
   },
   {
     "name": "Roberts Wesleyan College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1058",
+    "urlSchoolTE": "http://www.roberts.edu/"
   },
   {
     "name": "Rochester Inst. of Technology",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=264",
+    "urlSchoolTE": "http://www.rit.edu/"
   },
   {
     "name": "Russell Sage College",
     "state_short": "",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=273",
+    "urlSchoolTE": "https://admission.sage.edu/"
   },
   {
     "name": "Sarah Lawrence College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=294",
+    "urlSchoolTE": "https://www.sarahlawrence.edu/"
   },
   {
     "name": "Siena College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1292",
+    "urlSchoolTE": "http://www.siena.edu/"
   },
   {
     "name": "Skidmore College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=293",
+    "urlSchoolTE": "http://www.skidmore.edu/"
   },
   {
     "name": "St. Bonaventure University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=303",
+    "urlSchoolTE": "http://www.sbu.edu/"
   },
   {
     "name": "St. Francis College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=914",
+    "urlSchoolTE": "http://www.sfc.edu/"
   },
   {
     "name": "St. John Fisher College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=307",
+    "urlSchoolTE": "https://www.sjfc.edu/admissions-aid/"
   },
   {
     "name": "St. John's University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=970",
+    "urlSchoolTE": "http://www.stjohns.edu/"
   },
   {
     "name": "St. Joseph's College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=291",
+    "urlSchoolTE": "http://www.sjcny.edu/"
   },
   {
     "name": "St. Lawrence University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=309",
+    "urlSchoolTE": "http://www.stlawu.edu/"
   },
   {
     "name": "St. Thomas Aquinas College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1018",
+    "urlSchoolTE": "http://www.stac.edu/"
   },
   {
     "name": "Syracuse University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=327",
+    "urlSchoolTE": "http://www.syr.edu/financialaid/scholarships/tuition_exchange.html"
   },
   {
     "name": "Trocaire College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=937",
+    "urlSchoolTE": "https://trocaire.edu/"
   },
   {
     "name": "Utica University",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=367",
+    "urlSchoolTE": "http://www.utica.edu/"
   },
   {
     "name": "Vaughn College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1077",
+    "urlSchoolTE": "http://www.vaughn.edu/"
   },
   {
     "name": "Villa Maria College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1013",
+    "urlSchoolTE": "http://www.villa.edu/"
   },
   {
     "name": "Wagner College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=372",
+    "urlSchoolTE": "wagner.edu"
   },
   {
     "name": "Wells College",
     "state_short": "NY",
-    "state_full": "New York"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=379",
+    "urlSchoolTE": "http://www.wells.edu/"
   },
   {
     "name": "Barton College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=25",
+    "urlSchoolTE": "http://www.barton.edu/"
   },
   {
     "name": "Belmont Abbey College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=29",
+    "urlSchoolTE": "http://www.bac.edu/"
   },
   {
     "name": "Campbell University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=988",
+    "urlSchoolTE": "http://www.campbell.edu/"
   },
   {
     "name": "Catawba College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=54",
+    "urlSchoolTE": "http://www.catawba.edu/"
   },
   {
     "name": "Chowan University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=410",
+    "urlSchoolTE": "http://www.chowan.edu/"
   },
   {
     "name": "Elon University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1015",
+    "urlSchoolTE": "http://www.elon.edu/"
   },
   {
     "name": "Gardner Webb University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=126",
+    "urlSchoolTE": "http://www.gardner-webb.edu/"
   },
   {
     "name": "Greensboro College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=124",
+    "urlSchoolTE": "http://www.greensboro.edu/"
   },
   {
     "name": "Guilford College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=125",
+    "urlSchoolTE": "http://www.guilford.edu/"
   },
   {
     "name": "High Point University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=137",
+    "urlSchoolTE": "http://www.highpoint.edu/"
   },
   {
     "name": "Johnson & Wales University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1085",
+    "urlSchoolTE": "http://www.jwu.edu/"
   },
   {
     "name": "Lees McRae College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=438",
+    "urlSchoolTE": "http://www.lmc.edu/"
   },
   {
     "name": "Lenoir Rhyne University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=174",
+    "urlSchoolTE": "http://www.lr.edu/"
   },
   {
     "name": "Mars Hill University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=431",
+    "urlSchoolTE": "http://www.mhu.edu/"
   },
   {
     "name": "Meredith College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=996",
+    "urlSchoolTE": "http://www.meredith.edu/"
   },
   {
     "name": "Methodist University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=194",
+    "urlSchoolTE": "http://www.methodist.edu/"
   },
   {
     "name": "Mid Atlantic Christian University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1134",
+    "urlSchoolTE": "http://www.macuniversity.edu/"
   },
   {
     "name": "North Carolina Wesleyan College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=948",
+    "urlSchoolTE": "http://www.ncwc.edu/"
   },
   {
     "name": "Pfeiffer University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=248",
+    "urlSchoolTE": "http://www.pfeiffer.edu/"
   },
   {
     "name": "Queens University of Charlotte",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1106",
+    "urlSchoolTE": "http://www.queens.edu/"
   },
   {
     "name": "Salem Academy & College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=275",
+    "urlSchoolTE": "http://www.salem.edu/"
   },
   {
     "name": "St. Andrews University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=278",
+    "urlSchoolTE": "http://www.sa.edu/"
   },
   {
     "name": "University of Mount Olive",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1349",
+    "urlSchoolTE": "http://www.umo.edu/"
   },
   {
     "name": "Warren Wilson College",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=404",
+    "urlSchoolTE": "https://www.warren-wilson.edu/"
   },
   {
     "name": "William Peace University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1070",
+    "urlSchoolTE": "http://www.peace.edu/"
   },
   {
     "name": "Wingate University",
     "state_short": "NC",
-    "state_full": "North Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=394",
+    "urlSchoolTE": "http://www.wingate.edu/"
   },
   {
     "name": "University of Jamestown",
     "state_short": "",
-    "state_full": "North Dakota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1289",
+    "urlSchoolTE": "http://www.uj.edu/"
   },
   {
     "name": "Ashland University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=17",
+    "urlSchoolTE": "http://www.ashland.edu/"
   },
   {
     "name": "Aultman College",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1223",
+    "urlSchoolTE": "http://www.aultmancollege.edu/"
   },
   {
     "name": "Baldwin Wallace University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=46",
+    "urlSchoolTE": "http://www.bw.edu/"
   },
   {
     "name": "Bluffton University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1071",
+    "urlSchoolTE": "https://bluffton.edu/"
   },
   {
     "name": "Capital University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=50",
+    "urlSchoolTE": "http://www.capital.edu/"
   },
   {
     "name": "Case Western Reserve University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1154",
+    "urlSchoolTE": "http://www.case.edu/"
   },
   {
     "name": "Cleveland Institute of Art",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=66",
+    "urlSchoolTE": "http://www.cia.edu/"
   },
   {
     "name": "College of Wooster, The",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1103",
+    "urlSchoolTE": "http://www.wooster.edu/"
   },
   {
     "name": "Columbus College of Art & Design",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=961",
+    "urlSchoolTE": "http://www.ccad.edu/"
   },
   {
     "name": "Defiance College",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=87",
+    "urlSchoolTE": "http://www.defiance.edu/"
   },
   {
     "name": "Franklin University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1101",
+    "urlSchoolTE": "http://www.franklin.edu/"
   },
   {
     "name": "Heidelberg University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=134",
+    "urlSchoolTE": "http://www.heidelberg.edu/"
   },
   {
     "name": "Hiram College",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=139",
+    "urlSchoolTE": "http://www.hiram.edu/"
   },
   {
     "name": "John Carroll University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=993",
+    "urlSchoolTE": "https://jcu.edu/"
   },
   {
     "name": "Lake Erie College",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=167",
+    "urlSchoolTE": "https://www.lec.edu/"
   },
   {
     "name": "Lourdes University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1108",
+    "urlSchoolTE": "http://www.lourdes.edu/"
   },
   {
     "name": "Malone University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1020",
+    "urlSchoolTE": "http://www.malone.edu/"
   },
   {
     "name": "Marietta College",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=182",
+    "urlSchoolTE": "http://www.marietta.edu/"
   },
   {
     "name": "Mercy College of Ohio",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1059",
+    "urlSchoolTE": "http://www.mercycollege.edu/"
   },
   {
     "name": "Mount St. Joseph University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=943",
+    "urlSchoolTE": "http://www.msj.edu/"
   },
   {
     "name": "Mount Vernon Nazarene University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1091",
+    "urlSchoolTE": "http://www.mvnu.edu/"
   },
   {
     "name": "Muskingum University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=213",
+    "urlSchoolTE": "https://www.muskingum.edu/"
   },
   {
     "name": "Notre Dame College",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=910",
+    "urlSchoolTE": "http://www.notredamecollege.edu/"
   },
   {
     "name": "Ohio Christian University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1217",
+    "urlSchoolTE": "http://ohiochristian.edu/"
   },
   {
     "name": "Ohio Dominican University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=942",
+    "urlSchoolTE": "http://www.ohiodominican.edu/"
   },
   {
     "name": "Ohio Northern University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=239",
+    "urlSchoolTE": "http://www.onu.edu/"
   },
   {
     "name": "Ohio Wesleyan University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1098",
+    "urlSchoolTE": "http://www.owu.edu/"
   },
   {
     "name": "Otterbein University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=241",
+    "urlSchoolTE": "http://www.otterbein.edu/"
   },
   {
     "name": "Tiffin University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=330",
+    "urlSchoolTE": "http://www.tiffin.edu/"
   },
   {
     "name": "University of Dayton",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=435",
+    "urlSchoolTE": "http://www.udayton.edu/"
   },
   {
     "name": "University of Findlay",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=347",
+    "urlSchoolTE": "http://www.findlay.edu/"
   },
   {
     "name": "University of Mount Union",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=210",
+    "urlSchoolTE": "http://www.mountunion.edu/"
   },
   {
     "name": "Ursuline College",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=363",
+    "urlSchoolTE": "http://www.ursuline.edu/"
   },
   {
     "name": "Walsh University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=374",
+    "urlSchoolTE": "http://www.walsh.edu/"
   },
   {
     "name": "Wilmington College",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=392",
+    "urlSchoolTE": "http://www.wilmington.edu/"
   },
   {
     "name": "Wittenberg University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=395",
+    "urlSchoolTE": "http://www.wittenberg.edu/"
   },
   {
     "name": "Xavier University",
     "state_short": "OH",
-    "state_full": "Ohio"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=406",
+    "urlSchoolTE": "http://www.xavier.edu/"
   },
   {
     "name": "Oklahoma City University",
     "state_short": "OK",
-    "state_full": "Oklahoma"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=237",
+    "urlSchoolTE": "http://www.okcu.edu/"
   },
   {
     "name": "University of Tulsa, The",
     "state_short": "OK",
-    "state_full": "Oklahoma"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=340",
+    "urlSchoolTE": "http://www.utulsa.edu/"
   },
   {
     "name": "Bushnell University",
     "state_short": "OR",
-    "state_full": "Oregon"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1221",
+    "urlSchoolTE": "https://www.bushnell.edu/"
   },
   {
     "name": "George Fox University",
     "state_short": "OR",
-    "state_full": "Oregon"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=911",
+    "urlSchoolTE": "http://www.georgefox.edu/"
   },
   {
     "name": "Lewis & Clark College",
     "state_short": "OR",
-    "state_full": "Oregon"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=163",
+    "urlSchoolTE": "http://www.lclark.edu/"
   },
   {
     "name": "Linfield University",
     "state_short": "OR",
-    "state_full": "Oregon"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=171",
+    "urlSchoolTE": "http://www.linfield.edu/"
   },
   {
     "name": "Pacific University",
     "state_short": "OR",
-    "state_full": "Oregon"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=244",
+    "urlSchoolTE": "http://www.pacificu.edu/"
   },
   {
     "name": "University of Portland",
     "state_short": "OR",
-    "state_full": "Oregon"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=359",
+    "urlSchoolTE": "http://www.up.edu/"
   },
   {
     "name": "Warner Pacific University",
     "state_short": "OR",
-    "state_full": "Oregon"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=401",
+    "urlSchoolTE": "http://www.warnerpacific.edu/"
   },
   {
     "name": "Willamette University",
     "state_short": "OR",
-    "state_full": "Oregon"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=391",
+    "urlSchoolTE": "http://www.willamette.edu/"
   },
   {
     "name": "Albright College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=4",
+    "urlSchoolTE": "http://www.albright.edu/"
   },
   {
     "name": "Allegheny College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=7",
+    "urlSchoolTE": "http://www.allegheny.edu/"
   },
   {
     "name": "Alvernia University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=9",
+    "urlSchoolTE": "http://www.alvernia.edu/"
   },
   {
     "name": "Arcadia University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=27",
+    "urlSchoolTE": "http://www.arcadia.edu/"
   },
   {
     "name": "Bucknell University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=43",
+    "urlSchoolTE": "http://www.bucknell.edu/"
   },
   {
     "name": "Cabrini University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=47",
+    "urlSchoolTE": "http://www.cabrini.edu/"
   },
   {
     "name": "Carlow University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=915",
+    "urlSchoolTE": "http://www.carlow.edu/"
   },
   {
     "name": "Cedar Crest College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=56",
+    "urlSchoolTE": "http://www.cedarcrest.edu/"
   },
   {
     "name": "Chatham University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=62",
+    "urlSchoolTE": "http://www.chatham.edu/"
   },
   {
     "name": "Chestnut Hill College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=63",
+    "urlSchoolTE": "http://www.chc.edu/"
   },
   {
     "name": "Delaware Valley University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=88",
+    "urlSchoolTE": "http://www.delval.edu/"
   },
   {
     "name": "DeSales University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=879",
+    "urlSchoolTE": "http://www.desales.edu/"
   },
   {
     "name": "Dickinson College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=414",
+    "urlSchoolTE": "http://www.dickinson.edu/"
   },
   {
     "name": "Drexel University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1023",
+    "urlSchoolTE": "http://www.drexel.edu/"
   },
   {
     "name": "Duquesne University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=94",
+    "urlSchoolTE": "http://www.duq.edu/"
   },
   {
     "name": "Eastern University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=96",
+    "urlSchoolTE": "http://www.eastern.edu/"
   },
   {
     "name": "Elizabethtown College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=106",
+    "urlSchoolTE": "http://www.etown.edu/"
   },
   {
     "name": "Franklin & Marshall College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=107",
+    "urlSchoolTE": "http://www.fandm.edu/"
   },
   {
     "name": "Gannon University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1016",
+    "urlSchoolTE": "http://www.gannon.edu/"
   },
   {
     "name": "Geisinger Commonwealth School of Medicine",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1185",
+    "urlSchoolTE": "https://www.geisinger.edu/education"
   },
   {
     "name": "Geneva College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=118",
+    "urlSchoolTE": "http://www.geneva.edu/"
   },
   {
     "name": "Gettysburg College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=972",
+    "urlSchoolTE": "http://www.gettysburg.edu/"
   },
   {
     "name": "Grove City College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1096",
+    "urlSchoolTE": "http://www.gcc.edu/"
   },
   {
     "name": "Gwynedd Mercy University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=128",
+    "urlSchoolTE": "http://www.gmercyu.edu/"
   },
   {
     "name": "Harrisburg University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1211",
+    "urlSchoolTE": "http://www.harrisburgu.edu/"
   },
   {
     "name": "Holy Family University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=136",
+    "urlSchoolTE": "http://www.holyfamily.edu/"
   },
   {
     "name": "Immaculata University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=150",
+    "urlSchoolTE": "http://www.immaculata.edu/"
   },
   {
     "name": "Juniata College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=155",
+    "urlSchoolTE": "http://www.juniata.edu/"
   },
   {
     "name": "Keystone College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=159",
+    "urlSchoolTE": "http://www.keystone.edu/"
   },
   {
     "name": "King's College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=160",
+    "urlSchoolTE": "http://www.kings.edu/"
   },
   {
     "name": "La Roche University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1140",
+    "urlSchoolTE": "http://www.laroche.edu/"
   },
   {
     "name": "Lafayette College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=919",
+    "urlSchoolTE": "http://www.lafayette.edu/"
   },
   {
     "name": "LaSalle University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=166",
+    "urlSchoolTE": "http://www.lasalle.edu/"
   },
   {
     "name": "Lebanon Valley College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=176",
+    "urlSchoolTE": "http://www.lvc.edu/"
   },
   {
     "name": "Lycoming College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=177",
+    "urlSchoolTE": "http://www.lycoming.edu/"
   },
   {
     "name": "Marywood University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=185",
+    "urlSchoolTE": "http://www.marywood.edu/"
   },
   {
     "name": "Mercyhurst University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=192",
+    "urlSchoolTE": "http://www.mercyhurst.edu/"
   },
   {
     "name": "Misericordia University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=67",
+    "urlSchoolTE": "http://www.misericordia.edu/"
   },
   {
     "name": "Moore College of Art and Design",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=202",
+    "urlSchoolTE": "http://www.moore.edu/"
   },
   {
     "name": "Moravian University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=203",
+    "urlSchoolTE": "http://www.moravian.edu/"
   },
   {
     "name": "Mount Aloysius College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=208",
+    "urlSchoolTE": "http://www.mtaloy.edu/"
   },
   {
     "name": "Muhlenberg College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=212",
+    "urlSchoolTE": "http://www.muhlenberg.edu/"
   },
   {
     "name": "Neumann University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=219",
+    "urlSchoolTE": "http://www.neumann.edu/"
   },
   {
     "name": "Peirce College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1107",
+    "urlSchoolTE": "http://www.peirce.edu/"
   },
   {
     "name": "Philadelphia University (Jefferson University",
     "state_short": "East Falls Campus) PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=249",
+    "urlSchoolTE": "http://www.philau.edu or http://www.jefferson.edu"
   },
   {
     "name": "Pittsburgh Technical College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1312",
+    "urlSchoolTE": "http://ptcollege.edu/"
   },
   {
     "name": "Pittsburgh Theological Seminary",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1152",
+    "urlSchoolTE": "http://www.pts.edu/"
   },
   {
     "name": "Point Park University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=411",
+    "urlSchoolTE": "http://www.pointpark.edu/"
   },
   {
     "name": "Robert Morris University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=880",
+    "urlSchoolTE": "http://www.rmu.edu/"
   },
   {
     "name": "Rosemont College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=272",
+    "urlSchoolTE": "http://www.rosemont.edu/"
   },
   {
     "name": "Saint Francis University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=305",
+    "urlSchoolTE": "http://www.francis.edu/"
   },
   {
     "name": "Saint Joseph's University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=308",
+    "urlSchoolTE": "http://www.sju.edu/"
   },
   {
     "name": "Saint Vincent College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=319",
+    "urlSchoolTE": "http://www.stvincent.edu/"
   },
   {
     "name": "Seton Hill University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=283",
+    "urlSchoolTE": "http://www.setonhill.edu/"
   },
   {
     "name": "Susquehanna University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=321",
+    "urlSchoolTE": "http://www.susqu.edu/"
   },
   {
     "name": "Temple University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1332",
+    "urlSchoolTE": "https://www.temple.edu/"
   },
   {
     "name": "Thiel College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=329",
+    "urlSchoolTE": "http://www.thiel.edu/"
   },
   {
     "name": "University of Pittsburgh",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=358",
+    "urlSchoolTE": "http://pitt.edu/"
   },
   {
     "name": "University of Scranton",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=365",
+    "urlSchoolTE": "http://www.scranton.edu/"
   },
   {
     "name": "University of the Arts, The",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=343",
+    "urlSchoolTE": "http://www.uarts.edu/"
   },
   {
     "name": "University of the Sciences in Philadelphia",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=246",
+    "urlSchoolTE": "http://www.usciences.edu/"
   },
   {
     "name": "Ursinus College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=362",
+    "urlSchoolTE": "http://www.ursinus.edu/"
   },
   {
     "name": "Villanova University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=369",
+    "urlSchoolTE": "http://www.villanova.edu/"
   },
   {
     "name": "Washington & Jefferson College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=373",
+    "urlSchoolTE": "http://www.washjeff.edu/"
   },
   {
     "name": "Waynesburg University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=376",
+    "urlSchoolTE": "http://www.waynesburg.edu/"
   },
   {
     "name": "Westminster College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=383",
+    "urlSchoolTE": "http://www.westminster.edu/"
   },
   {
     "name": "Widener University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=389",
+    "urlSchoolTE": "http://www.widener.edu/"
   },
   {
     "name": "Wilkes University",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=390",
+    "urlSchoolTE": "http://www.wilkes.edu/"
   },
   {
     "name": "Wilson College",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=393",
+    "urlSchoolTE": "http://www.wilson.edu/"
   },
   {
     "name": "York College of PA",
     "state_short": "PA",
-    "state_full": "Pennsylvania"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=407",
+    "urlSchoolTE": "http://www.ycp.edu/admissions/cost-and-financial-aid/scholarships-and-grants/"
   },
   {
     "name": "Bryant University",
     "state_short": "RI",
-    "state_full": "Rhode Island"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=41",
+    "urlSchoolTE": "http://www.bryant.edu/"
   },
   {
     "name": "Johnson & Wales University",
     "state_short": "RI",
-    "state_full": "Rhode Island"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=153",
+    "urlSchoolTE": "http://www.jwu.edu/"
   },
   {
     "name": "Providence College",
     "state_short": "RI",
-    "state_full": "Rhode Island"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=255",
+    "urlSchoolTE": "http://www.providence.edu/"
   },
   {
     "name": "Roger Williams University",
     "state_short": "RI",
-    "state_full": "Rhode Island"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=274",
+    "urlSchoolTE": "http://www.rwu.edu/"
   },
   {
     "name": "Salve Regina University",
     "state_short": "RI",
-    "state_full": "Rhode Island"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=276",
+    "urlSchoolTE": "http://www.salve.edu/"
   },
   {
     "name": "Anderson University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=13",
+    "urlSchoolTE": "https://andersonuniversity.edu/"
   },
   {
     "name": "Charleston Southern University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1088",
+    "urlSchoolTE": "http://www.charlestonsouthern.edu/"
   },
   {
     "name": "Coker University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=69",
+    "urlSchoolTE": "http://www.coker.edu/"
   },
   {
     "name": "Columbia College",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=71",
+    "urlSchoolTE": "http://www.columbiasc.edu/"
   },
   {
     "name": "Columbia International University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1287",
+    "urlSchoolTE": "https://www.ciu.edu/"
   },
   {
     "name": "Converse University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=75",
+    "urlSchoolTE": "http://www.converse.edu/"
   },
   {
     "name": "Erskine College",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=105",
+    "urlSchoolTE": "http://www.erskine.edu/"
   },
   {
     "name": "Furman University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=116",
+    "urlSchoolTE": "http://www.furman.edu/"
   },
   {
     "name": "Limestone University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1050",
+    "urlSchoolTE": "http://www.limestone.edu/"
   },
   {
     "name": "Newberry College",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=220",
+    "urlSchoolTE": "http://www.newberry.edu/"
   },
   {
     "name": "North Greenville University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=222",
+    "urlSchoolTE": "http://www.ngu.edu/"
   },
   {
     "name": "Presbyterian College",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=254",
+    "urlSchoolTE": "http://www.presby.edu/"
   },
   {
     "name": "Sherman College of Chiropractic",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1306",
+    "urlSchoolTE": "http://www.sherman.edu/"
   },
   {
     "name": "Southern Wesleyan University",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=959",
+    "urlSchoolTE": "http://www.swu.edu/"
   },
   {
     "name": "Wofford College",
     "state_short": "SC",
-    "state_full": "South Carolina"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=400",
+    "urlSchoolTE": "http://www.wofford.edu/"
   },
   {
     "name": "Augustana University",
     "state_short": "SD",
-    "state_full": "South Dakota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1291",
+    "urlSchoolTE": "http://www.augie.edu/"
   },
   {
     "name": "Dakota Wesleyan University",
     "state_short": "SD",
-    "state_full": "South Dakota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1340",
+    "urlSchoolTE": "http://www.dwu.edu/"
   },
   {
     "name": "Mount Marty University",
     "state_short": "SD",
-    "state_full": "South Dakota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=899",
+    "urlSchoolTE": "http://www.mountmarty.edu/"
   },
   {
     "name": "University of Sioux Falls",
     "state_short": "SD",
-    "state_full": "South Dakota"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=424",
+    "urlSchoolTE": "http://www.usiouxfalls.edu/"
   },
   {
     "name": "Belmont University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=926",
+    "urlSchoolTE": "http://www.belmont.edu/"
   },
   {
     "name": "Bryan College",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=998",
+    "urlSchoolTE": "http://www.bryan.edu/"
   },
   {
     "name": "Carson Newman University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=52",
+    "urlSchoolTE": "http://www.cn.edu/"
   },
   {
     "name": "Christian Brothers University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=962",
+    "urlSchoolTE": "http://www.cbu.edu/"
   },
   {
     "name": "Johnson University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1130",
+    "urlSchoolTE": "http://www.johnsonu.edu/"
   },
   {
     "name": "Lee University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1132",
+    "urlSchoolTE": "http://www.leeuniversity.edu/"
   },
   {
     "name": "Lincoln Memorial University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=896",
+    "urlSchoolTE": "http://www.lmunet.edu/"
   },
   {
     "name": "Maryville College",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=214",
+    "urlSchoolTE": "http://www.maryvillecollege.edu/"
   },
   {
     "name": "Milligan University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=196",
+    "urlSchoolTE": "http://www.milligan.edu/"
   },
   {
     "name": "Rhodes College",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1284",
+    "urlSchoolTE": "http://www.rhodes.edu/"
   },
   {
     "name": "Tennessee Wesleyan University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1031",
+    "urlSchoolTE": "http://www.tnwesleyan.edu/"
   },
   {
     "name": "Trevecca University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1347",
+    "urlSchoolTE": "http://www.trevecca.edu/"
   },
   {
     "name": "Union University",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1033",
+    "urlSchoolTE": "http://www.uu.edu/"
   },
   {
     "name": "University of the South",
     "state_short": "TN",
-    "state_full": "Tennessee"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=297",
+    "urlSchoolTE": "http://admission.sewanee.edu/apply/"
   },
   {
     "name": "Abilene Christian University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1163",
+    "urlSchoolTE": "http://www.acu.edu/"
   },
   {
     "name": "Austin College",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=908",
+    "urlSchoolTE": "http://www.austincollege.edu/"
   },
   {
     "name": "Baylor University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=26",
+    "urlSchoolTE": "http://www.baylor.edu/admissions"
   },
   {
     "name": "Concordia University at Austin",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1127",
+    "urlSchoolTE": "http://www.concordia.edu/"
   },
   {
     "name": "Criswell College",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1111",
+    "urlSchoolTE": "http://www.criswell.edu/"
   },
   {
     "name": "Dallas Baptist University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1125",
+    "urlSchoolTE": "http://www.dbu.edu/"
   },
   {
     "name": "East Texas Baptist University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=977",
+    "urlSchoolTE": "http://www.etbu.edu/"
   },
   {
     "name": "Hardin Simmons University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=145",
+    "urlSchoolTE": "http://www.hsutx.edu/"
   },
   {
     "name": "Houston Baptist University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=969",
+    "urlSchoolTE": "http://www.hbu.edu/"
   },
   {
     "name": "Howard Payne University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1099",
+    "urlSchoolTE": "http://www.hputx.edu/"
   },
   {
     "name": "Jacksonville College",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1358",
+    "urlSchoolTE": "https://www.jacksonville-college.edu/"
   },
   {
     "name": "McMurry University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=189",
+    "urlSchoolTE": "http://www.mcm.edu/"
   },
   {
     "name": "Schreiner University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=280",
+    "urlSchoolTE": "http://www.schreiner.edu/"
   },
   {
     "name": "Southwestern Baptist Theological Seminary",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1342",
+    "urlSchoolTE": "http://www.swbts.edu/"
   },
   {
     "name": "Southwestern University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=325",
+    "urlSchoolTE": "http://www.southwestern.edu/"
   },
   {
     "name": "St. Edward's University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=983",
+    "urlSchoolTE": "http://www.stedwards.edu/"
   },
   {
     "name": "St. Mary's University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=903",
+    "urlSchoolTE": "http://www.stmarytx.edu/"
   },
   {
     "name": "Texas Christian University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=932",
+    "urlSchoolTE": "http://www.tcu.edu/"
   },
   {
     "name": "Texas Lutheran University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=331",
+    "urlSchoolTE": "http://www.tlu.edu/"
   },
   {
     "name": "Texas Wesleyan University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=342",
+    "urlSchoolTE": "http://www.txwesleyan.edu/"
   },
   {
     "name": "Trinity University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=337",
+    "urlSchoolTE": "http://www.trinity.edu/"
   },
   {
     "name": "University of Dallas",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=82",
+    "urlSchoolTE": "http://www.udallas.edu/futurestudents/admiss"
   },
   {
     "name": "University of Mary Hardin Baylor",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=354",
+    "urlSchoolTE": "http://www.umhb.edu/"
   },
   {
     "name": "University of St. Thomas",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=317",
+    "urlSchoolTE": "http://www.stthom.edu/"
   },
   {
     "name": "University of the Incarnate Word",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=916",
+    "urlSchoolTE": "http://www.uiw.edu/"
   },
   {
     "name": "Wayland Baptist University",
     "state_short": "TX",
-    "state_full": "Texas"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1161",
+    "urlSchoolTE": "http://www.wbu.edu/"
   },
   {
     "name": "Westminster College",
     "state_short": "UT",
-    "state_full": "Utah"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=385",
+    "urlSchoolTE": "http://www.westminstercollege.edu/"
   },
   {
     "name": "Bennington College",
     "state_short": "VT",
-    "state_full": "Vermont"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=423",
+    "urlSchoolTE": "http://www.bennington.edu/"
   },
   {
     "name": "Champlain College",
     "state_short": "VT",
-    "state_full": "Vermont"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=59",
+    "urlSchoolTE": "http://www.champlain.edu/"
   },
   {
     "name": "Landmark College",
     "state_short": "VT",
-    "state_full": "Vermont"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1090",
+    "urlSchoolTE": "http://www.landmark.edu/"
   },
   {
     "name": "Norwich University",
     "state_short": "VT",
-    "state_full": "Vermont"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=230",
+    "urlSchoolTE": "http://www.norwich.edu/"
   },
   {
     "name": "Saint Michael's College",
     "state_short": "VT",
-    "state_full": "Vermont"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=312",
+    "urlSchoolTE": "http://www.smcvt.edu/"
   },
   {
     "name": "Sterling College",
     "state_short": "VT",
-    "state_full": "Vermont"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1327",
+    "urlSchoolTE": "https://sterlingcollege.edu/"
   },
   {
     "name": "University of the Virgin Islands",
     "state_short": "VI",
-    "state_full": "Virgin Islands"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1174",
+    "urlSchoolTE": "http://www.uvi.edu/"
   },
   {
     "name": "Appalachian School of Law",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=967",
+    "urlSchoolTE": "http://www.asl.edu/"
   },
   {
     "name": "Averett University",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1264",
+    "urlSchoolTE": "http://www.averett.edu/"
   },
   {
     "name": "Bluefield University",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=981",
+    "urlSchoolTE": "http://www.bluefield.edu/"
   },
   {
     "name": "Bridgewater College",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=40",
+    "urlSchoolTE": "http://www.bridgewater.edu/"
   },
   {
     "name": "Emory & Henry College",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=101",
+    "urlSchoolTE": "http://www.ehc.edu/"
   },
   {
     "name": "Ferrum College",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=109",
+    "urlSchoolTE": "http://www.ferrum.edu/"
   },
   {
     "name": "Hampden Sydney College",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=144",
+    "urlSchoolTE": "http://www.hsc.edu/"
   },
   {
     "name": "Hollins University",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=141",
+    "urlSchoolTE": "www.hollins.edu"
   },
   {
     "name": "Mary Baldwin University",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=183",
+    "urlSchoolTE": "http://www.marybaldwin.edu/"
   },
   {
     "name": "Marymount University",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=186",
+    "urlSchoolTE": "http://www.marymount.edu/"
   },
   {
     "name": "Randolph College",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=267",
+    "urlSchoolTE": "http://www.randolphcollege.edu/"
   },
   {
     "name": "Randolph Macon College",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=266",
+    "urlSchoolTE": "http://www.rmc.edu/"
   },
   {
     "name": "Regent University",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1053",
+    "urlSchoolTE": "http://www.regent.edu/registrar"
   },
   {
     "name": "Roanoke College",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=268",
+    "urlSchoolTE": "http://www.roanoke.edu/"
   },
   {
     "name": "Shenandoah University",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=281",
+    "urlSchoolTE": "http://www.su.edu/"
   },
   {
     "name": "Sweet Briar College",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=323",
+    "urlSchoolTE": "http://www.sbc.edu/"
   },
   {
     "name": "University of Lynchburg",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=995",
+    "urlSchoolTE": "http://www.lynchburg.edu/"
   },
   {
     "name": "University of Richmond",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=361",
+    "urlSchoolTE": "http://www.richmond.edu/"
   },
   {
     "name": "Virginia Wesleyan University",
     "state_short": "VA",
-    "state_full": "Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=370",
+    "urlSchoolTE": "http://www.vwu.edu/"
   },
   {
     "name": "Cornish College of the Arts",
     "state_short": "WA",
-    "state_full": "Washington"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=963",
+    "urlSchoolTE": "http://www.cornish.edu/"
   },
   {
     "name": "Gonzaga University",
     "state_short": "WA",
-    "state_full": "Washington"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1045",
+    "urlSchoolTE": "http://www.gonzaga.edu/"
   },
   {
     "name": "Heritage University",
     "state_short": "WA",
-    "state_full": "Washington"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=966",
+    "urlSchoolTE": "http://www.heritage.edu/"
   },
   {
     "name": "Pacific Lutheran University",
     "state_short": "WA",
-    "state_full": "Washington"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=243",
+    "urlSchoolTE": "http://www.plu.edu/"
   },
   {
     "name": "Saint Martin's University",
     "state_short": "WA",
-    "state_full": "Washington"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=311",
+    "urlSchoolTE": "http://www.stmartin.edu/"
   },
   {
     "name": "Seattle University",
     "state_short": "WA",
-    "state_full": "Washington"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=282",
+    "urlSchoolTE": "http://www.seattleu.edu/"
   },
   {
     "name": "University of Puget Sound",
     "state_short": "WA",
-    "state_full": "Washington"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=257",
+    "urlSchoolTE": "http://www.pugetsound.edu/"
   },
   {
     "name": "Whitworth University",
     "state_short": "WA",
-    "state_full": "Washington"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=388",
+    "urlSchoolTE": "http://www.whitworth.edu/"
   },
   {
     "name": "Bethany College",
     "state_short": "WV",
-    "state_full": "West Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=33",
+    "urlSchoolTE": "http://www.bethanywv.edu/"
   },
   {
     "name": "Davis and Elkins College",
     "state_short": "WV",
-    "state_full": "West Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=85",
+    "urlSchoolTE": "http://www.dewv.edu/"
   },
   {
     "name": "University of Charleston",
     "state_short": "WV",
-    "state_full": "West Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=61",
+    "urlSchoolTE": "http://www.ucwv.edu/"
   },
   {
     "name": "West Virginia Wesleyan College",
     "state_short": "WV",
-    "state_full": "West Virginia"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=403",
+    "urlSchoolTE": "http://www.wvwc.edu/"
   },
   {
     "name": "Alverno College",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=938",
+    "urlSchoolTE": "http://www.alverno.edu/"
   },
   {
     "name": "Beloit College",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=36",
+    "urlSchoolTE": "http://www.beloit.edu/"
   },
   {
     "name": "Carroll University",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=900",
+    "urlSchoolTE": "http://www.carrollu.edu/"
   },
   {
     "name": "Carthage College",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=53",
+    "urlSchoolTE": "http://www.carthage.edu/"
   },
   {
     "name": "Concordia University",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1089",
+    "urlSchoolTE": "http://www.cuw.edu/"
   },
   {
     "name": "Lakeland University",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1145",
+    "urlSchoolTE": "http://www.lakeland.edu/"
   },
   {
     "name": "Lawrence University",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=878",
+    "urlSchoolTE": "http://www.lawrence.edu/"
   },
   {
     "name": "Marian University",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=188",
+    "urlSchoolTE": "http://www.marianuniversity.edu/"
   },
   {
     "name": "Marquette University",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=412",
+    "urlSchoolTE": "http://www.marquette.edu/explore/"
   },
   {
     "name": "Milwaukee School of Engineering",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=1314",
+    "urlSchoolTE": "http://www.msoe.edu/"
   },
   {
     "name": "Northland College",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=228",
+    "urlSchoolTE": "http://www.northland.edu/"
   },
   {
     "name": "Ripon College",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=892",
+    "urlSchoolTE": "http://www.ripon.edu/"
   },
   {
     "name": "St. Norbert College",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=313",
+    "urlSchoolTE": "http://www.snc.edu/"
   },
   {
     "name": "Viterbo University",
     "state_short": "WI",
-    "state_full": "Wisconsin"
+    "state_full": "",
+    "urlTE": "https://telo.tuitionexchange.org/memlist.cfm?schid=992",
+    "urlSchoolTE": "www.viterbo.edu"
   }
 ]

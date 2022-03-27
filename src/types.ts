@@ -251,6 +251,12 @@ export interface Ranking {
   isTied: boolean;
 }
 
+export interface Extras
+{
+  urlUSNews: string; // URL of school on US news Wesbite
+  urlSchool: string; // URL of the school's website
+}
+
 export interface USNewsInstitution {
   primaryKey: string[];
   institution: Institution;
@@ -260,6 +266,7 @@ export interface USNewsInstitution {
   xwalkId: string;
   blurb: string;
   ranking: Ranking;
+  additional?: Extras;
 }
 
 /////// End US News Types ///////
@@ -269,6 +276,8 @@ export interface TESchool {
   name: string;
   state_full: string;
   state_short: string;
+  urlTE: string;
+  urlSchoolTE: string;
 }
 
 export interface SimplifiedInstitution {
@@ -277,7 +286,8 @@ export interface SimplifiedInstitution {
   city: string; // institution key
   foundTE: boolean;
   foundUSNews: boolean;
-  primaryKey: string[]; // root level
+  primaryKey: string; // root level
+  urlName: string; // institution level
   isPublic: boolean; // institution key, true
   aliasNames:string; // institution key, "CUNY Hunter College CUNY Hunter College"
   schoolType: string; // institution key, "regional-universities-north"
