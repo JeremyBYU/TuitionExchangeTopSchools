@@ -36,7 +36,7 @@
     "lint": "eslint . --ext .ts",
     "client-build": "rollup -c",
     "client-dev": "rollup -c -w",
-    "client-start": "sirv public --no-clear"
+    "client-start": "sirv docs --no-clear"
   },
   "dependencies": {
     "axios": "^0.26.1",
