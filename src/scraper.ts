@@ -193,8 +193,14 @@ export function searchWithWadeIndex(school: TESchool, ignore_list: string[], sea
     return null
 }
 
+export function url_to_key(url: string) {
+  const no_https =  url.replace(/^https?:\/\//, '');
+  const no_www =  no_https.replace(/^www./, '');
+  const no_trailing_slash = no_www.endsWith('/') ? no_www.slice(0, -1) : no_www;
+  return no_trailing_slash
+}
 
-export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNewsInstitution[]): SimplifiedInstitution[] {
+export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNewsInstitution[]): [SimplifiedInstitution[], TESchool[]] {
 
   const simplified_institutions: SimplifiedInstitution[] = usnews_schools.map((usnews_school: USNewsInstitution): SimplifiedInstitution => {
     return {
@@ -220,14 +226,26 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
       enrollment: usnews_school.searchData.enrollment.rawValue,
       acceptanceRate: usnews_school.searchData.acceptanceRate.rawValue,
       hsGpaAvg: usnews_school.searchData.hsGpaAvg.rawValue,
+      urlSchoolUSNews: usnews_school.additional.urlSchool,
+      urlUSNews: usnews_school.additional.urlUSNews,
+      urlSchoolTE: "",
+      urlTE: "",
       nameTE: "",
-      stateTE: ""
+      stateTE: "",
+      suspicious: false
     }
   })
 
 
+  // make hashmap USNews url -> index
+  // Used to search for paring a TE School with USNews school by URL
+  const usnews_url_map = {}
+  simplified_institutions.forEach((simplified_institution: SimplifiedInstitution) => {
+    if (simplified_institution.urlSchoolUSNews != "")
+      usnews_url_map[url_to_key(simplified_institution.urlSchoolUSNews)] = simplified_institution
+  })
 
-
+  // Create Tri Search Index - Used for searching by institution (prefix type search)
   // eslint-disable-next-line prefer-const
   let startTime = performance.now()
   const trie = new TrieSearch('sortName');
@@ -236,6 +254,7 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
   let endTime = performance.now()
   console.log(`Trie index took ${endTime - startTime} milliseconds.`);
 
+  // Create Wade Index - Has a confidence score, searches for all tokens in name search
   startTime = performance.now()
   const us_news_strings = simplified_institutions.map((school) => {
     const index_words = removeStopwords(school.displayName.split(" ")).join(" ")
@@ -245,32 +264,49 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
   endTime = performance.now()
   console.log(`Wade index took ${endTime - startTime} milliseconds.`);
 
+  // eslint-disable-next-line prefer-const
   const ignore_list = ["university", "college", "state"] // dont search for these terms, they are not very unique
   const tes_school_full_data = []
   const missing_tes_schools = []
   const duplicate_test_schools = []
   for (let i = 0; i < tes_school.length; ++i) {
     const school = tes_school[i];
+    
+    // First to a trie search on just the institution name
     const search_term = clean_name(school.name)
     const us_news_school_matches: SimplifiedInstitution[] = trie.get(search_term)
-    // No Match Found
+    let match:SimplifiedInstitution = null // the matched school we have found in the usnews list
     if (us_news_school_matches.length == 0) {
-      // try and use the school name as a search term use a Wade index
-      // console.log(`Could not find #${i}, ${school.name} in US News using trie index. Searching using Wade index.`)
-      const match = searchWithWadeIndex(school, ignore_list, searchWade, simplified_institutions)
-      if (match != null) {
-        console.log(chalk.green(`Found wade index match. ${school.name}=${match.displayName}, ${school.state_short}=${match.state}`))
-        tes_school_full_data.push(match)
+      // No Match Found
+      // try to search for the using URL hashmap. Urls are unique, so we can use this to find the school
+      const usnews_url_key = url_to_key(school.urlSchoolTE)
+      if (usnews_url_map[usnews_url_key] != undefined) {
+        // console.log(chalk.blue(`Found #${i}, ${school.name} using URL hashmap, ${usnews_url_key}=${usnews_url_map[usnews_url_key]}`))
+        match = usnews_url_map[usnews_url_key]
+        match.foundTE = true
       }
-      else {
+      else
+      {
+        // try and use the school name as a search term use a Wade index
+        // console.log(chalk.yellow(`Could not find #${i}, ${school.name} in US News using trie index. Searching using Wade index.`))
+        match = searchWithWadeIndex(school, ignore_list, searchWade, simplified_institutions)
+        if (match != null)
+        {
+          match.foundTE = true
+          match.suspicious = true // this has a false positive rate of about 10% i would guess
+        }
+      }
+      // output an error if we could not find it
+      if (match == null) {
         console.error(chalk.red(`Could not find #${i}, ${school.name} in US News using wade index.`))
         missing_tes_schools.push(school)
       }
     }
     else {
-      let match = us_news_school_matches[0]
-      // Multiple Matches Found
+      // we found matches with our trie search! but how many...
+      match = us_news_school_matches[0]
       if (us_news_school_matches.length > 1) {
+        // Multiple Matches Found 
         // Reduce by state
         const filtered_schools = us_news_school_matches.filter((match) => match.state == school.state_short)
         if (filtered_schools.length == 1) {
@@ -288,15 +324,19 @@ export function combine_tes_usnews(tes_school: TESchool[], usnews_schools: USNew
           }
         }
       }
-      match.foundTE = true
+    }
+    if (match && match.foundTE)
+    {
       match.nameTE = school.name
       match.stateTE = school.state_short
+      match.urlTE = school.urlTE
+      match.urlSchoolTE = school.urlSchoolTE
       tes_school_full_data.push(match)
     }
 
   }
 
-  return tes_school_full_data
+  return [tes_school_full_data, missing_tes_schools]
 }
 
 

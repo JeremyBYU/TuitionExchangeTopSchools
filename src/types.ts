@@ -303,7 +303,11 @@ export interface SimplifiedInstitution {
   enrollment: number; // searchData.enrollment.rawValue key
   acceptanceRate: number // searchData.acceptanceRate.rawValue
   hsGpaAvg: number // searchData.hsGpaAvg.rawValue
+  urlSchoolUSNews: string; // searchData.urlUSNews key
+  urlUSNews: string;
+  urlSchoolTE: string;
+  urlTE: string;
   nameTE: string; // blank
   stateTE: string; // blank
-
+  suspicious: boolean; // false
 }

@@ -10,6 +10,7 @@ const USNEWS_URL = "https://www.usnews.com/best-colleges/api/search?_sort=school
 const USNEWS_FILE = "data/usnews_schools.json"
 
 const COMBINED_FILE = "data/combined_data.json"
+const MISSING_FILE = "data/missing_tuition_exchange_schools.json"
 
 async function scrape_tes()
 {
@@ -32,9 +33,11 @@ async function scrape_usnews()
 async function combine_data()
 {
   console.log("Starting - Combing data")
-  const data = combine_tes_usnews(JSON.parse(fs.readFileSync(TUITION_EXCHANGE_FILE, 'utf8')), JSON.parse(fs.readFileSync(USNEWS_FILE, 'utf8')))
+  const [data, missing] = combine_tes_usnews(JSON.parse(fs.readFileSync(TUITION_EXCHANGE_FILE, 'utf8')), JSON.parse(fs.readFileSync(USNEWS_FILE, 'utf8')))
   const json = JSON.stringify(data, null, 2)
   writeFile(COMBINED_FILE, json, 'utf8')
+  const json_missing = JSON.stringify(missing, null, 2)
+  writeFile(MISSING_FILE, json_missing, 'utf8')
   console.log(`Finished - Combining Data, saved file in ${COMBINED_FILE}`)
 }
 
