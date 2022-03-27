@@ -16,7 +16,15 @@
     "prettier": "~2.5",
     "rimraf": "~3.0",
     "tsutils": "~3.21",
-    "typescript": "~4.6"
+    "typescript": "~4.6",
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
+    "rollup": "^2.3.4",
+    "rollup-plugin-css-only": "^3.1.0",
+    "rollup-plugin-livereload": "^2.0.0",
+    "rollup-plugin-svelte": "^7.0.0",
+    "rollup-plugin-terser": "^7.0.0",
+    "svelte": "^3.0.0"
   },
   "scripts": {
     "prestart": "npm run build || true",
@@ -24,7 +32,10 @@
     "clean": "rimraf coverage build tmp",
     "build": "tsc -p tsconfig.json",
     "build:watch": "tsc -w -p tsconfig.json",
-    "lint": "eslint . --ext .ts"
+    "lint": "eslint . --ext .ts",
+    "client-build": "rollup -c",
+    "client-dev": "rollup -c -w",
+    "client-start": "sirv public --no-clear"
   },
   "dependencies": {
     "axios": "^0.26.1",
@@ -35,7 +46,8 @@
     "stopword": "^2.0.1",
     "trie-search": "^1.3.6",
     "wade": "^0.3.3",
-    "yargs": "^17.4.0"
+    "yargs": "^17.4.0",
+    "sirv-cli": "^2.0.0"
   },
   "engines": {
     "node": ">= 16.13 <17"
