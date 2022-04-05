@@ -4,7 +4,7 @@ This repository contains data, web scraping code, and analysis code for determin
 
 If you are just interested in the data please see the `data` folder. A website has also been created which is shown in the `public` folder. If you want a real quick highlight here are the top 5 schools in each US News College ranking "categories":
 
-## Running the Program
+## Running the Scraping Program
 
 All code is written in JavaScript/TypeScript. You must have `nodejs` installed and then run `npm install`.
 
@@ -13,6 +13,11 @@ All code is written in JavaScript/TypeScript. You must have `nodejs` installed a
 3. `npm run start combine-data` - This will try to combine match every TE school with a US News school to get ranking information. It will output the data in JSON format to the `data` folder under `data/combined_schools.json`.
 
 
+## Building the Website
+
+A website to view the data has also been created in the `client` and `docs` folders. The website is built using SvelteJS and DataTables.
+
+1. `npm run client-build` - This will build the website and place it in `docs`. 
 
 <!-- US News Ranking
 
@@ -22,3 +27,7 @@ data.items[0].urlName
 data.items[0].primaryKey
 
 https://github.com/kajchang/USNews-College-Scraper -->
+
+
+
+<!-- https://svelte.dev/repl/a4684fe5be9a4c63963bb128c4adf056?version=3.23.2 -->
