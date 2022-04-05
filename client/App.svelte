@@ -12,6 +12,7 @@
       dom: 'Bfrtip',
       orderCellsTop: true,
       data: data_mapped,
+      order: [[3, 'asc']],
       columns: [
         { data: 'displayName', title: 'Name' },
         { data: 'state', title: 'State', width: 70, },
